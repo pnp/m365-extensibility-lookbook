@@ -1,0 +1,8 @@
+{
+    "categories": [
+        {"id": "EXTENDINGCONVERSATIONS", "displayName": "$extendingConversions"},
+        {"id": "MODERNPORTALS", "displayName": "$BuildingPortals"},
+        {"id": "CANVASES", "displayName": "$ExtendingCanvases"},
+        {"id": "SERVICES", "displayName": "$ExtendServices"}
+    ]
+}
