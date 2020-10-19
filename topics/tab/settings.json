@@ -7,163 +7,161 @@
     "preview": "false",
     "visible": "true",
     "metadata": {
-      "displayInfo": {
-          "displayTitle": "Microsoft Teams tab",
-          "shortDescription": "Visible in the gallery listing",          
-          "siteDescriptor": "Embedding Business Solutions to Microsoft Teams",
-          "descriptionParagraphs": [
-              "HTML supported description under the title.",
-              "HTML supported description under the title.",
-              "HTML supported description under the title."
-          ],
-          "previewImages": [
-              {
-                  "type": "fullpage",
-                  "altText": "Charitable site layout",
-                  "url": "./promo-tab.png"
-              },
-              {
-                  "type": "cardpreview",
-                  "altText": "Charitable site preview",
-                  "url": "./card-tab.png"
-              }
-          ],
-          "detailItemCategories": [
-              {
-                  "name": "Scenarios",
-                  "description": "Possible html supported text shown just above the list of links",                  
-                  "items": [
-                      {
-                          "name": "Hero",
-                          "description": "Full width, 4 tiles",
-                          "url": "https://support.office.com/en-us/article/use-the-hero-web-part-d57f449b-19a0-4b0d-8ce3-be5866430645"
-                      },
-                      {
-                          "name": "Text",
-                          "description": "Custom RTE formatting",
-                          "url": "https://support.office.com/en-us/article/add-text-and-tables-to-your-page-with-the-text-web-part-729c0aa1-bc0d-41e3-9cde-c60533f2c801"
-                      },
-                      {
-                          "name": "Button",
-                          "description": "Left alignment",
-                          "url": "https://support.office.com/en-us/article/use-the-button-web-part-d2e37c48-11e8-45b9-8d9e-abdaa97c2a7a"
-                      },
-                      {
-                          "name": "Image",
-                          "description": "",
-                          "url": "https://support.office.com/en-us/article/use-the-image-web-part-a63b335b-ad0a-4954-a65d-33c6af68beb2"
-                      },
-                      {
-                          "name": "Text",
-                          "description": "Custom RTE formatting",
-                          "url": "https://support.office.com/en-us/article/add-text-and-tables-to-your-page-with-the-text-web-part-729c0aa1-bc0d-41e3-9cde-c60533f2c801"
-                      },
-                      {
-                          "name": "Button",
-                          "description": "Center alignment",
-                          "url": "https://support.office.com/en-us/article/use-the-button-web-part-d2e37c48-11e8-45b9-8d9e-abdaa97c2a7a"
-                      },
-                      {
-                          "name": "Hero",
-                          "description": "1 column 1 Layer,  Full width 1 tile",
-                          "url": "https://support.office.com/en-us/article/use-the-hero-web-part-d57f449b-19a0-4b0d-8ce3-be5866430645"
-                      },
-                      {
-                          "name": "News",
-                          "description": "Side-by-side",
-                          "url": "https://support.office.com/en-us/article/use-the-news-web-part-on-a-sharepoint-page-c2dcee50-f5d7-434b-8cb9-a7feefd9f165"
-                      }
-                  ]
-              },
-              {
-                  "name": "Partners",
-                  "description": "Possible html supported text shown just above the list of links",
-                  "items": [
-                      {
-                          "name": "Partner lin",
-                          "url": "https://support.office.com/en-us/article/Change-the-look-of-your-SharePoint-site-06bbadc3-6b04-4a60-9d14-894f6a170818"
-                      },
-                      {
-                          "name": "Section background",
-                          "url": "https://support.office.com/en-us/article/add-sections-and-columns-on-a-sharepoint-modern-page-fc491eb4-f733-4825-8fe2-e1ed80bd0899"
-                      },
-                      {
-                          "name": "Mega Menu",
-                          "url": "https://support.office.com/en-us/article/customize-the-navigation-on-your-sharepoint-site-3cd61ae7-a9ed-4e1e-bf6d-4655f0bf25ca"
-                      },
-                      {
-                          "name": "Compact header",
-                          "url": "https://support.office.com/en-us/article/Change-the-look-of-your-SharePoint-site-06bbadc3-6b04-4a60-9d14-894f6a170818"
-                      },
-                      {
-                          "name": "Header background",
-                          "url": "https://support.office.com/en-us/article/Change-the-look-of-your-SharePoint-site-06bbadc3-6b04-4a60-9d14-894f6a170818"
-                      },
-                      {
-                          "name": "Custom site logo",
-                          "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b",
-                          "badgeText": ""
-                      },
-                      {
-                          "name": "Footer",
-                          "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
-                      }
-                  ]
-              },
-              {
-                  "name": "Samples",
-                  "description": "Possible html supported text shown just above the list of links",
-                  "items": [
-                      {
-                          "name": "Sample name 1 with link to GitHub or to Sample gallery when it's available",
-                          "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
-                      },
-                      {
-                        "name": "Sample name 2 with link to GitHub or to Sample gallery when it's available",
-                          "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
-                      },
-                      {
-                        "name": "Sample name 3 with link to GitHub or to Sample gallery when it's available",
-                          "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
-                      }
-                  ]
-              },
-              {
-                  "name": "Documentation",
-                  "description": "Possible html supported text shown just above the list of links",                  
-                  "items": [
-                      {
-                          "name": "Doc link 1",
-                          "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
-                      },
-                      {
-                        "name": "Doc link 2",
-                          "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
-                      },
-                      {
-                        "name": "Doc link 3",
-                          "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
-                      }
-                  ]
-              },              
-              {
-                  "name": "References",
-                  "description": "Possible html supported text shown just above the list of links",                  
-                  "items": [
-                      {
-                          "name": "Here are some additional references"
-                      },
-                      {
-                        "name": "Rendered as a link if URL exists",
-                        "url": "http://aka.ms/m365pnp"
-                      },
-                      {
-                        "name": "Second additional link",
-                        "url": "http://aka.ms/m365pnp"
-                      }                      
-                  ]
-              }
-          ]
-      }
+      "displayInfo": 
+        {​​
+            "default": {
+                "displayTitle": "Microsoft Teams tab",
+                "shortDescription": "Visible in the gallery listing",          
+                "siteDescriptor": "Embedding Business Solutions to Microsoft Teams",
+                "descriptionParagraphs": [
+                    "HTML supported description under the title.",
+                    "HTML supported description under the title.",
+                    "HTML supported description under the title."
+                ],
+                "previewImages": [
+                    {
+                        "type": "fullpage",
+                        "altText": "Charitable site layout",
+                        "url": "./promo-tab.png"
+                    },
+                    {
+                        "type": "cardpreview",
+                        "altText": "Charitable site preview",
+                        "url": "./card-tab.png"
+                    }
+                ],
+                "detailItemCategories": [
+                    {
+                        "name": "Scenarios",
+                        "description": "Possible html supported text shown just above the list of links",                  
+                        "items": [
+                            {
+                                "name": "Hero",
+                                "url": "https://support.office.com/en-us/article/use-the-hero-web-part-d57f449b-19a0-4b0d-8ce3-be5866430645"
+                            },
+                            {
+                                "name": "Text",
+                                "url": "https://support.office.com/en-us/article/add-text-and-tables-to-your-page-with-the-text-web-part-729c0aa1-bc0d-41e3-9cde-c60533f2c801"
+                            },
+                            {
+                                "name": "Button",
+                                "url": "https://support.office.com/en-us/article/use-the-button-web-part-d2e37c48-11e8-45b9-8d9e-abdaa97c2a7a"
+                            },
+                            {
+                                "name": "Image",
+                                "url": "https://support.office.com/en-us/article/use-the-image-web-part-a63b335b-ad0a-4954-a65d-33c6af68beb2"
+                            },
+                            {
+                                "name": "Text",
+                                "url": "https://support.office.com/en-us/article/add-text-and-tables-to-your-page-with-the-text-web-part-729c0aa1-bc0d-41e3-9cde-c60533f2c801"
+                            },
+                            {
+                                "name": "Button",
+                                "url": "https://support.office.com/en-us/article/use-the-button-web-part-d2e37c48-11e8-45b9-8d9e-abdaa97c2a7a"
+                            },
+                            {
+                                "name": "Hero",
+                                "url": "https://support.office.com/en-us/article/use-the-hero-web-part-d57f449b-19a0-4b0d-8ce3-be5866430645"
+                            },
+                            {
+                                "name": "News",
+                                "url": "https://support.office.com/en-us/article/use-the-news-web-part-on-a-sharepoint-page-c2dcee50-f5d7-434b-8cb9-a7feefd9f165"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Partners",
+                        "description": "Possible html supported text shown just above the list of links",
+                        "items": [
+                            {
+                                "name": "Partner lin",
+                                "url": "https://support.office.com/en-us/article/Change-the-look-of-your-SharePoint-site-06bbadc3-6b04-4a60-9d14-894f6a170818"
+                            },
+                            {
+                                "name": "Section background",
+                                "url": "https://support.office.com/en-us/article/add-sections-and-columns-on-a-sharepoint-modern-page-fc491eb4-f733-4825-8fe2-e1ed80bd0899"
+                            },
+                            {
+                                "name": "Mega Menu",
+                                "url": "https://support.office.com/en-us/article/customize-the-navigation-on-your-sharepoint-site-3cd61ae7-a9ed-4e1e-bf6d-4655f0bf25ca"
+                            },
+                            {
+                                "name": "Compact header",
+                                "url": "https://support.office.com/en-us/article/Change-the-look-of-your-SharePoint-site-06bbadc3-6b04-4a60-9d14-894f6a170818"
+                            },
+                            {
+                                "name": "Header background",
+                                "url": "https://support.office.com/en-us/article/Change-the-look-of-your-SharePoint-site-06bbadc3-6b04-4a60-9d14-894f6a170818"
+                            },
+                            {
+                                "name": "Custom site logo",
+                                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b",
+                                "badgeText": ""
+                            },
+                            {
+                                "name": "Footer",
+                                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Samples",
+                        "description": "Possible html supported text shown just above the list of links",
+                        "items": [
+                            {
+                                "name": "Sample name 1 with link to GitHub or to Sample gallery when it's available",
+                                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
+                            },
+                            {
+                              "name": "Sample name 2 with link to GitHub or to Sample gallery when it's available",
+                                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
+                            },
+                            {
+                              "name": "Sample name 3 with link to GitHub or to Sample gallery when it's available",
+                                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Documentation",
+                        "description": "Possible html supported text shown just above the list of links",                  
+                        "items": [
+                            {
+                                "name": "Doc link 1",
+                                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
+                            },
+                            {
+                              "name": "Doc link 2",
+                                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
+                            },
+                            {
+                              "name": "Doc link 3",
+                                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
+                            }
+                        ]
+                    },              
+                    {
+                        "name": "References",
+                        "description": "Possible html supported text shown just above the list of links",                  
+                        "items": [
+                            {
+                                "name": "Here are some additional references"
+                            },
+                            {
+                              "name": "Rendered as a link if URL exists",
+                              "url": "http://aka.ms/m365pnp"
+                            },
+                            {
+                              "name": "Second additional link",
+                              "url": "http://aka.ms/m365pnp"
+                            }                      
+                        ]
+                    }
+                ]
+            },
+            "fr": {​​
+                "displayTitle": "Microsoft Teams tab"
+            }​​
+        }​​
     }
   }
