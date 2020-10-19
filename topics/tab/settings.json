@@ -36,36 +36,19 @@
                         "description": "Possible html supported text shown just above the list of links",                  
                         "items": [
                             {
-                                "name": "Hero",
-                                "url": "https://support.office.com/en-us/article/use-the-hero-web-part-d57f449b-19a0-4b0d-8ce3-be5866430645"
+                                "name": "Scenario 1 with a long time explaining what the scenario is all about",
+                                "description": "Potential description on top of the scenario title",
+                                "url": "https://www.bing.com"
                             },
                             {
-                                "name": "Text",
-                                "url": "https://support.office.com/en-us/article/add-text-and-tables-to-your-page-with-the-text-web-part-729c0aa1-bc0d-41e3-9cde-c60533f2c801"
+                                "name": "Scenario 2 with a long time explaining what the scenario is all about",
+                                "description": "Potential description on top of the scenario title",
+                                "url": "https://www.bing.com"
                             },
                             {
-                                "name": "Button",
-                                "url": "https://support.office.com/en-us/article/use-the-button-web-part-d2e37c48-11e8-45b9-8d9e-abdaa97c2a7a"
-                            },
-                            {
-                                "name": "Image",
-                                "url": "https://support.office.com/en-us/article/use-the-image-web-part-a63b335b-ad0a-4954-a65d-33c6af68beb2"
-                            },
-                            {
-                                "name": "Text",
-                                "url": "https://support.office.com/en-us/article/add-text-and-tables-to-your-page-with-the-text-web-part-729c0aa1-bc0d-41e3-9cde-c60533f2c801"
-                            },
-                            {
-                                "name": "Button",
-                                "url": "https://support.office.com/en-us/article/use-the-button-web-part-d2e37c48-11e8-45b9-8d9e-abdaa97c2a7a"
-                            },
-                            {
-                                "name": "Hero",
-                                "url": "https://support.office.com/en-us/article/use-the-hero-web-part-d57f449b-19a0-4b0d-8ce3-be5866430645"
-                            },
-                            {
-                                "name": "News",
-                                "url": "https://support.office.com/en-us/article/use-the-news-web-part-on-a-sharepoint-page-c2dcee50-f5d7-434b-8cb9-a7feefd9f165"
+                                "name": "Scenario 3 with a long time explaining what the scenario is all about",
+                                "description": "Potential description on top of the scenario title",
+                                "url": "https://www.bing.com"
                             }
                         ]
                     },
@@ -74,33 +57,39 @@
                         "description": "Possible html supported text shown just above the list of links",
                         "items": [
                             {
-                                "name": "Partner lin",
-                                "url": "https://support.office.com/en-us/article/Change-the-look-of-your-SharePoint-site-06bbadc3-6b04-4a60-9d14-894f6a170818"
+                                "name": "Partner 1 name",
+                                "description": "Potential description for the partner reference",
+                                "url": "https://www.bing.com"
                             },
                             {
-                                "name": "Section background",
-                                "url": "https://support.office.com/en-us/article/add-sections-and-columns-on-a-sharepoint-modern-page-fc491eb4-f733-4825-8fe2-e1ed80bd0899"
+                                "name": "Partner 1 name",
+                                "description": "Potential description for the partner reference",
+                                "url": "https://www.bing.com"
                             },
                             {
-                                "name": "Mega Menu",
-                                "url": "https://support.office.com/en-us/article/customize-the-navigation-on-your-sharepoint-site-3cd61ae7-a9ed-4e1e-bf6d-4655f0bf25ca"
+                                "name": "Partner 1 name",
+                                "description": "Potential description for the partner reference",
+                                "url": "https://www.bing.com"
                             },
                             {
-                                "name": "Compact header",
-                                "url": "https://support.office.com/en-us/article/Change-the-look-of-your-SharePoint-site-06bbadc3-6b04-4a60-9d14-894f6a170818"
+                                "name": "Partner 1 name",
+                                "description": "Potential description for the partner reference",
+                                "url": "https://www.bing.com"
                             },
                             {
-                                "name": "Header background",
-                                "url": "https://support.office.com/en-us/article/Change-the-look-of-your-SharePoint-site-06bbadc3-6b04-4a60-9d14-894f6a170818"
+                                "name": "Partner 1 name",
+                                "description": "Potential description for the partner reference",
+                                "url": "https://www.bing.com"
                             },
                             {
-                                "name": "Custom site logo",
-                                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b",
-                                "badgeText": ""
+                                "name": "Partner 1 name",
+                                "description": "Potential description for the partner reference",
+                                "url": "https://www.bing.com"
                             },
                             {
-                                "name": "Footer",
-                                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
+                                "name": "Partner 1 name",
+                                "description": "Potential description for the partner reference",
+                                "url": "https://www.bing.com"
                             }
                         ]
                     },
@@ -110,15 +99,18 @@
                         "items": [
                             {
                                 "name": "Sample name 1 with link to GitHub or to Sample gallery when it's available",
+                                "description": "Potential description for the sample reference",
                                 "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
                             },
                             {
                               "name": "Sample name 2 with link to GitHub or to Sample gallery when it's available",
-                                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
+                              "description": "Potential description for the sample reference",
+                              "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
                             },
                             {
                               "name": "Sample name 3 with link to GitHub or to Sample gallery when it's available",
-                                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
+                              "description": "Potential description for the sample reference",
+                              "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
                             }
                         ]
                     },
@@ -128,15 +120,18 @@
                         "items": [
                             {
                                 "name": "Doc link 1",
+                                "description": "Potential description for the doc link",
                                 "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
                             },
                             {
                               "name": "Doc link 2",
-                                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
+                              "description": "Potential description for the doc link",
+                              "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
                             },
                             {
                               "name": "Doc link 3",
-                                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
+                              "description": "Potential description for the doc link",
+                              "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
                             }
                         ]
                     },              
@@ -145,7 +140,7 @@
                         "description": "Possible html supported text shown just above the list of links",                  
                         "items": [
                             {
-                                "name": "Here are some additional references"
+                              "name": "Here are some additional references"
                             },
                             {
                               "name": "Rendered as a link if URL exists",
