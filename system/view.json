@@ -1,0 +1,156 @@
+{
+    "views": [
+        {
+            "id": "PRODUCT",
+            "headerImage": "assets/product.png",
+            "displayInfo": {
+                "default": {
+                    "displayName": "Product View",
+                    "description": "Potential description for view - Product"
+                },
+                "fi": {
+                    "displayName": "Tuote",
+                    "description": "Mahdollinen kuvaus"
+                }
+            },
+            "categories": [
+                {
+                    "id": "MICROSOFTTEAMS",
+                    "displayInfo": {
+                        "default": {
+                            "displayName": "Microsoft Teams",
+                            "description": "Microsoft Teams is the hub for teamwork in Microsoft 365."
+                        },
+                        "fi": {
+                            "displayName": "Microsoft Teams",
+                            "description": "Potential description for category in specific language"
+                        }
+                    }
+                },
+                {
+                    "id": "SHAREPOINT",
+                    "displayInfo": {
+                        "default": {
+                            "displayName": "SharePoint",
+                            "description": "Microsoft SharePoint is a web-based platform used for sharing files and information. It is designed for teams and provides collaboration features, such as project management, messaging, and shared document storage."
+                        },
+                        "fi": {
+                            "displayName": "SharePoint",
+                            "description": "Potential description for category in specific language"
+                        }
+                    }
+                },
+                {
+                    "id": "ONEDRIVE",
+                    "displayInfo": {
+                        "default": {
+                            "displayName": "OneDrive",
+                            "description": "OneDrive is the Microsoft cloud service that connects you to all your files. It lets you store and protect your files, share them with others, and get to them from anywhere on all your devices."
+                        },
+                        "fi": {
+                            "displayName": "OneDrive",
+                            "description": "Potential description for category in specific language"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "FEATURES",
+            "headerImage": "assets/features.png",
+            "displayInfo": {
+                "default": {
+                    "displayName": "Features and capabilities",
+                    "description": "Potential description for view - Features and capabilities"
+                },
+                "fi": {
+                    "displayName": "Toiminnallisuudet",
+                    "description": "Mahdollinen kuvaus"
+                }
+            },
+            "categories": [
+                {
+                    "id": "EXTENDINGCONVERSATIONS",
+                    "displayInfo": {
+                        "default": {
+                            "displayName": "Extending Conversations",
+                            "description": "Potential description for category"
+                        },
+                        "fi": {
+                            "displayName": "Laajanna keskusteluita",
+                            "description": "Potential description for category"
+                        }
+                    }
+                },
+                {
+                    "id": "MODERNPORTALS",
+                    "displayInfo": {
+                        "default": {
+                            "displayName": "Building Portals",
+                            "description": "Potential description for category"
+                        },
+                        "fi": {
+                            "displayName": "Portaalien rakentaminen",
+                            "description": "Potential description for category"
+                        }
+                    }
+                },
+                {
+                    "id": "CANVASES",
+                    "displayInfo": {
+                        "default": {
+                            "displayName": "Extending Canvases",
+                            "description": "Potential description for category"
+                        },
+                        "fi": {
+                            "displayName": "Kankaiden laajentaminen",
+                            "description": "Potential description for category"
+                        }
+                    }
+                },
+                {
+                    "id": "SERVICES",
+                    "displayInfo": {
+                        "default": {
+                            "displayName": "Extend Services",
+                            "description": "Potential description for category"
+                        },
+                        "fi": {
+                            "displayName": "Laajenna palveluja",
+                            "description": "Potential description for category"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "SCENARIOS",
+            "headerImage": "assets/scenarios.png",
+            "displayInfo": {
+                "default": {
+                    "displayName": "Scenarios",
+                    "description": "Potential description for view - Scenarios"
+                },
+                "fi": {
+                    "displayName": "Skenaariot",
+                    "description": "Erilaiset yritys skenaariot"
+                }
+            },
+            "categories": [
+                {
+                    "id": "MEDASHBOARD",
+                    "displayInfo": {
+                        "default": {
+                            "displayName": "Me dashboard",
+                            "description": "Personal dashboard"
+                        },
+                        "fi": {
+                            "displayName": "Henkilökohtainen porttaali",
+                            "description": "Potential description for category"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
