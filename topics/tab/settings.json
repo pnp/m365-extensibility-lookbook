@@ -1,7 +1,9 @@
 {
     "templateId": "extensibility-canvas-tab", 	
     "categories": [
-      "CANVASES"
+      "CANVASES",
+      "MICROSOFTTEAMS",
+      "MEDASHBOARD"
     ],
     "sortOrder": 300,
     "preview": "false",
