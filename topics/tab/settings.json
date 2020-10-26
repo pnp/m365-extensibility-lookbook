@@ -1,200 +1,200 @@
 {
-    "templateId": "extensibility-canvas-tab", 	
-    "categories": [
-      "CANVASES",
-      "MICROSOFTTEAMS",
-      "MEDASHBOARD"
-    ],
-    "sortOrder": 300,
-    "preview": "false",
-    "visible": "true",
-    "metadata": {
-      "displayInfo": 
-        {​​
-            "default": {
-                "displayTitle": "Microsoft Teams tab",
-                "shortDescription": "Visible in the gallery listing",          
-                "siteDescriptor": "Embedding Business Solutions to Microsoft Teams",
-                "descriptionParagraphs": [
-                    "HTML supported description under the title.",
-                    "HTML supported description under the title.",
-                    "HTML supported description under the title."
-                ],
-                "mediaAssets": [
-                    {
-                      "type": "image",
-                      "order": 100,
-                      "url": "./promo-tab.png",
-                      "alt": "Alt text for the image"
-                    },
-                    {
-                      "type": "video",
-                      "order": 101,
-                      "url": "https://youtube.com/embed/3120470",
-                      "alt": "Alt text for the video"
-                    },
-                    {
-                      "type": "slideshow",
-                      "order": 102,
-                      "alt": "Alt text for the image",
-                      "slides": [
-                        {
-                          "url": "./slide1.png",
-                          "order": "10",
-                          "alt": "Alt text for a slide"
-                        },
-                        {
-                          "url": "./slide2.png",
-                          "order": "20",
-                          "alt": "Alt text for a slide"
-                        },
-                        {
-                          "url": "./slide3.png",
-                          "order": "30",
-                          "alt": "Alt text for a slide"
-                        }                        
-                      ]
-                    }
-                ],
-                "previewImages": [
-                    {
-                        "type": "fullpage",
-                        "altText": "Charitable site layout",
-                        "url": "./promo-tab.png"
-                    },
-                    {
-                        "type": "cardpreview",
-                        "altText": "Charitable site preview",
-                        "url": "./card-tab.png"
-                    }
-                ],
-                "detailItemCategories": [
-                    {
-                        "name": "Scenarios",
-                        "description": "Possible html supported text shown just above the list of links",                  
-                        "items": [
-                            {
-                                "name": "Scenario 1 with a long time explaining what the scenario is all about",
-                                "description": "Potential description on top of the scenario title",
-                                "url": "https://www.bing.com"
-                            },
-                            {
-                                "name": "Scenario 2 with a long time explaining what the scenario is all about",
-                                "description": "Potential description on top of the scenario title",
-                                "url": "https://www.bing.com"
-                            },
-                            {
-                                "name": "Scenario 3 with a long time explaining what the scenario is all about",
-                                "description": "Potential description on top of the scenario title",
-                                "url": "https://www.bing.com"
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Partners",
-                        "description": "Possible html supported text shown just above the list of links",
-                        "items": [
-                            {
-                                "name": "Partner 1 name",
-                                "description": "Potential description for the partner reference",
-                                "url": "https://www.bing.com"
-                            },
-                            {
-                                "name": "Partner 1 name",
-                                "description": "Potential description for the partner reference",
-                                "url": "https://www.bing.com"
-                            },
-                            {
-                                "name": "Partner 1 name",
-                                "description": "Potential description for the partner reference",
-                                "url": "https://www.bing.com"
-                            },
-                            {
-                                "name": "Partner 1 name",
-                                "description": "Potential description for the partner reference",
-                                "url": "https://www.bing.com"
-                            },
-                            {
-                                "name": "Partner 1 name",
-                                "description": "Potential description for the partner reference",
-                                "url": "https://www.bing.com"
-                            },
-                            {
-                                "name": "Partner 1 name",
-                                "description": "Potential description for the partner reference",
-                                "url": "https://www.bing.com"
-                            },
-                            {
-                                "name": "Partner 1 name",
-                                "description": "Potential description for the partner reference",
-                                "url": "https://www.bing.com"
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Samples",
-                        "description": "Possible html supported text shown just above the list of links",
-                        "items": [
-                            {
-                                "name": "Sample name 1 with link to GitHub or to Sample gallery when it's available",
-                                "description": "Potential description for the sample reference",
-                                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
-                            },
-                            {
-                              "name": "Sample name 2 with link to GitHub or to Sample gallery when it's available",
-                              "description": "Potential description for the sample reference",
-                              "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
-                            },
-                            {
-                              "name": "Sample name 3 with link to GitHub or to Sample gallery when it's available",
-                              "description": "Potential description for the sample reference",
-                              "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Documentation",
-                        "description": "Possible html supported text shown just above the list of links",                  
-                        "items": [
-                            {
-                                "name": "Doc link 1",
-                                "description": "Potential description for the doc link",
-                                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
-                            },
-                            {
-                              "name": "Doc link 2",
-                              "description": "Potential description for the doc link",
-                              "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
-                            },
-                            {
-                              "name": "Doc link 3",
-                              "description": "Potential description for the doc link",
-                              "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
-                            }
-                        ]
-                    },              
-                    {
-                        "name": "References",
-                        "description": "Possible html supported text shown just above the list of links",                  
-                        "items": [
-                            {
-                              "name": "Here are some additional references"
-                            },
-                            {
-                              "name": "Rendered as a link if URL exists",
-                              "url": "http://aka.ms/m365pnp"
-                            },
-                            {
-                              "name": "Second additional link",
-                              "url": "http://aka.ms/m365pnp"
-                            }                      
-                        ]
-                    }
-                ]
-            },
-            "fr": {
-                "displayTitle": "Microsoft Teams tab"
-            }
-        }
+  "templateId": "extensibility-canvas-tab",
+  "categories": [
+    "CANVASES",
+    "MICROSOFTTEAMS",
+    "MEDASHBOARD"
+  ],
+  "sortOrder": 300,
+  "preview": "false",
+  "visible": "true",
+  "metadata": {
+    "displayInfo": {
+      "​​": null,
+      "default": {
+        "displayTitle": "Microsoft Teams tab",
+        "shortDescription": "Visible in the gallery listing",
+        "siteDescriptor": "Embedding Business Solutions to Microsoft Teams",
+        "descriptionParagraphs": [
+          "HTML supported description under the title.",
+          "HTML supported description under the title.",
+          "HTML supported description under the title."
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 100,
+            "url": "./promo-tab.png",
+            "alt": "Alt text for the image"
+          },
+          {
+            "type": "video",
+            "order": 101,
+            "url": "https://youtube.com/embed/3120470",
+            "alt": "Alt text for the video"
+          },
+          {
+            "type": "slideshow",
+            "order": 102,
+            "alt": "Alt text for the image",
+            "slides": [
+              {
+                "url": "./slide1.png",
+                "order": "10",
+                "alt": "Alt text for a slide"
+              },
+              {
+                "url": "./slide2.png",
+                "order": "20",
+                "alt": "Alt text for a slide"
+              },
+              {
+                "url": "./slide3.png",
+                "order": "30",
+                "alt": "Alt text for a slide"
+              }
+            ]
+          }
+        ],
+        "previewImages": [
+          {
+            "type": "fullpage",
+            "altText": "Charitable site layout",
+            "url": "./promo-tab.png"
+          },
+          {
+            "type": "cardpreview",
+            "altText": "Charitable site preview",
+            "url": "./card-tab.png"
+          }
+        ],
+        "detailItemCategories": [
+          {
+            "name": "Scenarios",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": [
+              {
+                "name": "Scenario 1 with a long time explaining what the scenario is all about",
+                "description": "Potential description on top of the scenario title",
+                "url": "https://www.bing.com"
+              },
+              {
+                "name": "Scenario 2 with a long time explaining what the scenario is all about",
+                "description": "Potential description on top of the scenario title",
+                "url": "https://www.bing.com"
+              },
+              {
+                "name": "Scenario 3 with a long time explaining what the scenario is all about",
+                "description": "Potential description on top of the scenario title",
+                "url": "https://www.bing.com"
+              }
+            ]
+          },
+          {
+            "name": "Partners",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": [
+              {
+                "name": "Partner 1 name",
+                "description": "Potential description for the partner reference",
+                "url": "https://www.bing.com"
+              },
+              {
+                "name": "Partner 1 name",
+                "description": "Potential description for the partner reference",
+                "url": "https://www.bing.com"
+              },
+              {
+                "name": "Partner 1 name",
+                "description": "Potential description for the partner reference",
+                "url": "https://www.bing.com"
+              },
+              {
+                "name": "Partner 1 name",
+                "description": "Potential description for the partner reference",
+                "url": "https://www.bing.com"
+              },
+              {
+                "name": "Partner 1 name",
+                "description": "Potential description for the partner reference",
+                "url": "https://www.bing.com"
+              },
+              {
+                "name": "Partner 1 name",
+                "description": "Potential description for the partner reference",
+                "url": "https://www.bing.com"
+              },
+              {
+                "name": "Partner 1 name",
+                "description": "Potential description for the partner reference",
+                "url": "https://www.bing.com"
+              }
+            ]
+          },
+          {
+            "name": "Samples",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": [
+              {
+                "name": "Sample name 1 with link to GitHub or to Sample gallery when it's available",
+                "description": "Potential description for the sample reference",
+                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
+              },
+              {
+                "name": "Sample name 2 with link to GitHub or to Sample gallery when it's available",
+                "description": "Potential description for the sample reference",
+                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
+              },
+              {
+                "name": "Sample name 3 with link to GitHub or to Sample gallery when it's available",
+                "description": "Potential description for the sample reference",
+                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
+              }
+            ]
+          },
+          {
+            "name": "Documentation",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": [
+              {
+                "name": "Doc link 1",
+                "description": "Potential description for the doc link",
+                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
+              },
+              {
+                "name": "Doc link 2",
+                "description": "Potential description for the doc link",
+                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
+              },
+              {
+                "name": "Doc link 3",
+                "description": "Potential description for the doc link",
+                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
+              }
+            ]
+          },
+          {
+            "name": "References",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": [
+              {
+                "name": "Here are some additional references"
+              },
+              {
+                "name": "Rendered as a link if URL exists",
+                "url": "http://aka.ms/m365pnp"
+              },
+              {
+                "name": "Second additional link",
+                "url": "http://aka.ms/m365pnp"
+              }
+            ]
+          }
+        ]
+      },
+      "fr": {
+        "displayTitle": "Microsoft Teams tab"
+      }
     }
   }
+}
