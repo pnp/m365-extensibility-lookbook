@@ -20,6 +20,42 @@
                     "HTML supported description under the title.",
                     "HTML supported description under the title."
                 ],
+                "mediaAssets": [
+                    {
+                      "type": "image",
+                      "order": 100,
+                      "url": "./promo-tab.png",
+                      "alt": "Alt text for the image"
+                    },
+                    {
+                      "type": "video",
+                      "order": 101,
+                      "url": "https://youtube.com/embed/3120470",
+                      "alt": "Alt text for the video"
+                    },
+                    {
+                      "type": "slideshow",
+                      "order": 102,
+                      "alt": "Alt text for the image",
+                      "slides": [
+                        {
+                          "url": "./slide1.png",
+                          "order": "10",
+                          "alt": "Alt text for a slide"
+                        },
+                        {
+                          "url": "./slide2.png",
+                          "order": "20",
+                          "alt": "Alt text for a slide"
+                        },
+                        {
+                          "url": "./slide3.png",
+                          "order": "30",
+                          "alt": "Alt text for a slide"
+                        }                        
+                      ]
+                    }
+                ],
                 "previewImages": [
                     {
                         "type": "fullpage",
