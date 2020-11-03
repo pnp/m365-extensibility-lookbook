@@ -1,9 +1,7 @@
 {
-  "itemId": "extensibility-canvas-tab",
+  "itemId": "scenario-processional-services-time-expense",
   "categories": [
-    "CANVASES",
-    "MICROSOFTTEAMS",
-    "MEDASHBOARD"
+     "PROFESSIONALSERVICES"
   ],
   "sortOrder": 300,
   "preview": "false",
@@ -11,47 +9,64 @@
   "metadata": {
     "displayInfo": {
       "default": {
-        "displayTitle": "Microsoft Teams tabs",
-        "shortDescription": "Create embedded web experiences",
-        "siteDescriptor": "Embedding Business Solutions to Microsoft Teams",
+        "displayTitle": "Time & Expense Submission",
+        "shortDescription": "Time and Expense tracking",
+        "siteDescriptor": "Surfacing services for internal and external processionals",
         "descriptionParagraphs": [
-          "Tabs are Microsoft Teams-aware webpages embedded in Microsoft Teams. They can be added as part of a channel or a group chat inside a team or as a personal app for an individual user.",
-          "As part of your app, you can add custom tabs to embed your own web content in Teams.",
-          "Microsoft Teams tabs can be build in numerous different ways using different technologies."
+          "Babak, an employee at Contoso Consulting Services works with multiple clients and juggles various projects both internal and client facing in a typical week",
+          "Contoso Consulting’s org policy states that all Consultants must submit the hours logged for each client project and expenses incurred in a weekly manner. Missing Time & expense submission is a compliance issue and needs to be closely monitored"
         ],
         "mediaAssets": [
           {
             "type": "image",
             "order": 100,
-            "url": "/assets/promo-tab.png",
-            "alt": "Alt text for the image"
-          },
-          {
-            "type": "video",
-            "order": 101,
-            "url": "https://youtube.com/embed/3120470",
-            "alt": "Alt text for the video"
+            "url": "/assets/Slide4.png",
+            "alt": "Scenario description"
           },
           {
             "type": "slideshow",
             "order": 102,
             "alt": "Alt text for the image",
             "slides": [
-              {
-                "url": "/assets/slide1.png",
-                "order": "10",
-                "alt": "Alt text for a slide"
-              },
-              {
-                "url": "/assets/slide2.png",
-                "order": "20",
-                "alt": "Alt text for a slide"
-              },
-              {
-                "url": "/assets/slide3.png",
-                "order": "30",
-                "alt": "Alt text for a slide"
-              }
+              { "url": "/assets/slide4.png","order": "10", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide5.png","order": "20", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide6.png","order": "30", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide7.png","order": "40", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide8.png","order": "50", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide9.png","order": "60", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide10.png","order": "70", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide11.png","order": "80", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide12.png","order": "90", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide13.png","order": "100", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide14.png","order": "110", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide15.png","order": "120", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide16.png","order": "130", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide17.png","order": "140", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide18.png","order": "150", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide19.png","order": "160", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide20.png","order": "170", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide21.png","order": "180", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide22.png","order": "190", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide23.png","order": "200", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide24.png","order": "210", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide25.png","order": "220", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide26.png","order": "230", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide27.png","order": "240", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide28.png","order": "250", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide29.png","order": "260", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide30.png","order": "270", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide31.png","order": "280", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide32.png","order": "290", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide33.png","order": "300", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide34.png","order": "310", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide35.png","order": "320", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide36.png","order": "330", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide37.png","order": "340", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide38.png","order": "350", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide39.png","order": "360", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide40.png","order": "370", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide41.png","order": "380", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide42.png","order": "390", "alt": "Alt text for a slide"}              
             ]
           }
         ],
@@ -69,21 +84,21 @@
         ],
         "detailItemCategories": [
           {
-            "name": "Scenarios",
+            "name": "Technology",
             "description": "Possible html supported text shown just above the list of links",
             "items": [
               {
-                "name": "Scenario 1 with a long time explaining what the scenario is all about",
+                "name": "Technology 1 with a long time explaining what the scenario is all about",
                 "description": "Potential description on top of the scenario title",
                 "url": "https://www.bing.com"
               },
               {
-                "name": "Scenario 2 with a long time explaining what the scenario is all about",
+                "name": "Technology 2 with a long time explaining what the scenario is all about",
                 "description": "Potential description on top of the scenario title",
                 "url": "https://www.bing.com"
               },
               {
-                "name": "Scenario 3 with a long time explaining what the scenario is all about",
+                "name": "Technology 3 with a long time explaining what the scenario is all about",
                 "description": "Potential description on top of the scenario title",
                 "url": "https://www.bing.com"
               }

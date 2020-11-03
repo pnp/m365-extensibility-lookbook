@@ -1,9 +1,7 @@
 {
-  "itemId": "extensibility-canvas-tab",
+  "itemId": "extensibility-bot",
   "categories": [
-    "CANVASES",
-    "MICROSOFTTEAMS",
-    "MEDASHBOARD"
+    "MICROSOFTTEAMS"
   ],
   "sortOrder": 300,
   "preview": "false",
@@ -11,13 +9,13 @@
   "metadata": {
     "displayInfo": {
       "default": {
-        "displayTitle": "Microsoft Teams tabs",
-        "shortDescription": "Create embedded web experiences",
+        "displayTitle": "Microsoft Teams bots",
+        "shortDescription": "Create interactive conversational bots",
         "siteDescriptor": "Embedding Business Solutions to Microsoft Teams",
         "descriptionParagraphs": [
-          "Tabs are Microsoft Teams-aware webpages embedded in Microsoft Teams. They can be added as part of a channel or a group chat inside a team or as a personal app for an individual user.",
-          "As part of your app, you can add custom tabs to embed your own web content in Teams.",
-          "Microsoft Teams tabs can be build in numerous different ways using different technologies."
+          "Conversational bots allow users to interact with your web service through text, interactive cards, and task modules.",
+          "Conversational bots can be scoped to handling a few simple commands or complex, artificial intelligence powered and natural language processing virtual assistants.",
+          "They can be one aspect of a larger application, or completely stand alone."
         ],
         "mediaAssets": [
           {
@@ -31,28 +29,6 @@
             "order": 101,
             "url": "https://youtube.com/embed/3120470",
             "alt": "Alt text for the video"
-          },
-          {
-            "type": "slideshow",
-            "order": 102,
-            "alt": "Alt text for the image",
-            "slides": [
-              {
-                "url": "/assets/slide1.png",
-                "order": "10",
-                "alt": "Alt text for a slide"
-              },
-              {
-                "url": "/assets/slide2.png",
-                "order": "20",
-                "alt": "Alt text for a slide"
-              },
-              {
-                "url": "/assets/slide3.png",
-                "order": "30",
-                "alt": "Alt text for a slide"
-              }
-            ]
           }
         ],
         "previewImages": [
@@ -153,28 +129,23 @@
           },
           {
             "name": "Documentation",
-            "description": "Here are the key resources around getting started on building Microsoft Teams tabs",
+            "description": "Here are the key resources around getting started on building Microsoft Teams bots",
             "items": [
               {
-                "name": "What are Microsoft Teams custom tabs?",
+                "name": "Build a bot for Microsoft Teams",
                 "description": "Potential description for the doc link",
-                "url": "https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/what-are-tabs"
+                "url": "https://docs.microsoft.com/en-us/microsoftteams/platform/build-your-first-app/build-bot"
+              },              
+              {
+                "name": "What are conversational bots?",
+                "description": "Potential description for the doc link",
+                "url": "https://docs.microsoft.com/en-us/microsoftteams/platform/bots/what-are-bots"
               },
               {
-                "name": "Learning path: Create embedded web experiences with tabs for Microsoft Teams",
+                "name": "Start talking with bots",
                 "description": "Potential description for the doc link",
-                "url": "https://docs.microsoft.com/en-gb/learn/modules/embedded-web-experiences/"
-              },
-              {
-                "name": "Quick start: Build and run your first Microsoft Teams app",
-                "description": "Potential description for the doc link",
-                "url": "https://docs.microsoft.com/en-us/microsoftteams/platform/build-your-first-app/build-and-run"
-              },
-              {
-                "name": "Building Microsoft Teams tabs using SharePoint Framework",
-                "description": "You can build Microsoft Teams tabs also using SharePoint Framework with automated solution hosting.",
-                "url": "https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/using-web-part-as-ms-teams-tab"
-              }              
+                "url": "https://docs.microsoft.com/en-us/microsoftteams/platform/bots/design/bots"
+              }           
             ]
           },
           {

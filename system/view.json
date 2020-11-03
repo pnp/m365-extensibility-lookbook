@@ -149,6 +149,19 @@
                             "description": "Potential description for category"
                         }
                     }
+                },
+                {
+                    "id": "PROFESSIONALSERVICES",
+                    "displayInfo": {
+                        "default": {
+                            "displayName": "Professional Services",
+                            "description": "Professional Services description for category"
+                        },
+                        "fi": {
+                            "displayName": "Ei mitään hajua",
+                            "description": "Potential description for category"
+                        }
+                    }
                 }
             ]
         }
