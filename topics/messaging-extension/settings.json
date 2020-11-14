@@ -11,9 +11,8 @@
       "default": {
         "displayTitle": "Messaging extensions",
         "shortDescription": "Task-oriented interactions in Microsoft Teams",
-        "siteDescriptor": "Task-oriented interactions in Microsoft Teams",
-        "cardPictureUrl": "/assets/card-tab.png", 
-        "cardPictureAlt": "Tab", 
+        "cardPictureUrl": "/assets/card-webpart.png", 
+        "cardPictureAlt": "Messaging Extensions", 
         "descriptionParagraphs": [
           "Users can interact with your Microsoft Teams apps though buttons and forms in the Microsoft Teams client.",
           "Messaging extensions enable users to execute search queries or trigger actions in external systems.",

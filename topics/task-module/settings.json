@@ -11,7 +11,8 @@
       "default": {
         "displayTitle": "Task modules",
         "shortDescription": "Collect input with Microsoft Teams",
-        "siteDescriptor": "Collect input with Microsoft Teams",
+        "cardPictureUrl": "/assets/card-webpart.png", 
+        "cardPictureAlt": "Task Modules", 
         "descriptionParagraphs": [
           "Task modules are modals that you can populate with either an Adaptive Card or an embedded web/content page for use in your custom Microsoft Teams app’s user experience for workflows that require data input.",
           "Task modules allow you to gather information in a Teams-aware popup."

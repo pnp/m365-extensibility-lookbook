@@ -11,7 +11,8 @@
       "default": {
         "displayTitle": "Document Management",
         "shortDescription": "Collaboration on the documents in Teams",
-        "siteDescriptor": "Discovering existing investments and reducing time",
+        "cardPictureUrl": "/assets/card-webpart.png", 
+        "cardPictureAlt": "Document Management", 
         "descriptionParagraphs": [
           "Daniela, a manager at Contoso Consulting Services is responsible for creating proposals and pitch decks for initial customer conversations. Her responsibilities include creating pitch decks for her industry customers and winning opportunities for her team.",
           "As Daniela is new to the industry and team, she is interested to get a view of the existing assets and materials that Contoso has that she can leverage to get moving fast. "

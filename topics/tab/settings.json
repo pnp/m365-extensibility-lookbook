@@ -13,7 +13,8 @@
       "default": {
         "displayTitle": "Microsoft Teams tabs",
         "shortDescription": "Create embedded web experiences",
-        "siteDescriptor": "Embedding Business Solutions to Microsoft Teams",
+        "cardPictureUrl": "/assets/card-webpart.png", 
+        "cardPictureAlt": "Microsoft Teams tabs", 
         "descriptionParagraphs": [
           "Tabs are Microsoft Teams-aware webpages embedded in Microsoft Teams. They can be added as part of a channel or a group chat inside a team or as a personal app for an individual user.",
           "As part of your app, you can add custom tabs to embed your own web content in Teams.",

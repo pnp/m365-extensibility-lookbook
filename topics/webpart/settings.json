@@ -11,7 +11,8 @@
       "default": {
         "displayTitle": "Web Parts",
         "shortDescription": "Building blocks for SharePoint experiences",
-        "siteDescriptor": "Building blocks for SharePoint experiences",
+        "cardPictureUrl": "/assets/card-webpart.png", 
+        "cardPictureAlt": "Web Parts", 
         "descriptionParagraphs": [
           "SharePoint client-side web parts are controls that appear inside a SharePoint page and execute client-side in the browser. They're the building blocks of pages that appear on a SharePoint site.",
           "You can build client-side web parts using modern client-side development tools and the SharePoint workbench (a development test surface). You can deploy your client-side web parts to both modern pages and classic web part pages in Microsoft 365 tenants.",

@@ -11,7 +11,8 @@
       "default": {
         "displayTitle": "Microsoft Teams bots",
         "shortDescription": "Create interactive conversational bots",
-        "siteDescriptor": "Embedding Business Solutions to Microsoft Teams",
+        "cardPictureUrl": "/assets/card-webpart.png", 
+        "cardPictureAlt": "Bot", 
         "descriptionParagraphs": [
           "Conversational bots allow users to interact with your web service through text, interactive cards, and task modules.",
           "Conversational bots can be scoped to handling a few simple commands or complex, artificial intelligence powered and natural language processing virtual assistants.",

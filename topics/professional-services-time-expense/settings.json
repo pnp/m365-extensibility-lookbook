@@ -11,7 +11,8 @@
       "default": {
         "displayTitle": "Time & Expense Submission",
         "shortDescription": "Time and Expense tracking",
-        "siteDescriptor": "Surfacing services for internal and external processionals",
+        "cardPictureUrl": "/assets/card-webpart.png", 
+        "cardPictureAlt": "Time & Expense Submission", 
         "descriptionParagraphs": [
           "Babak, an employee at Contoso Consulting Services works with multiple clients and juggles various projects both internal and client facing in a typical week",
           "Contoso Consulting’s org policy states that all Consultants must submit the hours logged for each client project and expenses incurred in a weekly manner. Missing Time & expense submission is a compliance issue and needs to be closely monitored"

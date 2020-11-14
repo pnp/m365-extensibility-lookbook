@@ -11,7 +11,8 @@
       "default": {
         "displayTitle": "SharePoint Framework Extensions",
         "shortDescription": "Adding extensibility to modern portals",
-        "siteDescriptor": "Using SharePoint Framework Extensions to embed custom capabilities",
+        "cardPictureUrl": "/assets/card-webpart.png", 
+        "cardPictureAlt": "SharePoint Framework Extensions", 
         "descriptionParagraphs": [
           "You can use SharePoint Framework (SPFx) Extensions to extend the SharePoint user experience. With SPFx Extensions, you can customize more facets of the SharePoint experience, including notification areas, toolbars, and list data views. SPFx Extensions are available in all Microsoft 365 subscriptions for production usage.",
           "SPFx Extensions enable you to extend the SharePoint user experience within modern pages and document libraries, while using the familiar SPFx tools and libraries for client-side development. Specifically, the SPFx includes three extension types:",
