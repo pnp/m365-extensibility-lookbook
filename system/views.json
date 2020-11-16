@@ -11,6 +11,10 @@
                 "fi": {
                     "displayName": "Tuote",
                     "description": "Mahdollinen kuvaus"
+                },
+                "it": {
+                    "displayName": "Prodotti",
+                    "description": "Descrizione per la vista Prodotti"
                 }
             },
             "categories": [

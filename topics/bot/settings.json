@@ -170,6 +170,10 @@
       },
       "fr": {
         "displayTitle": "Microsoft Teams tab"
+      },
+      "it": {
+        "displayTitle": "Microsoft Teams bots",
+        "shortDescription": "Crea BOT interattivi per Microsoft Teams"
       }
     }
   }
