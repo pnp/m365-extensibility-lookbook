@@ -4,8 +4,8 @@
     "PROFESSIONALSERVICES"
   ],
   "sortOrder": 300,
-  "preview": "false",
-  "visible": "true",
+  "preview": false,
+  "visible": true,
   "metadata": {
     "displayInfo": {
       "default": {
