@@ -3,9 +3,9 @@
   "categories": [
     "MICROSOFTTEAMS"
   ],
-  "sortOrder": 400,
-  "preview": false,
-  "visible": true,
+  "sortOrder": 500,
+  "preview": true,
+  "visible": false,
   "metadata": {
     "displayInfo": {
       "default": {
