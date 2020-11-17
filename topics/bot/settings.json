@@ -4,8 +4,8 @@
     "MICROSOFTTEAMS"
   ],
   "sortOrder": 300,
-  "preview": true,
-  "visible": false,
+  "preview": false,
+  "visible": true,
   "metadata": {
     "displayInfo": {
       "default": {
