@@ -11,7 +11,7 @@
       "default": {
         "displayTitle": "Time & Expense Submission",
         "shortDescription": "Time and Expense tracking",
-        "cardPictureUrl": "/assets/card-webpart.png", 
+        "cardPictureUrl": "/assets/card-time-expense.png", 
         "cardPictureAlt": "Time & Expense Submission", 
         "descriptionParagraphs": [
           "Babak, an employee at Contoso Consulting Services works with multiple clients and juggles various projects both internal and client facing in a typical week",
@@ -21,7 +21,7 @@
           {
             "type": "image",
             "order": 100,
-            "url": "/assets/Slide4.png",
+            "url": "/assets/promo-time-expense.png",
             "alt": "Scenario description"
           },
           {
@@ -69,18 +69,6 @@
               { "url": "/assets/slide41.png","order": "380", "alt": "Alt text for a slide"},
               { "url": "/assets/slide42.png","order": "390", "alt": "Alt text for a slide"}              
             ]
-          }
-        ],
-        "previewImages": [
-          {
-            "type": "fullpage",
-            "altText": "Charitable site layout",
-            "url": "/assets/promo-tab.png"
-          },
-          {
-            "type": "cardpreview",
-            "altText": "Charitable site preview",
-            "url": "/assets/card-tab.png"
           }
         ],
         "detailItemCategories": [

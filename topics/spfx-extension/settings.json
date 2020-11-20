@@ -11,7 +11,7 @@
       "default": {
         "displayTitle": "SharePoint Framework Extensions",
         "shortDescription": "Adding extensibility to modern portals",
-        "cardPictureUrl": "/assets/card-webpart.png", 
+        "cardPictureUrl": "/assets/card-spfx-extension.png", 
         "cardPictureAlt": "SharePoint Framework Extensions", 
         "descriptionParagraphs": [
           "You can use SharePoint Framework (SPFx) Extensions to extend the SharePoint user experience. With SPFx Extensions, you can customize more facets of the SharePoint experience, including notification areas, toolbars, and list data views. SPFx Extensions are available in all Microsoft 365 subscriptions for production usage.",
@@ -22,7 +22,7 @@
           {
             "type": "image",
             "order": 100,
-            "url": "/assets/promo-tab.png",
+            "url": "/assets/promo-spfx-extension.png",
             "alt": "Alt text for the image"
           },
           {
@@ -42,18 +42,6 @@
             "order": 101,
             "url": "https://www.youtube.com/embed/uaUGtLrNbRA",
             "alt": "Build your first List View Command Set"
-          }
-        ],
-        "previewImages": [
-          {
-            "type": "fullpage",
-            "altText": "Charitable site layout",
-            "url": "/assets/promo-tab.png"
-          },
-          {
-            "type": "cardpreview",
-            "altText": "Charitable site preview",
-            "url": "/assets/card-tab.png"
           }
         ],
         "detailItemCategories": [

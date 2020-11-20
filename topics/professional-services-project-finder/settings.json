@@ -11,7 +11,7 @@
       "default": {
         "displayTitle": "Project Finder",
         "shortDescription": "Discover internal org wide projects easily",
-        "cardPictureUrl": "/assets/card-webpart.png", 
+        "cardPictureUrl": "/assets/card-projectfinder.png", 
         "cardPictureAlt": "Project Finder", 
         "descriptionParagraphs": [
           "Daniela, a manager at Contoso Consulting Services is responsible for sales and execution of consulting projects. Most of her projects are 3 – 6 months in duration and she gets a chance to work with different people across the firm in each of her project.",
@@ -21,7 +21,7 @@
           {
             "type": "image",
             "order": 100,
-            "url": "/assets/slide44.png",
+            "url": "/assets/promo-projectfinder.png",
             "alt": "Alt text for the image"
           },
           {
@@ -68,18 +68,6 @@
               { "url": "/assets/slide80.png","order": "370", "alt": "Alt text for a slide"},
               { "url": "/assets/slide81.png","order": "380", "alt": "Alt text for a slide"}
             ]
-          }
-        ],
-        "previewImages": [
-          {
-            "type": "fullpage",
-            "altText": "Charitable site layout",
-            "url": "/assets/promo-tab.png"
-          },
-          {
-            "type": "cardpreview",
-            "altText": "Charitable site preview",
-            "url": "/assets/card-tab.png"
           }
         ],
         "detailItemCategories": [

@@ -22,7 +22,7 @@
           {
             "type": "image",
             "order": 100,
-            "url": "/assets/promo-tab.png",
+            "url": "/assets/promo-webpart.png",
             "alt": "Alt text for the image"
           },
           {
@@ -52,18 +52,6 @@
                 "alt": "Alt text for a slide"
               }
             ]
-          }
-        ],
-        "previewImages": [
-          {
-            "type": "fullpage",
-            "altText": "Charitable site layout",
-            "url": "/assets/promo-tab.png"
-          },
-          {
-            "type": "cardpreview",
-            "altText": "Charitable site preview",
-            "url": "/assets/card-tab.png"
           }
         ],
         "detailItemCategories": [

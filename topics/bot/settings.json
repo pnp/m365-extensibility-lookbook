@@ -11,7 +11,7 @@
       "default": {
         "displayTitle": "Microsoft Teams bots",
         "shortDescription": "Create interactive conversational bots",
-        "cardPictureUrl": "/assets/card-webpart.png", 
+        "cardPictureUrl": "/assets/card-bot.png", 
         "cardPictureAlt": "Bot", 
         "descriptionParagraphs": [
           "Conversational bots allow users to interact with your web service through text, interactive cards, and task modules.",
@@ -22,7 +22,7 @@
           {
             "type": "image",
             "order": 100,
-            "url": "/assets/promo-tab.png",
+            "url": "/assets/promo-bot.png",
             "alt": "Alt text for the image"
           },
           {
@@ -30,18 +30,6 @@
             "order": 101,
             "url": "https://youtube.com/embed/3120470",
             "alt": "Alt text for the video"
-          }
-        ],
-        "previewImages": [
-          {
-            "type": "fullpage",
-            "altText": "Charitable site layout",
-            "url": "/assets/promo-tab.png"
-          },
-          {
-            "type": "cardpreview",
-            "altText": "Charitable site preview",
-            "url": "/assets/card-tab.png"
           }
         ],
         "detailItemCategories": [

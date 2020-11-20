@@ -11,7 +11,7 @@
       "default": {
         "displayTitle": "Task modules",
         "shortDescription": "Collect input with Microsoft Teams",
-        "cardPictureUrl": "/assets/card-webpart.png", 
+        "cardPictureUrl": "/assets/card-task-module.png", 
         "cardPictureAlt": "Task Modules", 
         "descriptionParagraphs": [
           "Task modules are modals that you can populate with either an Adaptive Card or an embedded web/content page for use in your custom Microsoft Teams app’s user experience for workflows that require data input.",
@@ -21,7 +21,7 @@
           {
             "type": "image",
             "order": 100,
-            "url": "/assets/promo-tab.png",
+            "url": "/assets/promo-task-module.png",
             "alt": "Alt text for the image"
           },
           {
@@ -29,18 +29,6 @@
             "order": 101,
             "url": "https://youtube.com/embed/3120470",
             "alt": "Alt text for the video"
-          }
-        ],
-        "previewImages": [
-          {
-            "type": "fullpage",
-            "altText": "Charitable site layout",
-            "url": "/assets/promo-tab.png"
-          },
-          {
-            "type": "cardpreview",
-            "altText": "Charitable site preview",
-            "url": "/assets/card-tab.png"
           }
         ],
         "detailItemCategories": [

@@ -11,7 +11,7 @@
       "default": {
         "displayTitle": "Messaging extensions",
         "shortDescription": "Task-oriented interactions in Microsoft Teams",
-        "cardPictureUrl": "/assets/card-webpart.png", 
+        "cardPictureUrl": "/assets/card-messaging.png", 
         "cardPictureAlt": "Messaging Extensions", 
         "descriptionParagraphs": [
           "Users can interact with your Microsoft Teams apps though buttons and forms in the Microsoft Teams client.",
@@ -22,7 +22,7 @@
           {
             "type": "image",
             "order": 100,
-            "url": "/assets/promo-tab.png",
+            "url": "/assets/promo-messaging.png",
             "alt": "Alt text for the image"
           },
           {

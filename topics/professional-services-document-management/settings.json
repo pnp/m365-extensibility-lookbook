@@ -11,7 +11,7 @@
       "default": {
         "displayTitle": "Document Management",
         "shortDescription": "Collaboration on the documents in Teams",
-        "cardPictureUrl": "/assets/card-webpart.png", 
+        "cardPictureUrl": "/assets/card-document.png", 
         "cardPictureAlt": "Document Management", 
         "descriptionParagraphs": [
           "Daniela, a manager at Contoso Consulting Services is responsible for creating proposals and pitch decks for initial customer conversations. Her responsibilities include creating pitch decks for her industry customers and winning opportunities for her team.",
@@ -21,7 +21,7 @@
           {
             "type": "image",
             "order": 100,
-            "url": "/assets/promo-tab.png",
+            "url": "/assets/promo-document.png",
             "alt": "Alt text for the image"
           },
           {
@@ -56,18 +56,6 @@
               { "url": "/assets/slide107.png","order": "250", "alt": "Alt text for a slide"},
               { "url": "/assets/slide108.png","order": "260", "alt": "Alt text for a slide"}              
             ]
-          }
-        ],
-        "previewImages": [
-          {
-            "type": "fullpage",
-            "altText": "Charitable site layout",
-            "url": "/assets/promo-tab.png"
-          },
-          {
-            "type": "cardpreview",
-            "altText": "Charitable site preview",
-            "url": "/assets/card-tab.png"
           }
         ],
         "detailItemCategories": [

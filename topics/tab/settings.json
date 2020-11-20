@@ -13,7 +13,7 @@
       "default": {
         "displayTitle": "Microsoft Teams tabs",
         "shortDescription": "Create embedded web experiences",
-        "cardPictureUrl": "/assets/card-webpart.png", 
+        "cardPictureUrl": "/assets/card-tab.png", 
         "cardPictureAlt": "Microsoft Teams tabs", 
         "descriptionParagraphs": [
           "Tabs are Microsoft Teams-aware webpages embedded in Microsoft Teams. They can be added as part of a channel or a group chat inside a team or as a personal app for an individual user.",
@@ -54,18 +54,6 @@
                 "alt": "Alt text for a slide"
               }
             ]
-          }
-        ],
-        "previewImages": [
-          {
-            "type": "fullpage",
-            "altText": "Charitable site layout",
-            "url": "/assets/promo-tab.png"
-          },
-          {
-            "type": "cardpreview",
-            "altText": "Charitable site preview",
-            "url": "/assets/card-tab.png"
           }
         ],
         "detailItemCategories": [
