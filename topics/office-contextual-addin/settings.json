@@ -1,7 +1,7 @@
 {
   "itemId": "extensibility-office-contextual-addin",
   "categories": [
-    "OUTLOOK"
+    "OFFICE"
   ],
   "sortOrder": 300,
   "preview": false,

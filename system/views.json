@@ -58,6 +58,19 @@
                     }
                 },
                 {
+                    "id": "OFFICE",
+                    "displayInfo": {
+                        "default": {
+                            "displayName": "Microsoft Office",
+                            "description": "Suite of business productivity applications"
+                        },
+                        "fi": {
+                            "displayName": "Microsoft Office",
+                            "description": "Suite of business productivity applications"
+                        }
+                    }
+                },
+                {
                     "id": "POWERAUTOMATE",
                     "displayInfo": {
                         "default": {

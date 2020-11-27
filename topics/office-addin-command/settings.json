@@ -1,9 +1,7 @@
 {
   "itemId": "extensibility-office-addin-command",
   "categories": [
-    "EXCEL",
-    "OUTLOOK",
-    "WORD"
+    "OFFICE"
   ],
   "sortOrder": 300,
   "preview": false,

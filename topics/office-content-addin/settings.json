@@ -1,9 +1,7 @@
 {
   "itemId": "extensibility-office-content-addin",
   "categories": [
-    "EXCEL",
-    "POWERPOINT",
-    "WORD"
+    "OFFICE"
   ],
   "sortOrder": 300,
   "preview": false,

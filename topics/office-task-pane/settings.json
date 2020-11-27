@@ -2,11 +2,7 @@
   "itemId": "extensibility-office-task-pane",
   "categories": [
     "CANVASES",
-    "EXCEL",
-    "ONENOTE",
-    "POWERPOINT",
-    "PROJECT",
-    "WORD"
+    "OFFICE"
   ],
   "sortOrder": 300,
   "preview": false,
