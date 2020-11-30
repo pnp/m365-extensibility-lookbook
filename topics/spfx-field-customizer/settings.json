@@ -1,9 +1,7 @@
 {
-  "itemId": "extensibility-canvas-tab",
+  "itemId": "extensibility-spfx-field-customizer",
   "categories": [
-    "CANVASES",
-    "MICROSOFTTEAMS",
-    "MEDASHBOARD"
+    "SHAREPOINT"
   ],
   "sortOrder": 300,
   "preview": false,
@@ -11,49 +9,39 @@
   "metadata": {
     "displayInfo": {
       "default": {
-        "displayTitle": "Microsoft Teams tabs",
-        "shortDescription": "Create embedded web experiences",
-        "cardPictureUrl": "/assets/card-tab.png", 
-        "cardPictureAlt": "Microsoft Teams tabs", 
+        "displayTitle": "SharePoint Framework Field Customizers",
+        "shortDescription": "Adding extensibility to modern portals",
+        "cardPictureUrl": "/assets/card-spfx-extension.png", 
+        "cardPictureAlt": "SharePoint Framework Field Customizers", 
         "descriptionParagraphs": [
-          "Tabs are Microsoft Teams-aware webpages embedded in Microsoft Teams. They can be added as part of a channel or a group chat inside a team or as a personal app for an individual user.",
-          "As part of your app, you can add custom tabs to embed your own web content in Teams.",
-          "Microsoft Teams tabs can be build in numerous different ways using different technologies."
+          "You can use SharePoint Framework (SPFx) Extensions to extend the SharePoint user experience. With SPFx Extensions, you can customize more facets of the SharePoint experience, including notification areas, toolbars, and list data views. SPFx Extensions are available in all Microsoft 365 subscriptions for production usage.",
+          "SPFx Extensions enable you to extend the SharePoint user experience within modern pages and document libraries, while using the familiar SPFx tools and libraries for client-side development. Specifically, the SPFx includes three extension types:",
+          "<ul><li><strong>Application Customizers</strong>: Adds scripts to the page, and accesses well-known HTML element placeholders and extends them with custom renderings.</li><li><strong>Field Customizers</strong>: Provides modified views to data for fields within a list.</li><li><strong>Command Sets</strong>: Extends the SharePoint command surfaces to add new actions, and provides client-side code that you can use to implement behaviors.</li></ul>"
         ],
         "mediaAssets": [
           {
             "type": "image",
             "order": 100,
-            "url": "/assets/promo-tab.png",
+            "url": "/assets/promo-spfx-extension.png",
             "alt": "Alt text for the image"
           },
           {
             "type": "video",
             "order": 101,
-            "url": "https://youtube.com/embed/3120470",
-            "alt": "Alt text for the video"
+            "url": "https://www.youtube.com/embed/DnfRIl2YN8g",
+            "alt": "Build your first SharePoint Framework Extension"
           },
           {
-            "type": "slideshow",
-            "order": 102,
-            "alt": "Alt text for the image",
-            "slides": [
-              {
-                "url": "/assets/slide1.png",
-                "order": "10",
-                "alt": "Alt text for a slide"
-              },
-              {
-                "url": "/assets/slide2.png",
-                "order": "20",
-                "alt": "Alt text for a slide"
-              },
-              {
-                "url": "/assets/slide3.png",
-                "order": "30",
-                "alt": "Alt text for a slide"
-              }
-            ]
+            "type": "video",
+            "order": 101,
+            "url": "https://www.youtube.com/embed/mBZ7Sq_KfDA",
+            "alt": "Build your first Field Customizer"
+          },
+          {
+            "type": "video",
+            "order": 101,
+            "url": "https://www.youtube.com/embed/uaUGtLrNbRA",
+            "alt": "Build your first List View Command Set"
           }
         ],
         "detailItemCategories": [

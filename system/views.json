@@ -56,6 +56,45 @@
                             "description": "Potential description for category in specific language"
                         }
                     }
+                },
+                {
+                    "id": "OFFICE",
+                    "displayInfo": {
+                        "default": {
+                            "displayName": "Microsoft Office",
+                            "description": "Suite of business productivity applications"
+                        },
+                        "fi": {
+                            "displayName": "Microsoft Office",
+                            "description": "Suite of business productivity applications"
+                        }
+                    }
+                },
+                {
+                    "id": "POWERAUTOMATE",
+                    "displayInfo": {
+                        "default": {
+                            "displayName": "Power Automate",
+                            "description": "Service for automating business processes"
+                        },
+                        "fi": {
+                            "displayName": "Power Automate",
+                            "description": "Service for automating business processes"
+                        }
+                    }
+                },
+                {
+                    "id": "POWERAPPS",
+                    "displayInfo": {
+                        "default": {
+                            "displayName": "Power Apps",
+                            "description": "Power Apps is a suite of apps, services, connectors and data platform that provides a rapid application development environment to build custom apps for your business needs."
+                        },
+                        "fi": {
+                            "displayName": "Power Apps",
+                            "description": "Power Apps is a suite of apps, services, connectors and data platform that provides a rapid application development environment to build custom apps for your business needs."
+                        }
+                    }
                 }
             ]
         },

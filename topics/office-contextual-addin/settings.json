@@ -1,0 +1,189 @@
+{
+  "itemId": "extensibility-office-contextual-addin",
+  "categories": [
+    "OFFICE"
+  ],
+  "sortOrder": 300,
+  "preview": false,
+  "visible": true,
+  "metadata": {
+    "displayInfo": {
+      "default": {
+        "displayTitle": "Microsoft Office contextual add-ins",
+        "shortDescription": "Interact with contents of messages",
+        "cardPictureUrl": "/assets/card-tab.png", 
+        "cardPictureAlt": "Microsoft Office contextual add-ins", 
+        "descriptionParagraphs": [
+          "Contextual add-ins are Outlook add-ins that activate based on text in a message or appointment. By using contextual add-ins, a user can initiate tasks related to a message without leaving the message itself, which results in an easier and richer user experience."
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 100,
+            "url": "/assets/promo-tab.png",
+            "alt": "Alt text for the image"
+          },
+          {
+            "type": "video",
+            "order": 101,
+            "url": "https://youtube.com/embed/3120470",
+            "alt": "Alt text for the video"
+          },
+          {
+            "type": "slideshow",
+            "order": 102,
+            "alt": "Alt text for the image",
+            "slides": [
+              {
+                "url": "/assets/slide1.png",
+                "order": "10",
+                "alt": "Alt text for a slide"
+              },
+              {
+                "url": "/assets/slide2.png",
+                "order": "20",
+                "alt": "Alt text for a slide"
+              },
+              {
+                "url": "/assets/slide3.png",
+                "order": "30",
+                "alt": "Alt text for a slide"
+              }
+            ]
+          }
+        ],
+        "detailItemCategories": [
+          {
+            "name": "Scenarios",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": [
+              {
+                "name": "Scenario 1 with a long time explaining what the scenario is all about",
+                "description": "Potential description on top of the scenario title",
+                "url": "https://www.bing.com"
+              },
+              {
+                "name": "Scenario 2 with a long time explaining what the scenario is all about",
+                "description": "Potential description on top of the scenario title",
+                "url": "https://www.bing.com"
+              },
+              {
+                "name": "Scenario 3 with a long time explaining what the scenario is all about",
+                "description": "Potential description on top of the scenario title",
+                "url": "https://www.bing.com"
+              }
+            ]
+          },
+          {
+            "name": "Partners",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": [
+              {
+                "name": "Partner 1 name",
+                "description": "Potential description for the partner reference",
+                "url": "https://www.bing.com"
+              },
+              {
+                "name": "Partner 1 name",
+                "description": "Potential description for the partner reference",
+                "url": "https://www.bing.com"
+              },
+              {
+                "name": "Partner 1 name",
+                "description": "Potential description for the partner reference",
+                "url": "https://www.bing.com"
+              },
+              {
+                "name": "Partner 1 name",
+                "description": "Potential description for the partner reference",
+                "url": "https://www.bing.com"
+              },
+              {
+                "name": "Partner 1 name",
+                "description": "Potential description for the partner reference",
+                "url": "https://www.bing.com"
+              },
+              {
+                "name": "Partner 1 name",
+                "description": "Potential description for the partner reference",
+                "url": "https://www.bing.com"
+              },
+              {
+                "name": "Partner 1 name",
+                "description": "Potential description for the partner reference",
+                "url": "https://www.bing.com"
+              }
+            ]
+          },
+          {
+            "name": "Samples",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": [
+              {
+                "name": "Sample name 1 with link to GitHub or to Sample gallery when it's available",
+                "description": "Potential description for the sample reference",
+                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
+              },
+              {
+                "name": "Sample name 2 with link to GitHub or to Sample gallery when it's available",
+                "description": "Potential description for the sample reference",
+                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
+              },
+              {
+                "name": "Sample name 3 with link to GitHub or to Sample gallery when it's available",
+                "description": "Potential description for the sample reference",
+                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
+              }
+            ]
+          },
+          {
+            "name": "Documentation",
+            "description": "Here are the key resources around getting started on building Microsoft Teams tabs",
+            "items": [
+              {
+                "name": "What are Microsoft Teams custom tabs?",
+                "description": "Potential description for the doc link",
+                "url": "https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/what-are-tabs"
+              },
+              {
+                "name": "Learning path: Create embedded web experiences with tabs for Microsoft Teams",
+                "description": "Potential description for the doc link",
+                "url": "https://docs.microsoft.com/en-gb/learn/modules/embedded-web-experiences/"
+              },
+              {
+                "name": "Quick start: Build and run your first Microsoft Teams app",
+                "description": "Potential description for the doc link",
+                "url": "https://docs.microsoft.com/en-us/microsoftteams/platform/build-your-first-app/build-and-run"
+              },
+              {
+                "name": "Building Microsoft Teams tabs using SharePoint Framework",
+                "description": "You can build Microsoft Teams tabs also using SharePoint Framework with automated solution hosting.",
+                "url": "https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/using-web-part-as-ms-teams-tab"
+              }              
+            ]
+          },
+          {
+            "name": "References",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": [
+              {
+                "name": "Here are some additional references"
+              },
+              {
+                "name": "Rendered as a link if URL exists",
+                "url": "http://aka.ms/m365pnp"
+              },
+              {
+                "name": "Second additional link",
+                "url": "http://aka.ms/m365pnp"
+              }
+            ]
+          }
+        ]
+      },
+      "fr": {
+        "displayTitle": "Microsoft Teams tab"
+      }
+    }
+  }
+}
