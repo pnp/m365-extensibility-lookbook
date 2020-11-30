@@ -20,6 +20,7 @@
             "categories": [
                 {
                     "id": "MICROSOFTTEAMS",
+                    "sortOrder": 100,
                     "displayInfo": {
                         "default": {
                             "displayName": "Microsoft Teams",
@@ -33,6 +34,7 @@
                 },
                 {
                     "id": "SHAREPOINT",
+                    "sortOrder": 200,                    
                     "displayInfo": {
                         "default": {
                             "displayName": "SharePoint",
@@ -46,6 +48,7 @@
                 },
                 {
                     "id": "ONEDRIVE",
+                    "sortOrder": 300,
                     "displayInfo": {
                         "default": {
                             "displayName": "OneDrive",
@@ -59,6 +62,7 @@
                 },
                 {
                     "id": "OFFICE",
+                    "sortOrder": 400,
                     "displayInfo": {
                         "default": {
                             "displayName": "Microsoft Office",
@@ -72,6 +76,7 @@
                 },
                 {
                     "id": "POWERAUTOMATE",
+                    "sortOrder": 500,
                     "displayInfo": {
                         "default": {
                             "displayName": "Power Automate",
@@ -85,6 +90,7 @@
                 },
                 {
                     "id": "POWERAPPS",
+                    "sortOrder": 600,                    
                     "displayInfo": {
                         "default": {
                             "displayName": "Power Apps",
@@ -114,6 +120,7 @@
             "categories": [
                 {
                     "id": "EXTENDINGCONVERSATIONS",
+                    "sortOrder": 100,
                     "displayInfo": {
                         "default": {
                             "displayName": "Extending Conversations",
@@ -127,6 +134,7 @@
                 },
                 {
                     "id": "MODERNPORTALS",
+                    "sortOrder": 200,
                     "displayInfo": {
                         "default": {
                             "displayName": "Building Portals",
@@ -140,6 +148,7 @@
                 },
                 {
                     "id": "CANVASES",
+                    "sortOrder": 300,
                     "displayInfo": {
                         "default": {
                             "displayName": "Extending Canvases",
@@ -153,6 +162,7 @@
                 },
                 {
                     "id": "SERVICES",
+                    "sortOrder": 400,
                     "displayInfo": {
                         "default": {
                             "displayName": "Extend Services",
@@ -182,6 +192,7 @@
             "categories": [
                 {
                     "id": "MEDASHBOARD",
+                    "sortOrder": 100,
                     "displayInfo": {
                         "default": {
                             "displayName": "Me dashboard",
@@ -195,6 +206,7 @@
                 },
                 {
                     "id": "PROFESSIONALSERVICES",
+                    "sortOrder": 200,
                     "displayInfo": {
                         "default": {
                             "displayName": "Professional Services",
