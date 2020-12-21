@@ -1,5 +1,5 @@
 {
-  "itemId": "extensibility-incoming-webhook",
+  "topicId": "extensibility-incoming-webhook",
   "categories": [
     "MICROSOFTTEAMS"
   ],
@@ -20,8 +20,8 @@
           {
             "type": "image",
             "order": 100,
-            "url": "/assets/promo-tab.png",
-            "alt": "Alt text for the image"
+            "url": "/assets/promo-webhook.png",
+            "alt": "Conceptual representation of what connectors look like in the Teams client."
           },
           {
             "type": "video",
@@ -58,18 +58,13 @@
             "description": "Possible html supported text shown just above the list of links",
             "items": [
               {
-                "name": "Scenario 1 with a long time explaining what the scenario is all about",
-                "description": "Potential description on top of the scenario title",
+                "name": "Complete team-specific workloads",
+                "description": "Complete team-specific workloads that don't require large amounts of information to be collected or exchanged.",
                 "url": "https://www.bing.com"
               },
               {
-                "name": "Scenario 2 with a long time explaining what the scenario is all about",
-                "description": "Potential description on top of the scenario title",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Scenario 3 with a long time explaining what the scenario is all about",
-                "description": "Potential description on top of the scenario title",
+                "name": "Send DevOps alerts",
+                "description": "Create an incoming webhook in your DevOps channel and configure your build, deployment and monitoring services to send alerts.",
                 "url": "https://www.bing.com"
               }
             ]

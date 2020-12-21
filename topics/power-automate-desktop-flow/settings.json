@@ -1,5 +1,5 @@
 {
-  "itemId": "extensibility-power-automate-ui-flows",
+  "topicId": "extensibility-power-automate-desktop-flows",
   "categories": [
     "POWERAUTOMATE"
   ],
@@ -9,10 +9,10 @@
   "metadata": {
     "displayInfo": {
       "default": {
-        "displayTitle": "Power Automate UI flows",
+        "displayTitle": "Power Automate desktop flows",
         "shortDescription": "Record clicks and keyboard strokes from your Desktop and Web applications and automate the playback of manual steps on legacy software.",
         "cardPictureUrl": "/assets/card-tab.png", 
-        "cardPictureAlt": "Power Automate UI flows", 
+        "cardPictureAlt": "Power Automate desktop flows", 
         "descriptionParagraphs": [
           "Record clicks and keyboard strokes from your Desktop and Web applications and automate the playback of manual steps on legacy software."
         ],
