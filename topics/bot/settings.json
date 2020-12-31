@@ -23,7 +23,7 @@
             "type": "image",
             "order": 100,
             "url": "/assets/promo-bot.png",
-            "alt": "Alt text for the image"
+            "alt": "Conceptual representation of what bots look like in the Teams client."
           },
           {
             "type": "video",
@@ -38,18 +38,28 @@
             "description": "Possible html supported text shown just above the list of links",
             "items": [
               {
-                "name": "Scenario 1 with a long time explaining what the scenario is all about",
-                "description": "Potential description on top of the scenario title",
+                "name": "Notifications",
+                "description": "Particularly if you provide an interactive card for users to take additional information.",
                 "url": "https://www.bing.com"
               },
               {
-                "name": "Scenario 2 with a long time explaining what the scenario is all about",
-                "description": "Potential description on top of the scenario title",
+                "name": "Feedback",
+                "description": "Feedback scenarios like polls and surveys.",
                 "url": "https://www.bing.com"
               },
               {
-                "name": "Scenario 3 with a long time explaining what the scenario is all about",
-                "description": "Potential description on top of the scenario title",
+                "name": "Interactions",
+                "description": "Interactions that can be resolved in a single request/response cycle, where the results are useful for multiple members of the conversation.",
+                "url": "https://www.bing.com"
+              },
+              {
+                "name": "Social/fun bots",
+                "description": "Get an awesome cat image, randomly pick a winner, etc.",
+                "url": "https://www.bing.com"
+              },
+              {
+                "name": "One-to-one chat",
+                "description": "Enable incredibly diverse workloads. Q&A bots, bots that initiate workflows in other systems, bots that tell jokes, and bots that take notes are just a few examples.",
                 "url": "https://www.bing.com"
               }
             ]

@@ -25,7 +25,7 @@
             "type": "image",
             "order": 100,
             "url": "/assets/promo-tab.png",
-            "alt": "Alt text for the image"
+            "alt": "Conceptual representation of what tabs look like in the Teams client."
           },
           {
             "type": "video",
@@ -62,18 +62,18 @@
             "description": "Possible html supported text shown just above the list of links",
             "items": [
               {
-                "name": "Scenario 1 with a long time explaining what the scenario is all about",
-                "description": "Potential description on top of the scenario title",
+                "name": "Bring an existing web-based resource inside Teams.",
+                "description": "You create a personal tab in your Teams app that presents an informational corporate website to users.",
                 "url": "https://www.bing.com"
               },
               {
-                "name": "Scenario 2 with a long time explaining what the scenario is all about",
-                "description": "Potential description on top of the scenario title",
+                "name": "Add support pages to a Teams bot or messaging extension.",
+                "description": "You create personal tabs that provide about and help webpage content to users.",
                 "url": "https://www.bing.com"
               },
               {
-                "name": "Scenario 3 with a long time explaining what the scenario is all about",
-                "description": "Potential description on top of the scenario title",
+                "name": "Provide access to items that your users interact with regularly for cooperative dialogue and collaboration.",
+                "description": "You create a channel/group tab with deep linking to individual items.",
                 "url": "https://www.bing.com"
               }
             ]
