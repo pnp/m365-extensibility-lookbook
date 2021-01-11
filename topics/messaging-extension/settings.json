@@ -23,7 +23,7 @@
             "type": "image",
             "order": 100,
             "url": "/assets/promo-messaging.png",
-            "alt": "Alt text for the image"
+            "alt": "Conceptual representation of what messaging extensions look like in the Teams client."
           },
           {
             "type": "video",
@@ -38,18 +38,18 @@
             "description": "Possible html supported text shown just above the list of links",
             "items": [
               {
-                "name": "Scenario 1 with a long time explaining what the scenario is all about",
-                "description": "Potential description on top of the scenario title",
+                "name": "Perform an action in external systems",
+                "description": "Reserve a resource and let the channel know what day/time you reserved it for.",
                 "url": "https://www.bing.com"
               },
               {
-                "name": "Scenario 2 with a long time explaining what the scenario is all about",
-                "description": "Potential description on top of the scenario title",
+                "name": "Search content in external systems",
+                "description": "Search for a work item in Azure DevOps, and share it with the group as an adaptive card.",
                 "url": "https://www.bing.com"
               },
               {
-                "name": "Scenario 3 with a long time explaining what the scenario is all about",
-                "description": "Potential description on top of the scenario title",
+                "name": "Complete complex tasks and share the outcome in a conversation",
+                "description": "Create a bug in your tracking system based on a Teams message, assign that bug to Bob, then send a card to the conversation thread with the bug's details.",
                 "url": "https://www.bing.com"
               }
             ]
