@@ -32,8 +32,20 @@
             "alt": "Creating your first SharePoint Framework web part"
           },
           {
-            "type": "image",
+            "type": "video",
+            "order": 102,
+            "url": "https://www.youtube.com/embed/4F65TmsHucY",
+            "alt": "Connect your client-side web part to SharePoint"
+          },
+          {
+            "type": "video",
             "order": 103,
+            "url": "https://www.youtube.com/embed/CMJEp8TS4aU",
+            "alt": "Deploy your client-side web part to a SharePoint page"
+          },
+          {
+            "type": "image",
+            "order": 104,
             "url": "/assets/promo-webpart.png",
             "alt": "Alt text for the image"
           },          
@@ -66,45 +78,45 @@
             "description": "Possible html supported text shown just above the list of links",
             "items": [
               {
-                "name": "Sample name 1 with link to GitHub or to Sample gallery when it's available",
-                "description": "Potential description for the sample reference",
-                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
+                "name": "Chart Control Samples",
+                "description": "This sample contains several web parts that demonstrate how to use the PnP ChartControl",
+                "url": "https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-chartcontrol"
               },
               {
-                "name": "Sample name 2 with link to GitHub or to Sample gallery when it's available",
-                "description": "Potential description for the sample reference",
-                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
+                "name": "Content Query web part (SharePoint Online-Compatible)",
+                "description": "The Content Query web part is a modern version of the good old Content by Query web part that was introduced in SharePoint 2007.",
+                "url": "https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-content-query-online"
               },
               {
-                "name": "Sample name 3 with link to GitHub or to Sample gallery when it's available",
-                "description": "Potential description for the sample reference",
-                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
+                "name": "Enhanced List Formatting",
+                "description": "This web part allows you to add custom CSS on a page to enhance list formatting.",
+                "url": "https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-enhanced-list-formatting"
               }
             ]
           },
           {
             "name": "Documentation",
-            "description": "Here are the key resources around getting started on building Microsoft Teams tabs",
+            "description": "Here are the key resources around getting started on building Microsoft SPFx Web Parts",
             "items": [
               {
-                "name": "What are Microsoft Teams custom tabs?",
-                "description": "Potential description for the doc link",
-                "url": "https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/what-are-tabs"
+                "name": "Overview of SharePoint client-side web parts",
+                "description": "SharePoint client-side web parts are controls that appear inside a SharePoint page and execute client-side in the browser. They're the building blocks of pages that appear on a SharePoint site.",
+                "url": "https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/overview-client-side-web-parts"
               },
               {
-                "name": "Learning path: Create embedded web experiences with tabs for Microsoft Teams",
-                "description": "Potential description for the doc link",
-                "url": "https://docs.microsoft.com/en-gb/learn/modules/embedded-web-experiences/"
+                "name": "Build your first SharePoint client-side web part",
+                "description": "Client-side web parts can be deployed to SharePoint environments that support the SharePoint Framework. You can also use modern JavaScript web frameworks, tools, and libraries to build them.",
+                "url": "https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/build-a-hello-world-web-part"
               },
               {
-                "name": "Quick start: Build and run your first Microsoft Teams app",
-                "description": "Potential description for the doc link",
-                "url": "https://docs.microsoft.com/en-us/microsoftteams/platform/build-your-first-app/build-and-run"
+                "name": "Connect your client-side web part to SharePoint",
+                "description": "Connect your web part to SharePoint to access functionality and data in SharePoint and provide a more integrated experience for end users.",
+                "url": "https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/connect-to-sharepoint"
               },
               {
-                "name": "Building Microsoft Teams tabs using SharePoint Framework",
-                "description": "You can build Microsoft Teams tabs also using SharePoint Framework with automated solution hosting.",
-                "url": "https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/using-web-part-as-ms-teams-tab"
+                "name": "Deploy your client-side web part to a SharePoint page",
+                "description": "To use client-side web parts on modern SharePoint server-side pages, you need to deploy and register the web part with SharePoint.",
+                "url": "https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/serve-your-web-part-in-a-sharepoint-page"
               }              
             ]
           },

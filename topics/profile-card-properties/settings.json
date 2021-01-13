@@ -57,75 +57,13 @@
         ],
         "detailItemCategories": [
           {
-            "name": "Scenarios",
-            "description": "Possible html supported text shown just above the list of links",
-            "items": [
-              {
-                "name": "Scenario 1 with a long time explaining what the scenario is all about",
-                "description": "Potential description on top of the scenario title",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Scenario 2 with a long time explaining what the scenario is all about",
-                "description": "Potential description on top of the scenario title",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Scenario 3 with a long time explaining what the scenario is all about",
-                "description": "Potential description on top of the scenario title",
-                "url": "https://www.bing.com"
-              }
-            ]
-          },
-          {
-            "name": "Partners",
-            "description": "Possible html supported text shown just above the list of links",
-            "items": [
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              }
-            ]
-          },
-          {
             "name": "Samples",
             "description": "Possible html supported text shown just above the list of links",
             "items": [
               {
-                "name": "Sample name 1 with link to GitHub or to Sample gallery when it's available",
-                "description": "Potential description for the sample reference",
-                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
+                "name": "Manage Profile Card Properties",
+                "description": "This web part allows tenant administrators to manage profile card properties.",
+                "url": "https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-manage-profile-card-properties"
               },
               {
                 "name": "Sample name 2 with link to GitHub or to Sample gallery when it's available",
@@ -144,14 +82,14 @@
             "description": "Here are the key resources around getting started on building Microsoft Teams tabs",
             "items": [
               {
-                "name": "What are Microsoft Teams custom tabs?",
-                "description": "Potential description for the doc link",
-                "url": "https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/what-are-tabs"
+                "name": "Add additional properties to the profile card using the profile card API in Microsoft Graph (preview)",
+                "description": "On the profile card in Microsoft 365, you can find information about users that is stored and maintained by your organization",
+                "url": "https://docs.microsoft.com/en-us/graph/add-properties-profilecard"
               },
               {
-                "name": "Learning path: Create embedded web experiences with tabs for Microsoft Teams",
-                "description": "Potential description for the doc link",
-                "url": "https://docs.microsoft.com/en-gb/learn/modules/embedded-web-experiences/"
+                "name": "Create profileCardProperty",
+                "description": "Create a new profileCardProperty for an organization. The new property is identified by its directoryPropertyName property.",
+                "url": "https://docs.microsoft.com/en-us/graph/api/organizationsettings-post-profilecardproperties"
               },
               {
                 "name": "Quick start: Build and run your first Microsoft Teams app",
@@ -167,10 +105,11 @@
           },
           {
             "name": "References",
-            "description": "Possible html supported text shown just above the list of links",
+            "description": "Collection of articles and resources",
             "items": [
               {
-                "name": "Here are some additional references"
+                "name": "Add additional properties to the profile card using the profile API in Microsoft Graph",
+                "url": "https://techcommunity.microsoft.com/t5/microsoft-search-blog/add-additional-properties-to-the-profile-card-using-the-profile/ba-p/1496467"
               },
               {
                 "name": "Rendered as a link if URL exists",
