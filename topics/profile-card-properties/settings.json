@@ -84,22 +84,12 @@
               {
                 "name": "Add additional properties to the profile card using the profile card API in Microsoft Graph (preview)",
                 "description": "On the profile card in Microsoft 365, you can find information about users that is stored and maintained by your organization",
-                "url": "https://docs.microsoft.com/en-us/graph/add-properties-profilecard"
+                "url": "https://docs.microsoft.com/graph/add-properties-profilecard?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Create profileCardProperty",
                 "description": "Create a new profileCardProperty for an organization. The new property is identified by its directoryPropertyName property.",
-                "url": "https://docs.microsoft.com/en-us/graph/api/organizationsettings-post-profilecardproperties"
-              },
-              {
-                "name": "Quick start: Build and run your first Microsoft Teams app",
-                "description": "Potential description for the doc link",
-                "url": "https://docs.microsoft.com/en-us/microsoftteams/platform/build-your-first-app/build-and-run"
-              },
-              {
-                "name": "Building Microsoft Teams tabs using SharePoint Framework",
-                "description": "You can build Microsoft Teams tabs also using SharePoint Framework with automated solution hosting.",
-                "url": "https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/using-web-part-as-ms-teams-tab"
+                "url": "https://docs.microsoft.com/graph/api/organizationsettings-post-profilecardproperties?WT.mc_id=m365-12775-cxa"
               }              
             ]
           },
@@ -109,15 +99,7 @@
             "items": [
               {
                 "name": "Add additional properties to the profile card using the profile API in Microsoft Graph",
-                "url": "https://techcommunity.microsoft.com/t5/microsoft-search-blog/add-additional-properties-to-the-profile-card-using-the-profile/ba-p/1496467"
-              },
-              {
-                "name": "Rendered as a link if URL exists",
-                "url": "http://aka.ms/m365pnp"
-              },
-              {
-                "name": "Second additional link",
-                "url": "http://aka.ms/m365pnp"
+                "url": "https://techcommunity.microsoft.com/t5/microsoft-search-blog/add-additional-properties-to-the-profile-card-using-the-profile/ba-p/1496467?WT.mc_id=m365-12775-cxa"
               }
             ]
           }

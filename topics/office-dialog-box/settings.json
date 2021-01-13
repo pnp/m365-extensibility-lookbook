@@ -76,22 +76,22 @@
               {
                 "name": "Dialog boxes in Office Add-ins",
                 "description": "Dialog boxes are surfaces that float above the active Office application window. You can use dialog boxes to provide additional screen space for tasks such as sign-in pages that can't be opened directly in a task pane or requests to confirm an action taken by a user, or to show videos that might be too small if confined to a task pane.",
-                "url": "https://docs.microsoft.com/en-us/office/dev/add-ins/design/dialog-boxes"
+                "url": "https://docs.microsoft.com/office/dev/add-ins/design/dialog-boxes?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Use the Office dialog API in Office Add-ins",
                 "description": "You can use the Office dialog API to open dialog boxes in your Office Add-in. This article provides guidance for using the dialog API in your Office Add-in.",
-                "url": "https://docs.microsoft.com/en-us/office/dev/add-ins/develop/dialog-api-in-office-add-ins"
+                "url": "https://docs.microsoft.com/office/dev/add-ins/develop/dialog-api-in-office-add-ins?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Best practices and rules for the Office dialog API",
                 "description": "This article provides rules, gotchas, and best practices for the Office dialog API, including best practices for designing the UI of a dialog and using the API with in a single-page application (SPA).",
-                "url": "https://docs.microsoft.com/en-us/office/dev/add-ins/develop/dialog-best-practices"
+                "url": "https://docs.microsoft.com/office/dev/add-ins/develop/dialog-best-practices?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Alternative ways of passing messages to a dialog box from its host page",
                 "description": "Alternative ways of passing messages to a dialog box from its host page",
-                "url": "https://docs.microsoft.com/en-us/office/dev/add-ins/develop/parent-to-dialog"
+                "url": "https://docs.microsoft.com/office/dev/add-ins/develop/parent-to-dialog?WT.mc_id=m365-12775-cxa"
               }              
             ]
           },

@@ -87,17 +87,17 @@
               {
                 "name": "Add-in commands for Excel, PowerPoint, and Word",
                 "description": "Add-in commands for Excel, PowerPoint, and Word",
-                "url": "https://docs.microsoft.com/en-us/office/dev/add-ins/design/add-in-commands"
+                "url": "https://docs.microsoft.com/office/dev/add-ins/design/add-in-commands?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Create add-in commands in your manifest for Excel, PowerPoint, and Word",
                 "description": "Create add-in commands in your manifest for Excel, PowerPoint, and Word",
-                "url": "https://docs.microsoft.com/en-us/office/dev/add-ins/develop/create-addin-commands"
+                "url": "https://docs.microsoft.com/office/dev/add-ins/develop/create-addin-commands?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Enable and Disable Add-in Commands",
                 "description": "Enable and Disable Add-in Commands",
-                "url": "https://docs.microsoft.com/en-us/office/dev/add-ins/design/disable-add-in-commands"
+                "url": "https://docs.microsoft.com/office/dev/add-ins/design/disable-add-in-commands?WT.mc_id=m365-12775-cxa"
               }              
             ]
           },

@@ -76,22 +76,17 @@
               {
                 "name": "Get started developing Excel custom functions",
                 "description": "Get started developing Excel custom functions",
-                "url": "https://docs.microsoft.com/en-us/office/dev/add-ins/quickstarts/excel-custom-functions-quickstart"
+                "url": "https://docs.microsoft.com/office/dev/add-ins/quickstarts/excel-custom-functions-quickstart?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Create custom functions in Excel",
                 "description": "Create custom functions in Excel",
-                "url": "https://docs.microsoft.com/en-us/office/dev/add-ins/excel/custom-functions-overview"
+                "url": "https://docs.microsoft.com/office/dev/add-ins/excel/custom-functions-overview?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Troubleshoot custom functions",
                 "description": "Troubleshoot custom functions",
-                "url": "https://docs.microsoft.com/en-us/office/dev/add-ins/excel/custom-functions-troubleshooting"
-              },
-              {
-                "name": "Building Microsoft Teams tabs using SharePoint Framework",
-                "description": "You can build Microsoft Teams tabs also using SharePoint Framework with automated solution hosting.",
-                "url": "https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/using-web-part-as-ms-teams-tab"
+                "url": "https://docs.microsoft.com/office/dev/add-ins/excel/custom-functions-troubleshooting?WT.mc_id=m365-12775-cxa"
               }              
             ]
           },

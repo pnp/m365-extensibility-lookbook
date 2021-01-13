@@ -68,12 +68,12 @@
               {
                 "name": "Build your first ListView Command Set extension",
                 "description": "Command Sets extend the SharePoint command surfaces to add new actions, and provides client-side code that you can use to implement behaviors.",
-                "url": "https://docs.microsoft.com/en-us/sharepoint/dev/spfx/extensions/get-started/building-simple-cmdset-with-dialog-api"
+                "url": "https://docs.microsoft.com/sharepoint/dev/spfx/extensions/get-started/building-simple-cmdset-with-dialog-api?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Build your first SharePoint Framework Extension",
                 "description": "SharePoint Framework (SPFx) Extensions are client-side components that run inside the context of a SharePoint page.",
-                "url": "https://docs.microsoft.com/en-us/sharepoint/dev/spfx/extensions/get-started/build-a-hello-world-extension"
+                "url": "https://docs.microsoft.com/sharepoint/dev/spfx/extensions/get-started/build-a-hello-world-extension?WT.mc_id=m365-12775-cxa"
               }       
             ]
           },

@@ -72,7 +72,7 @@
               {
                 "name": "Modifying Microsoft Search experience using SharePoint Framework extensions",
                 "description": "The SharePoint Framework v1.10 release introduces Search Query extensions. These are SharePoint Framework (SPFx) extensions, which can be used to modify search query executed using the search experience.",
-                "url": "https://docs.microsoft.com/en-us/sharepoint/dev/spfx/building-search-extensions"
+                "url": "https://docs.microsoft.com/sharepoint/dev/spfx/building-search-extensions?WT.mc_id=m365-12775-cxa"
               }              
             ]
           },

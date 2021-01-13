@@ -71,22 +71,7 @@
               {
                 "name": "Contextual Outlook add-ins",
                 "description": "Contextual Outlook add-ins",
-                "url": "https://docs.microsoft.com/en-us/office/dev/add-ins/outlook/contextual-outlook-add-ins"
-              },
-              {
-                "name": "Learning path: Create embedded web experiences with tabs for Microsoft Teams",
-                "description": "Potential description for the doc link",
-                "url": "https://docs.microsoft.com/en-gb/learn/modules/embedded-web-experiences/"
-              },
-              {
-                "name": "Quick start: Build and run your first Microsoft Teams app",
-                "description": "Potential description for the doc link",
-                "url": "https://docs.microsoft.com/en-us/microsoftteams/platform/build-your-first-app/build-and-run"
-              },
-              {
-                "name": "Building Microsoft Teams tabs using SharePoint Framework",
-                "description": "You can build Microsoft Teams tabs also using SharePoint Framework with automated solution hosting.",
-                "url": "https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/using-web-part-as-ms-teams-tab"
+                "url": "https://docs.microsoft.com/office/dev/add-ins/outlook/contextual-outlook-add-ins?WT.mc_id=m365-12775-cxa"
               }              
             ]
           },

@@ -77,22 +77,22 @@
               {
                 "name": "Adding custom preview, open, and actions to files with File Handlers 2.0",
                 "description": "With File Handlers, you can enable the following user experiences in OneDrive for Business and SharePoint document libraries.",
-                "url": "https://docs.microsoft.com/en-us/onedrive/developer/file-handlers"
+                "url": "https://docs.microsoft.com/onedrive/developer/file-handlers?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Specifying actions for file handlers 2.0",
                 "description": "When registering a file handler, you specify a set of actions enabled by the file handler.",
-                "url": "https://docs.microsoft.com/en-us/onedrive/developer/file-handlers/define-actions"
+                "url": "https://docs.microsoft.com/onedrive/developer/file-handlers/define-actions?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "How to: Register a file handler add-in manually",
                 "description": "To develop a file handler add-in you first need to upload your file handler manifest into your app registration in Azure Active Directory.",
-                "url": "https://docs.microsoft.com/en-us/onedrive/developer/file-handlers/register-manually"
+                "url": "https://docs.microsoft.com/onedrive/developer/file-handlers/register-manually?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Localizing file handler strings",
                 "description": "To ensure that your file handler add-in meets international requirements, you must localize the display strings used in your file handler.",
-                "url": "https://docs.microsoft.com/en-us/onedrive/developer/file-handlers/localization"
+                "url": "https://docs.microsoft.com/onedrive/developer/file-handlers/localization?WT.mc_id=m365-12775-cxa"
               }              
             ]
           },
