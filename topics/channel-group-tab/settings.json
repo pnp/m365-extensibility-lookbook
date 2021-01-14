@@ -13,7 +13,7 @@
       "default": {
         "displayTitle": "Microsoft Teams channel and group tabs",
         "shortDescription": "Create embedded web experiences for a team channel or chat",
-        "cardPictureUrl": "/assets/card-tab.png", 
+        "cardPictureUrl": "/assets/promo-tab.png", 
         "cardPictureAlt": "Microsoft Teams channel and group tabs", 
         "descriptionParagraphs": [
           "Tabs are Microsoft Teams-aware webpages embedded in Microsoft Teams. They can be added as part of a channel or a group chat inside a team or as a personal app for an individual user.",
@@ -29,164 +29,93 @@
           },
           {
             "type": "video",
-            "order": 101,
-            "url": "https://youtube.com/embed/3120470",
-            "alt": "Alt text for the video"
+            "order": 110,
+            "url": "https://youtube.com/embed/l01PTdJBEhI",
+            "alt": "Making and Deploying Teams Apps"
           },
           {
-            "type": "slideshow",
-            "order": 102,
-            "alt": "Alt text for the image",
-            "slides": [
-              {
-                "url": "/assets/slide1.png",
-                "order": "10",
-                "alt": "Alt text for a slide"
-              },
-              {
-                "url": "/assets/slide2.png",
-                "order": "20",
-                "alt": "Alt text for a slide"
-              },
-              {
-                "url": "/assets/slide3.png",
-                "order": "30",
-                "alt": "Alt text for a slide"
-              }
-            ]
+            "type": "video",
+            "order": 120,
+            "url": "https://youtube.com/embed/zc9S270c-Dg",
+            "alt": "Implementing a Single sign-on (SSO) Microsoft Teams tab using yo Teams"
+          },
+          {
+            "type": "video",
+            "order": 130,
+            "url": "https://youtube.com/embed/IGBKOreRu3M",
+            "alt": "Creating multi-tab Microsoft Teams personal app with SharePoint Framework"
           }
         ],
         "detailItemCategories": [
           {
             "name": "Scenarios",
-            "description": "Possible html supported text shown just above the list of links",
+            "description": "",
             "items": [
               {
                 "name": "Bring an existing web-based resource inside Teams.",
                 "description": "You create a personal tab in your Teams app that presents an informational corporate website to users.",
-                "url": "https://www.bing.com"
+                "url": "https://docs.microsoft.com/microsoftteams/platform/tabs/what-are-tabs?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Add support pages to a Teams bot or messaging extension.",
                 "description": "You create personal tabs that provide about and help webpage content to users.",
-                "url": "https://www.bing.com"
+                "url": "https://docs.microsoft.com/microsoftteams/platform/tabs/what-are-tabs?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Provide access to items that your users interact with regularly for cooperative dialogue and collaboration.",
                 "description": "You create a channel/group tab with deep linking to individual items.",
-                "url": "https://www.bing.com"
-              }
-            ]
-          },
-          {
-            "name": "Partners",
-            "description": "Possible html supported text shown just above the list of links",
-            "items": [
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
+                "url": "https://docs.microsoft.com/microsoftteams/platform/tabs/what-are-tabs?WT.mc_id=m365-12775-cxa"
               }
             ]
           },
           {
             "name": "Samples",
-            "description": "Possible html supported text shown just above the list of links",
+            "description": "",
             "items": [
               {
-                "name": "Sample name 1 with link to GitHub or to Sample gallery when it's available",
-                "description": "Potential description for the sample reference",
-                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
+                "name": "Attendance",
+                "description": "The Attendance app is a Power Apps tab that can be pinned in a team. It is designed to record presence, typically in settings such as learning and training environments. Users can mark or edit attendance for up to 30 days in the past and view summarized attendance reports for an entire group or individual attendees.",
+                "url": "https://docs.microsoft.com/microsoftteams/platform/samples/app-templates?WT.mc_id=m365-12775-cxa#attendance"
               },
               {
-                "name": "Sample name 2 with link to GitHub or to Sample gallery when it's available",
-                "description": "Potential description for the sample reference",
-                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
+                "name": "Goal Tracker",
+                "description": "The Goal Tracker app is a comprehensive solution for your organization to support establishing goals, observing progress, and acknowledging success within Microsoft Teams. The app enables users to set, track, and update objectives on a professional, personal, and team level. Team members also receive timely reminders and status updates to remain focused and stay on track.",
+                "url": "https://docs.microsoft.com/en-us/microsoftteams/platform/samples/app-templates?WT.mc_id=m365-12775-cxa#goal-tracker-"
               },
               {
-                "name": "Sample name 3 with link to GitHub or to Sample gallery when it's available",
-                "description": "Potential description for the sample reference",
-                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
+                "name": "Me experience",
+                "description": "A Me-experience in Microsoft Teams using SharePoint Framework where users can start their day and see their personal information",
+                "url": "https://github.com/pnp/teams-dev-samples/tree/master/samples/tab-spfx-me-experience"
               }
             ]
           },
           {
             "name": "Documentation",
-            "description": "Here are the key resources around getting started on building Microsoft Teams tabs",
+            "description": "Here are the key resources around getting started with building Microsoft Teams tabs",
             "items": [
               {
                 "name": "What are Microsoft Teams custom tabs?",
                 "description": "Potential description for the doc link",
-                "url": "https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/what-are-tabs"
+                "url": "https://docs.microsoft.com/microsoftteams/platform/tabs/what-are-tabs?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Learning path: Create embedded web experiences with tabs for Microsoft Teams",
                 "description": "Potential description for the doc link",
-                "url": "https://docs.microsoft.com/en-gb/learn/modules/embedded-web-experiences/"
+                "url": "https://docs.microsoft.com/learn/modules/embedded-web-experiences/?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Quick start: Build and run your first Microsoft Teams app",
                 "description": "Potential description for the doc link",
-                "url": "https://docs.microsoft.com/en-us/microsoftteams/platform/build-your-first-app/build-and-run"
+                "url": "https://docs.microsoft.com/microsoftteams/platform/build-your-first-app/build-and-run?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Building Microsoft Teams tabs using SharePoint Framework",
                 "description": "You can build Microsoft Teams tabs also using SharePoint Framework with automated solution hosting.",
-                "url": "https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/using-web-part-as-ms-teams-tab"
+                "url": "https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/get-started/using-web-part-as-ms-teams-tab?WT.mc_id=m365-12775-cxa"
               }              
-            ]
-          },
-          {
-            "name": "References",
-            "description": "Possible html supported text shown just above the list of links",
-            "items": [
-              {
-                "name": "Here are some additional references"
-              },
-              {
-                "name": "Rendered as a link if URL exists",
-                "url": "http://aka.ms/m365pnp"
-              },
-              {
-                "name": "Second additional link",
-                "url": "http://aka.ms/m365pnp"
-              }
             ]
           }
         ]
-      },
-      "fr": {
-        "displayTitle": "Microsoft Teams tab"
       }
     }
   }
