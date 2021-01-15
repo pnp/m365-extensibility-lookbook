@@ -11,7 +11,7 @@
       "default": {
         "displayTitle": "Microsoft Teams incoming webhooks",
         "shortDescription": "Connect your web services to channels and teams inside Microsoft Teams",
-        "cardPictureUrl": "/assets/card-tab.png",
+        "cardPictureUrl": "/assets/promo-webhook.png",
         "cardPictureAlt": "Microsoft Teams incoming webhooks", 
         "descriptionParagraphs": [
           "Incoming webhooks are a quick and easy way to connect a channel to your service, and are best used for scenarios that are unique to a particular team"
@@ -22,162 +22,37 @@
             "order": 100,
             "url": "/assets/promo-webhook.png",
             "alt": "Conceptual representation of what connectors look like in the Teams client."
-          },
-          {
-            "type": "video",
-            "order": 101,
-            "url": "https://youtube.com/embed/3120470",
-            "alt": "Alt text for the video"
-          },
-          {
-            "type": "slideshow",
-            "order": 102,
-            "alt": "Alt text for the image",
-            "slides": [
-              {
-                "url": "/assets/slide1.png",
-                "order": "10",
-                "alt": "Alt text for a slide"
-              },
-              {
-                "url": "/assets/slide2.png",
-                "order": "20",
-                "alt": "Alt text for a slide"
-              },
-              {
-                "url": "/assets/slide3.png",
-                "order": "30",
-                "alt": "Alt text for a slide"
-              }
-            ]
           }
         ],
         "detailItemCategories": [
           {
             "name": "Scenarios",
-            "description": "Possible html supported text shown just above the list of links",
+            "description": "",
             "items": [
-              {
-                "name": "Complete team-specific workloads",
-                "description": "Complete team-specific workloads that don't require large amounts of information to be collected or exchanged.",
-                "url": "https://www.bing.com"
-              },
               {
                 "name": "Send DevOps alerts",
                 "description": "Create an incoming webhook in your DevOps channel and configure your build, deployment and monitoring services to send alerts.",
-                "url": "https://www.bing.com"
-              }
-            ]
-          },
-          {
-            "name": "Partners",
-            "description": "Possible html supported text shown just above the list of links",
-            "items": [
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              }
-            ]
-          },
-          {
-            "name": "Samples",
-            "description": "Possible html supported text shown just above the list of links",
-            "items": [
-              {
-                "name": "Sample name 1 with link to GitHub or to Sample gallery when it's available",
-                "description": "Potential description for the sample reference",
-                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
-              },
-              {
-                "name": "Sample name 2 with link to GitHub or to Sample gallery when it's available",
-                "description": "Potential description for the sample reference",
-                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
-              },
-              {
-                "name": "Sample name 3 with link to GitHub or to Sample gallery when it's available",
-                "description": "Potential description for the sample reference",
-                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
+                "url": "https://docs.microsoft.com/microsoftteams/platform/webhooks-and-connectors/what-are-webhooks-and-connectors?WT.mc_id=m365-12775-cxa#incoming-webhooks"
               }
             ]
           },
           {
             "name": "Documentation",
-            "description": "Here are the key resources around getting started on building Microsoft Teams tabs",
+            "description": "Here are the key resources around getting started with using Microsoft Teams incoming webhooks",
             "items": [
               {
-                "name": "What are Microsoft Teams custom tabs?",
-                "description": "Potential description for the doc link",
-                "url": "https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/what-are-tabs"
+                "name": "What are webhooks and connectors?",
+                "description": "Learn what are webhook and connectors in the context of Microsoft Teams",
+                "url": "https://docs.microsoft.com/microsoftteams/platform/webhooks-and-connectors/what-are-webhooks-and-connectors?WT.mc_id=m365-12775-cxa"
               },
               {
-                "name": "Learning path: Create embedded web experiences with tabs for Microsoft Teams",
-                "description": "Potential description for the doc link",
-                "url": "https://docs.microsoft.com/en-gb/learn/modules/embedded-web-experiences/"
-              },
-              {
-                "name": "Quick start: Build and run your first Microsoft Teams app",
-                "description": "Potential description for the doc link",
-                "url": "https://docs.microsoft.com/en-us/microsoftteams/platform/build-your-first-app/build-and-run"
-              },
-              {
-                "name": "Building Microsoft Teams tabs using SharePoint Framework",
-                "description": "You can build Microsoft Teams tabs also using SharePoint Framework with automated solution hosting.",
-                "url": "https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/using-web-part-as-ms-teams-tab"
-              }              
-            ]
-          },
-          {
-            "name": "References",
-            "description": "Possible html supported text shown just above the list of links",
-            "items": [
-              {
-                "name": "Here are some additional references"
-              },
-              {
-                "name": "Rendered as a link if URL exists",
-                "url": "http://aka.ms/m365pnp"
-              },
-              {
-                "name": "Second additional link",
-                "url": "http://aka.ms/m365pnp"
-              }
+                "name": "Post external requests to Teams with incoming webhooks",
+                "description": "Learn how to configure and post to incoming webhooks in Teams",
+                "url": "https://docs.microsoft.com/microsoftteams/platform/webhooks-and-connectors/how-to/add-incoming-webhook?WT.mc_id=m365-12775-cxa"
+              }            
             ]
           }
         ]
-      },
-      "fr": {
-        "displayTitle": "Microsoft Teams incoming webhooks"
       }
     }
   }
