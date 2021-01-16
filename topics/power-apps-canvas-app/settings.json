@@ -9,7 +9,7 @@
   "metadata": {
     "displayInfo": {
       "default": {
-        "displayTitle": "Power Automate canvas apps",
+        "displayTitle": "Power Apps canvas apps",
         "shortDescription": "Design and build a business app from a canvas in Microsoft Power Apps with data from a variety of sources without writing any code using traditional programming languages, such as C#.",
         "cardPictureUrl": "/assets/card-tab.png", 
         "cardPictureAlt": "Power Automate canvas apps", 
@@ -18,147 +18,131 @@
         ],
         "mediaAssets": [
           {
-            "type": "image",
+            "type": "video",
             "order": 100,
-            "url": "/assets/promo-tab.png",
-            "alt": "Alt text for the image"
+            "url": "https://youtu.be/iYPDM9_iWjk",
+            "alt": "Canvas App Branding Template"
           },
           {
             "type": "video",
             "order": 101,
-            "url": "https://youtube.com/embed/3120470",
-            "alt": "Alt text for the video"
+            "url": "https://youtu.be/lSYtD5qJzEw",
+            "alt": "Power Apps Advanced Components"
           },
           {
-            "type": "slideshow",
+            "type": "video",
             "order": 102,
-            "alt": "Alt text for the image",
-            "slides": [
-              {
-                "url": "/assets/slide1.png",
-                "order": "10",
-                "alt": "Alt text for a slide"
-              },
-              {
-                "url": "/assets/slide2.png",
-                "order": "20",
-                "alt": "Alt text for a slide"
-              },
-              {
-                "url": "/assets/slide3.png",
-                "order": "30",
-                "alt": "Alt text for a slide"
-              }
-            ]
+            "alt": "Tips & Tricks to Power-Up Canvas Apps Designs",
+            "url": "https://youtu.be/Z7vOO5rf2to"
           }
         ],
         "detailItemCategories": [
-          {
-            "name": "Scenarios",
-            "description": "Possible html supported text shown just above the list of links",
-            "items": [
-              {
-                "name": "Scenario 1 with a long time explaining what the scenario is all about",
-                "description": "Potential description on top of the scenario title",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Scenario 2 with a long time explaining what the scenario is all about",
-                "description": "Potential description on top of the scenario title",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Scenario 3 with a long time explaining what the scenario is all about",
-                "description": "Potential description on top of the scenario title",
-                "url": "https://www.bing.com"
-              }
-            ]
-          },
-          {
-            "name": "Partners",
-            "description": "Possible html supported text shown just above the list of links",
-            "items": [
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              }
-            ]
-          },
+          // {
+          //   "name": "Scenarios",
+          //   "description": "Possible html supported text shown just above the list of links",
+          //   "items": [
+          //     {
+          //       "name": "Scenario 1 with a long time explaining what the scenario is all about",
+          //       "description": "Potential description on top of the scenario title",
+          //       "url": "https://www.bing.com"
+          //     },
+          //     {
+          //       "name": "Scenario 2 with a long time explaining what the scenario is all about",
+          //       "description": "Potential description on top of the scenario title",
+          //       "url": "https://www.bing.com"
+          //     },
+          //     {
+          //       "name": "Scenario 3 with a long time explaining what the scenario is all about",
+          //       "description": "Potential description on top of the scenario title",
+          //       "url": "https://www.bing.com"
+          //     }
+          //   ]
+          // },
+          // {
+          //   "name": "Partners",
+          //   "description": "Possible html supported text shown just above the list of links",
+          //   "items": [
+          //     {
+          //       "name": "Partner 1 name",
+          //       "description": "Potential description for the partner reference",
+          //       "url": "https://www.bing.com"
+          //     },
+          //     {
+          //       "name": "Partner 1 name",
+          //       "description": "Potential description for the partner reference",
+          //       "url": "https://www.bing.com"
+          //     },
+          //     {
+          //       "name": "Partner 1 name",
+          //       "description": "Potential description for the partner reference",
+          //       "url": "https://www.bing.com"
+          //     },
+          //     {
+          //       "name": "Partner 1 name",
+          //       "description": "Potential description for the partner reference",
+          //       "url": "https://www.bing.com"
+          //     },
+          //     {
+          //       "name": "Partner 1 name",
+          //       "description": "Potential description for the partner reference",
+          //       "url": "https://www.bing.com"
+          //     },
+          //     {
+          //       "name": "Partner 1 name",
+          //       "description": "Potential description for the partner reference",
+          //       "url": "https://www.bing.com"
+          //     },
+          //     {
+          //       "name": "Partner 1 name",
+          //       "description": "Potential description for the partner reference",
+          //       "url": "https://www.bing.com"
+          //     }
+          //   ]
+          // },
           {
             "name": "Samples",
             "description": "Possible html supported text shown just above the list of links",
             "items": [
               {
-                "name": "Sample name 1 with link to GitHub or to Sample gallery when it's available",
-                "description": "Potential description for the sample reference",
-                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
+                "name": "Branding Template App V2",
+                "description": "This App will allow you to pre-brand any inserted controls or screens without having to manually edit any properties of controls or of screens. It will also allow your user to jump between themes while using the App and comes with two accessibility themes",
+                "url": "https://powerusers.microsoft.com/t5/Community-App-Samples/Branding-Template-App-V2/td-p/363582"
               },
               {
-                "name": "Sample name 2 with link to GitHub or to Sample gallery when it's available",
+                "name": "Power Apps Formula Reference",
                 "description": "Potential description for the sample reference",
-                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
+                "url": "https://powerusers.microsoft.com/t5/Community-App-Samples/Power-Apps-Formula-Reference/td-p/650191"
               },
               {
-                "name": "Sample name 3 with link to GitHub or to Sample gallery when it's available",
-                "description": "Potential description for the sample reference",
-                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
+                "name": "Collections Cookbook: 50+ Visual Examples & Code",
+                "description": "Inside you will find over 50 examples of how to do various tasks with Collections. Each page contains code and a visual to show what the code is doing.",
+                "url": "https://powerusers.microsoft.com/t5/Community-App-Samples/Collections-Cookbook-50-Visual-Examples-amp-Code/td-p/437594"
               }
             ]
           },
           {
             "name": "Documentation",
-            "description": "Here are the key resources around getting started on building Microsoft Teams tabs",
+            "description": "Here are the key resources around getting started on building Microsoft Power Apps canvas applications",
             "items": [
               {
-                "name": "What are Microsoft Teams custom tabs?",
-                "description": "Potential description for the doc link",
-                "url": "https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/what-are-tabs"
+                "name": "What is Power Apps",
+                "description": "An overview of Power Apps for beginners",
+                "url": "https://docs.microsoft.com/en-us/powerapps/powerapps-overview"
               },
               {
-                "name": "Learning path: Create embedded web experiences with tabs for Microsoft Teams",
-                "description": "Potential description for the doc link",
-                "url": "https://docs.microsoft.com/en-gb/learn/modules/embedded-web-experiences/"
+                "name": "Power Apps canvas apps documentation",
+                "description": "Design and build a business app from a canvas in Microsoft Power Apps with data from a variety of sources without writing any code using traditional programming languages, such as C#.",
+                "url": "https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/"
               },
               {
-                "name": "Quick start: Build and run your first Microsoft Teams app",
-                "description": "Potential description for the doc link",
-                "url": "https://docs.microsoft.com/en-us/microsoftteams/platform/build-your-first-app/build-and-run"
+                "name": "Create a canvas app from a sample in Power Apps",
+                "description": "In this quickstart, you'll create a canvas app from a sample template. Once created, you can explore the app design possibilities, and discover concepts that you can apply as you develop your own canvas apps.",
+                "url": "https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/open-and-run-a-sample-app"
               },
               {
-                "name": "Building Microsoft Teams tabs using SharePoint Framework",
-                "description": "You can build Microsoft Teams tabs also using SharePoint Framework with automated solution hosting.",
-                "url": "https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/using-web-part-as-ms-teams-tab"
+                "name": "Formula reference for Power Apps",
+                "description": "A comprehensive list of functions, signals, enumerations, and named operators which can be used in your formulas.",
+                "url": "https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/formula-reference"
               }              
             ]
           },
@@ -182,7 +166,7 @@
         ]
       },
       "fr": {
-        "displayTitle": "Microsoft Teams tab"
+        "displayTitle": "Power Apps canvas apps"
       }
     }
   }
