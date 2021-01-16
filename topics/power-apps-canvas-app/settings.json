@@ -138,11 +138,6 @@
                 "name": "Create a canvas app from a sample in Power Apps",
                 "description": "In this quickstart, you'll create a canvas app from a sample template. Once created, you can explore the app design possibilities, and discover concepts that you can apply as you develop your own canvas apps.",
                 "url": "https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/open-and-run-a-sample-app"
-              },
-              {
-                "name": "Formula reference for Power Apps",
-                "description": "A comprehensive list of functions, signals, enumerations, and named operators which can be used in your formulas.",
-                "url": "https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/formula-reference"
               }              
             ]
           },
@@ -151,15 +146,16 @@
             "description": "Possible html supported text shown just above the list of links",
             "items": [
               {
-                "name": "Here are some additional references"
+                "name": "Formula reference for Power Apps",
+                "url": "https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/formula-reference"
               },
               {
-                "name": "Rendered as a link if URL exists",
-                "url": "http://aka.ms/m365pnp"
+                "name": "Power Apps patterns",
+                "url": "https://docs.microsoft.com/en-us/powerapps/guidance/patterns/overview"
               },
               {
-                "name": "Second additional link",
-                "url": "http://aka.ms/m365pnp"
+                "name": "Planning a Power Apps project",
+                "url": "https://docs.microsoft.com/en-us/powerapps/guidance/planning/introduction"
               }
             ]
           }
