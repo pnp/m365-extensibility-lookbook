@@ -9,120 +9,42 @@
   "metadata": {
     "displayInfo": {
       "default": {
-        "displayTitle": "Power Automate portals",
+        "displayTitle": "Power Apps portals",
         "shortDescription": "Use Power Apps portals to create external-facing websites that allow users outside their organizations to sign in with a wide variety of identities, create and view data in Dataverse, or even browse content anonymously.",
         "cardPictureUrl": "/assets/card-tab.png", 
-        "cardPictureAlt": "Power Automate portals", 
+        "cardPictureAlt": "Power Apps portals", 
         "descriptionParagraphs": [
           "Use Power Apps portals to create external-facing websites that allow users outside their organizations to sign in with a wide variety of identities, create and view data in Dataverse, or even browse content anonymously."
         ],
         "mediaAssets": [
           {
-            "type": "image",
+            "type": "video",
             "order": 100,
-            "url": "/assets/promo-tab.png",
-            "alt": "Alt text for the image"
+            "url": "https://youtu.be/5JRHxh48tTc",
+            "alt": "Portals is now available"
           },
           {
             "type": "video",
             "order": 101,
-            "url": "https://youtube.com/embed/3120470",
-            "alt": "Alt text for the video"
+            "url": "https://youtu.be/Zl6kBktNdxI",
+            "alt": "Searching Custom Entities in Power Apps Portals"
           },
           {
-            "type": "slideshow",
+            "type": "video",
             "order": 102,
-            "alt": "Alt text for the image",
-            "slides": [
-              {
-                "url": "/assets/slide1.png",
-                "order": "10",
-                "alt": "Alt text for a slide"
-              },
-              {
-                "url": "/assets/slide2.png",
-                "order": "20",
-                "alt": "Alt text for a slide"
-              },
-              {
-                "url": "/assets/slide3.png",
-                "order": "30",
-                "alt": "Alt text for a slide"
-              }
-            ]
+            "alt": "Microsoft Power Apps portals | 2020 release wave 1 overview",
+            "url": "https://youtu.be/Bf7Ln6uAwxE"
           }
         ],
         "detailItemCategories": [
-          {
-            "name": "Scenarios",
-            "description": "Possible html supported text shown just above the list of links",
-            "items": [
-              {
-                "name": "Scenario 1 with a long time explaining what the scenario is all about",
-                "description": "Potential description on top of the scenario title",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Scenario 2 with a long time explaining what the scenario is all about",
-                "description": "Potential description on top of the scenario title",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Scenario 3 with a long time explaining what the scenario is all about",
-                "description": "Potential description on top of the scenario title",
-                "url": "https://www.bing.com"
-              }
-            ]
-          },
-          {
-            "name": "Partners",
-            "description": "Possible html supported text shown just above the list of links",
-            "items": [
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              }
-            ]
-          },
           {
             "name": "Samples",
             "description": "Possible html supported text shown just above the list of links",
             "items": [
               {
-                "name": "Sample name 1 with link to GitHub or to Sample gallery when it's available",
-                "description": "Potential description for the sample reference",
-                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
+                "name": "What is Power Apps portals?",
+                "description": "Power Apps makers can now create a powerful new type of experience: external-facing websites that allow users outside their organizations to sign in with a wide variety of identities, create and view data in Microsoft Dataverse, or even browse content anonymously.",
+                "url": "https://docs.microsoft.com/en-us/powerapps/maker/portals/overview"
               },
               {
                 "name": "Sample name 2 with link to GitHub or to Sample gallery when it's available",
@@ -141,24 +63,24 @@
             "description": "Here are the key resources around getting started on building Microsoft Teams tabs",
             "items": [
               {
-                "name": "What are Microsoft Teams custom tabs?",
-                "description": "Potential description for the doc link",
-                "url": "https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/what-are-tabs"
+                "name": "What is Power Apps portals?",
+                "description": "Power Apps makers can now create a powerful new type of experience: external-facing websites that allow users outside their organizations to sign in with a wide variety of identities, create and view data in Microsoft Dataverse, or even browse content anonymously.",
+                "url": "https://docs.microsoft.com/en-us/powerapps/maker/portals/overview"
               },
               {
-                "name": "Learning path: Create embedded web experiences with tabs for Microsoft Teams",
-                "description": "Potential description for the doc link",
-                "url": "https://docs.microsoft.com/en-gb/learn/modules/embedded-web-experiences/"
+                "name": "Get started with Power Apps portals",
+                "description": "This learning path introduces you to the Power Apps portals that can be quickly provisioned to serve a variety of different audiences and workloads. We also cover fundamentals of portal architecture, components, features, and tooling.",
+                "url": "https://docs.microsoft.com/en-us/learn/paths/get-started-power-apps-portals/"
               },
               {
-                "name": "Quick start: Build and run your first Microsoft Teams app",
-                "description": "Potential description for the doc link",
-                "url": "https://docs.microsoft.com/en-us/microsoftteams/platform/build-your-first-app/build-and-run"
+                "name": "Create a starter portal",
+                "description": "With the capability to build a portal in Power Apps, you can create a website for external and internal users enabling them to interact with data stored in Microsoft Dataverse.",
+                "url": "https://docs.microsoft.com/en-us/powerapps/maker/portals/create-portal"
               },
               {
-                "name": "Building Microsoft Teams tabs using SharePoint Framework",
-                "description": "You can build Microsoft Teams tabs also using SharePoint Framework with automated solution hosting.",
-                "url": "https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/using-web-part-as-ms-teams-tab"
+                "name": "Customize web parts using Portals Studio",
+                "description": "Power Apps portals Studio allows makers to add and configure webpages, layout components, static content, custom CSS files, entity lists, and entity forms.",
+                "url": "https://docs.microsoft.com/en-us/learn/modules/explore-portals-studio/"
               }              
             ]
           },
@@ -182,7 +104,7 @@
         ]
       },
       "fr": {
-        "displayTitle": "Microsoft Teams tab"
+        "displayTitle": "Power Apps portals"
       }
     }
   }

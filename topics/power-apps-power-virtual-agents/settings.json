@@ -9,180 +9,91 @@
   "metadata": {
     "displayInfo": {
       "default": {
-        "displayTitle": "Power Automate Power Virtual Agents",
+        "displayTitle": "Power Virtual Agents",
         "shortDescription": "Power Virtual Agents allows you to quickly create and maintain intelligent chatbots using a no-code interface.",
         "cardPictureUrl": "/assets/card-tab.png", 
-        "cardPictureAlt": "Power Automate Power Virtual Agents", 
+        "cardPictureAlt": "Power Virtual Agents", 
         "descriptionParagraphs": [
           "Power Virtual Agents allows you to quickly create and maintain intelligent chatbots using a no-code interface."
         ],
         "mediaAssets": [
           {
-            "type": "image",
+            "type": "video",
             "order": 100,
-            "url": "/assets/promo-tab.png",
-            "alt": "Alt text for the image"
+            "url": "https://youtu.be/YkPlZXF135s",
+            "alt": "Build a Power Virtual Agents chatbot with Microsoft Teams"
           },
           {
             "type": "video",
             "order": 101,
-            "url": "https://youtube.com/embed/3120470",
-            "alt": "Alt text for the video"
+            "url": "https://youtu.be/hE8zZIS1Mg0",
+            "alt": "How to share and collaborate on your Power Virtual Agents bots"
           },
           {
-            "type": "slideshow",
+            "type": "video",
             "order": 102,
-            "alt": "Alt text for the image",
-            "slides": [
-              {
-                "url": "/assets/slide1.png",
-                "order": "10",
-                "alt": "Alt text for a slide"
-              },
-              {
-                "url": "/assets/slide2.png",
-                "order": "20",
-                "alt": "Alt text for a slide"
-              },
-              {
-                "url": "/assets/slide3.png",
-                "order": "30",
-                "alt": "Alt text for a slide"
-              }
-            ]
+            "alt": "Microsoft Power Virtual Agents 2020 release wave 1 overview",
+            "url": "https://youtu.be/uee8WT7aBqc"
           }
         ],
         "detailItemCategories": [
           {
-            "name": "Scenarios",
-            "description": "Possible html supported text shown just above the list of links",
-            "items": [
-              {
-                "name": "Scenario 1 with a long time explaining what the scenario is all about",
-                "description": "Potential description on top of the scenario title",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Scenario 2 with a long time explaining what the scenario is all about",
-                "description": "Potential description on top of the scenario title",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Scenario 3 with a long time explaining what the scenario is all about",
-                "description": "Potential description on top of the scenario title",
-                "url": "https://www.bing.com"
-              }
-            ]
-          },
-          {
-            "name": "Partners",
-            "description": "Possible html supported text shown just above the list of links",
-            "items": [
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              }
-            ]
-          },
-          {
             "name": "Samples",
-            "description": "Possible html supported text shown just above the list of links",
             "items": [
               {
-                "name": "Sample name 1 with link to GitHub or to Sample gallery when it's available",
-                "description": "Potential description for the sample reference",
-                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
-              },
-              {
-                "name": "Sample name 2 with link to GitHub or to Sample gallery when it's available",
-                "description": "Potential description for the sample reference",
-                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
-              },
-              {
-                "name": "Sample name 3 with link to GitHub or to Sample gallery when it's available",
-                "description": "Potential description for the sample reference",
-                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
+                "name": "Sample HR bot",
+                "description": "HR Support bot is a friendly question and answer bot that brings a support professional expert from the HR team into the loop when it is unable to help. An employee can ask the bot a question and the bot responds with an answer if the bot has content for it.",
+                "url": "https://docs.microsoft.com/en-us/power-virtual-agents/teams/fundamentals-get-started-teams"
               }
             ]
           },
           {
             "name": "Documentation",
-            "description": "Here are the key resources around getting started on building Microsoft Teams tabs",
+            "description": "Here are the key resources around getting started on building Microsoft Power Virtual Agents",
             "items": [
               {
-                "name": "What are Microsoft Teams custom tabs?",
-                "description": "Potential description for the doc link",
-                "url": "https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/what-are-tabs"
+                "name": "What is Power Virtual Agents",
+                "description": "Power Virtual Agents lets you create powerful chatbots that can answer questions posed by your customers, other employees, or visitors to your website or service.",
+                "url": "https://docs.microsoft.com/en-us/power-virtual-agents/fundamentals-what-is-power-virtual-agents"
               },
               {
-                "name": "Learning path: Create embedded web experiences with tabs for Microsoft Teams",
-                "description": "Potential description for the doc link",
-                "url": "https://docs.microsoft.com/en-gb/learn/modules/embedded-web-experiences/"
+                "name": "Overview of Power Virtual Agents web app",
+                "description": "Power Virtual Agents lets you create powerful chatbots that can be created with a guided, no-code graphical interface - and without the need for data scientists or developers.",
+                "url": "https://docs.microsoft.com/en-us/power-virtual-agents/fundamentals-what-is-power-virtual-agents-portal"
               },
               {
-                "name": "Quick start: Build and run your first Microsoft Teams app",
-                "description": "Potential description for the doc link",
-                "url": "https://docs.microsoft.com/en-us/microsoftteams/platform/build-your-first-app/build-and-run"
+                "name": "Power Virtual Agents app in Microsoft Teams",
+                "description": "Power Virtual Agents is available as an app within Microsoft Teams, which means you can easily create your own chatbots that answer questions posed by other employees or team members.",
+                "url": "https://docs.microsoft.com/en-us/power-virtual-agents/teams/fundamentals-what-is-power-virtual-agents-teams"
               },
               {
-                "name": "Building Microsoft Teams tabs using SharePoint Framework",
-                "description": "You can build Microsoft Teams tabs also using SharePoint Framework with automated solution hosting.",
-                "url": "https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/using-web-part-as-ms-teams-tab"
+                "name": "Create and delete Power Virtual Agents bots",
+                "description": "To help get you started and tailor the bot to your specific needs, Power Virtual Agents lets you create a bot using built-in content building blocks containing topics, trigger phrases, and pre-authored bot conversations.",
+                "url": "https://docs.microsoft.com/en-us/power-virtual-agents/authoring-first-bot"
               }              
             ]
           },
           {
             "name": "References",
-            "description": "Possible html supported text shown just above the list of links",
             "items": [
               {
-                "name": "Here are some additional references"
+                "name": "Licensing for Power Virtual Agents",
+                "url": "https://docs.microsoft.com/en-us/power-virtual-agents/requirements-licensing-subscriptions"
               },
               {
-                "name": "Rendered as a link if URL exists",
-                "url": "http://aka.ms/m365pnp"
+                "name": "Standards compliance and certification",
+                "url": "https://docs.microsoft.com/en-us/power-virtual-agents/admin-certification"
               },
               {
-                "name": "Second additional link",
-                "url": "http://aka.ms/m365pnp"
+                "name": "Quotas and rate limit considerations",
+                "url": "https://docs.microsoft.com/en-us/power-virtual-agents/requirements-quotas"
               }
             ]
           }
         ]
       },
       "fr": {
-        "displayTitle": "Microsoft Teams tab"
+        "displayTitle": "Power Virtual Agents"
       }
     }
   }
