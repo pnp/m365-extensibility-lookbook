@@ -18,26 +18,32 @@
         ],
         "mediaAssets": [
           {
-            "type": "video",
+            "type": "image",
             "order": 100,
+            "url": "/assets/promo-tab.png",
+            "alt": "Sample model-driven app"
+          },
+          {
+            "type": "video",
+            "order": 101,
             "url": "https://youtu.be/YsOVsQeUImc",
             "alt": "Building custom business applications with model-driven Power Apps and Dataverse"
           },
           {
             "type": "video",
-            "order": 101,
+            "order": 102,
             "url": "https://youtu.be/buDDSzJTgns",
             "alt": "Getting started with model-driven apps"
           },
           {
             "type": "video",
-            "order": 102,
+            "order": 103,
             "alt": "Offline capabilities for model-driven apps",
             "url": "https://youtu.be/jcKoqC9Vfmo"
           },
           {
             "type": "video",
-            "order": 103,
+            "order": 104,
             "alt": "Multiple embedded canvas apps (more than three) in a form in Model-Driven PowerApps",
             "url": "https://youtu.be/IbWvvvvwDeM"
           }

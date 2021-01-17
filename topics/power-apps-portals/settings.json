@@ -18,20 +18,26 @@
         ],
         "mediaAssets": [
           {
-            "type": "video",
+            "type": "image",
             "order": 100,
+            "url": "/assets/promo-tab.png",
+            "alt": "Sample Power Apps portal"
+          },
+          {
+            "type": "video",
+            "order": 101,
             "url": "https://youtu.be/5JRHxh48tTc",
             "alt": "Portals is now available"
           },
           {
             "type": "video",
-            "order": 101,
+            "order": 102,
             "url": "https://youtu.be/Zl6kBktNdxI",
             "alt": "Searching Custom Entities in Power Apps Portals"
           },
           {
             "type": "video",
-            "order": 102,
+            "order": 103,
             "alt": "Microsoft Power Apps portals | 2020 release wave 1 overview",
             "url": "https://youtu.be/Bf7Ln6uAwxE"
           }

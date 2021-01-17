@@ -53,136 +53,74 @@
           }
         ],
         "detailItemCategories": [
-          {
-            "name": "Scenarios",
-            "description": "Possible html supported text shown just above the list of links",
-            "items": [
-              {
-                "name": "Scenario 1 with a long time explaining what the scenario is all about",
-                "description": "Potential description on top of the scenario title",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Scenario 2 with a long time explaining what the scenario is all about",
-                "description": "Potential description on top of the scenario title",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Scenario 3 with a long time explaining what the scenario is all about",
-                "description": "Potential description on top of the scenario title",
-                "url": "https://www.bing.com"
-              }
-            ]
-          },
-          {
-            "name": "Partners",
-            "description": "Possible html supported text shown just above the list of links",
-            "items": [
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              }
-            ]
-          },
-          {
-            "name": "Samples",
-            "description": "Possible html supported text shown just above the list of links",
-            "items": [
-              {
-                "name": "Sample name 1 with link to GitHub or to Sample gallery when it's available",
-                "description": "Potential description for the sample reference",
-                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
-              },
-              {
-                "name": "Sample name 2 with link to GitHub or to Sample gallery when it's available",
-                "description": "Potential description for the sample reference",
-                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
-              },
-              {
-                "name": "Sample name 3 with link to GitHub or to Sample gallery when it's available",
-                "description": "Potential description for the sample reference",
-                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
-              }
-            ]
-          },
+          // {
+          //   "name": "Samples",
+          //   "description": "Possible html supported text shown just above the list of links",
+          //   "items": [
+          //     {
+          //       "name": "Sample name 1 with link to GitHub or to Sample gallery when it's available",
+          //       "description": "Potential description for the sample reference",
+          //       "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
+          //     },
+          //     {
+          //       "name": "Sample name 2 with link to GitHub or to Sample gallery when it's available",
+          //       "description": "Potential description for the sample reference",
+          //       "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
+          //     },
+          //     {
+          //       "name": "Sample name 3 with link to GitHub or to Sample gallery when it's available",
+          //       "description": "Potential description for the sample reference",
+          //       "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
+          //     }
+          //   ]
+          // },
           {
             "name": "Documentation",
-            "description": "Here are the key resources around getting started on building Microsoft Teams tabs",
+            "description": "Here are the key resources around getting started on building automated flows in Power Automate",
             "items": [
               {
-                "name": "What are Microsoft Teams custom tabs?",
-                "description": "Potential description for the doc link",
-                "url": "https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/what-are-tabs"
+                "name": "Create a cloud flow from a template in Power Automate",
+                "description": "Create a cloud flow from one of many built-in templates that can, for example, send you a Slack message when your manager sends you an email in Office 365.",
+                "url": "https://docs.microsoft.com/en-us/power-automate/get-started-logic-template"
               },
               {
-                "name": "Learning path: Create embedded web experiences with tabs for Microsoft Teams",
-                "description": "Potential description for the doc link",
-                "url": "https://docs.microsoft.com/en-gb/learn/modules/embedded-web-experiences/"
+                "name": "Create a cloud flow in Power Automate",
+                "description": "Create a cloud flow that performs one or more tasks automatically after it's triggered by an event",
+                "url": "https://docs.microsoft.com/en-us/power-automate/get-started-logic-flow"
               },
               {
-                "name": "Quick start: Build and run your first Microsoft Teams app",
-                "description": "Potential description for the doc link",
-                "url": "https://docs.microsoft.com/en-us/microsoftteams/platform/build-your-first-app/build-and-run"
+                "name": "Create an automated flow by using Microsoft Dataverse (current environment) connector",
+                "description": "The flows you create can trigger when a Dataverse record is created, updated, or deleted.",
+                "url": "https://docs.microsoft.com/en-us/power-automate/connection-cds-native"
               },
               {
-                "name": "Building Microsoft Teams tabs using SharePoint Framework",
-                "description": "You can build Microsoft Teams tabs also using SharePoint Framework with automated solution hosting.",
-                "url": "https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/using-web-part-as-ms-teams-tab"
+                "name": "Create an automated flow by using Microsoft Dataverse",
+                "description": "With the Common Data Service connector, you can create flows that are initiated by create and update events within Dataverse. Additionally, you can perform create, update, retrieve, and delete actions on records within Dataverse.",
+                "url": "https://docs.microsoft.com/en-us/power-automate/connection-cds"
               }              
             ]
           },
-          {
-            "name": "References",
-            "description": "Possible html supported text shown just above the list of links",
-            "items": [
-              {
-                "name": "Here are some additional references"
-              },
-              {
-                "name": "Rendered as a link if URL exists",
-                "url": "http://aka.ms/m365pnp"
-              },
-              {
-                "name": "Second additional link",
-                "url": "http://aka.ms/m365pnp"
-              }
-            ]
-          }
+          // {
+          //   "name": "References",
+          //   "description": "Possible html supported text shown just above the list of links",
+          //   "items": [
+          //     {
+          //       "name": "Here are some additional references"
+          //     },
+          //     {
+          //       "name": "Rendered as a link if URL exists",
+          //       "url": "http://aka.ms/m365pnp"
+          //     },
+          //     {
+          //       "name": "Second additional link",
+          //       "url": "http://aka.ms/m365pnp"
+          //     }
+          //   ]
+          // }
         ]
       },
       "fr": {
-        "displayTitle": "Microsoft Teams tab"
+        "displayTitle": "Power Automate automated flows"
       }
     }
   }
