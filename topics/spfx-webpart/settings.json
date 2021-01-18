@@ -1,7 +1,8 @@
 {
   "topicId": "extensibility-web-parts",
   "categories": [
-    "SHAREPOINT"
+    "SHAREPOINT",
+    "MODERNPORTALS"
   ],
   "sortOrder": 300,
   "preview": false,

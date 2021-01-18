@@ -1,7 +1,8 @@
 {
   "topicId": "extensibility-spfx-field-customizer",
   "categories": [
-    "SHAREPOINT"
+    "SHAREPOINT",
+    "MODERNPORTALS"
   ],
   "sortOrder": 300,
   "preview": false,

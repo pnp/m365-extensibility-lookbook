@@ -1,7 +1,8 @@
 {
   "topicId": "extensibility-spfx-list-view-command-set",
   "categories": [
-    "SHAREPOINT"
+    "SHAREPOINT",
+    "MODERNPORTALS"
   ],
   "sortOrder": 300,
   "preview": false,
