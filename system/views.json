@@ -217,7 +217,47 @@
                             "description": "Potential description for category"
                         }
                     }
-                }
+                },
+                {
+                    "id": "BFSI",
+                    "sortOrder": 300,
+                    "displayInfo": {
+                        "default": {
+                            "displayName": "Banking & Finance Services",
+                            "description": "Banking & Finance Services"
+                        }
+                    }
+                },
+                {
+                    "id": "EDU",
+                    "sortOrder": 300,
+                    "displayInfo": {
+                        "default": {
+                            "displayName": "Education",
+                            "description": "Education"
+                        }
+                    }
+                },
+                {
+                    "id": "CROSSINDUSTRY",
+                    "sortOrder": 300,
+                    "displayInfo": {
+                        "default": {
+                            "displayName": "Cross-Industry",
+                            "description": "Cross-Industry"
+                        }
+                    }
+                },
+                {
+                    "id": "RETAIL",
+                    "sortOrder": 300,
+                    "displayInfo": {
+                        "default": {
+                            "displayName": "Retail",
+                            "description": "Retail"
+                        }
+                    }
+                }                             
             ]
         }
     ]

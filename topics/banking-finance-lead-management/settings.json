@@ -1,0 +1,123 @@
+{
+  "topicId": "scenario-banking-finance-lead-management",
+  "categories": [
+    "BFSI"
+  ],
+  "sortOrder": 300,
+  "preview": false,
+  "visible": true,
+  "metadata": {
+    "displayInfo": {
+      "default": {
+        "displayTitle": "Lead Management System",
+        "shortDescription": "Lead Management System",
+        "cardPictureUrl": "/assets/card-lead-management.png", 
+        "cardPictureAlt": "Lead Management System", 
+        "descriptionParagraphs": [
+          "Daniela is a relationship manager (RM) at Contoso Banking. She is part of a team that covers personal, home and car loan products for customers.",
+          "Every quarter, Daniela gets assigned a set of targets in terms of number of leads, dollar value and products sold. In addition to these business targets, Daniela also has a set of operational metrics"
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 100,
+            "url": "/assets/promo-lead-management.png",
+            "alt": "Lead Management System"
+          },
+          {
+            "type": "slideshow",
+            "order": 102,
+            "alt": "Alt text for the image",
+            "slides": [
+              { "url": "/assets/slide4.png","order": "10", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide5.png","order": "20", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide6.png","order": "30", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide7.png","order": "40", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide8.png","order": "50", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide9.png","order": "60", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide10.png","order": "70", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide11.png","order": "80", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide12.png","order": "90", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide13.png","order": "100", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide14.png","order": "110", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide15.png","order": "120", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide16.png","order": "130", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide17.png","order": "140", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide18.png","order": "150", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide19.png","order": "160", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide20.png","order": "170", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide21.png","order": "180", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide22.png","order": "190", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide23.png","order": "200", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide24.png","order": "210", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide25.png","order": "220", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide26.png","order": "230", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide27.png","order": "240", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide28.png","order": "250", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide29.png","order": "260", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide30.png","order": "270", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide31.png","order": "280", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide32.png","order": "290", "alt": "Alt text for a slide"}             
+            ]
+          }
+        ],
+        "detailItemCategories": [
+          {
+            "name": "Technology",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": [
+              {
+                "name": "Technology used in scenario",
+                "description": "Potential description on top of the technology",
+                "url": "https://www.bing.com"
+              }
+            ]
+          },
+          {
+            "name": "Partners",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": [
+              {
+                "name": "Partner 1 name",
+                "description": "Potential description for the partner reference",
+                "url": "https://www.bing.com"
+              }
+            ]
+          },
+          {
+            "name": "Samples",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": [
+              {
+                "name": "Sample name 1 with link to GitHub or to Sample gallery when it's available",
+                "description": "Potential description for the sample reference",
+                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
+              }
+            ]
+          },
+          {
+            "name": "Documentation",
+            "description": "Here are the key resources around getting started on building Microsoft Teams tabs",
+            "items": [
+              {
+                "name": "What are Microsoft Teams custom tabs?",
+                "description": "Potential description for the doc link",
+                "url": "https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/what-are-tabs"
+              }           
+            ]
+          },
+          {
+            "name": "References",
+            "description": "Additional assets around the scenario",
+            "items": [
+              {
+                "name": "PowerPoint presentation containing scenario details",
+                "url": "/assets/BFSI Teamwork BoD.pptx"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

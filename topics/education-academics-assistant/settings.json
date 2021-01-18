@@ -1,0 +1,120 @@
+{
+  "topicId": "scenario-education-academics-assistant",
+  "categories": [
+     "EDU"
+  ],
+  "sortOrder": 200,
+  "preview": false,
+  "visible": true,
+  "metadata": {
+    "displayInfo": {
+      "default": {
+        "displayTitle": "Academics Assistant",
+        "shortDescription": "Academics Assistant",
+        "cardPictureUrl": "/assets/academics-assistant.png", 
+        "cardPictureAlt": "Academics Assistant", 
+        "descriptionParagraphs": [
+          "Daniel, a student at Contoso university is juggling between his academic coursework, part time job, extra and co-curricular activities. He prefers a centralized hub to manage all his day-to-day activities, tasks and  coursework in a structured manner.",
+          "He uses Teams for interacting with his classmates and collaborate on coursework related deliverables. In addition, his online classes take place as Teams meetings."
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 100,
+            "url": "/assets/promo-academics-assistant.png",
+            "alt": "Academics Assistant"
+          },
+          {
+            "type": "slideshow",
+            "order": 102,
+            "alt": "Alt text for the image",
+            "slides": [
+              { "url": "/assets/slide42.png","order": "420", "alt": "Scenario slide 42"},
+              { "url": "/assets/slide43.png","order": "430", "alt": "Scenario slide 43"},
+              { "url": "/assets/slide44.png","order": "440", "alt": "Scenario slide 44"},
+              { "url": "/assets/slide45.png","order": "450", "alt": "Scenario slide 45"},
+              { "url": "/assets/slide46.png","order": "460", "alt": "Scenario slide 46"},
+              { "url": "/assets/slide47.png","order": "470", "alt": "Scenario slide 47"},
+              { "url": "/assets/slide48.png","order": "480", "alt": "Scenario slide 48"},
+              { "url": "/assets/slide49.png","order": "490", "alt": "Scenario slide 49"},
+              { "url": "/assets/slide50.png","order": "500", "alt": "Scenario slide 50"},
+              { "url": "/assets/slide51.png","order": "510", "alt": "Scenario slide 51"},
+              { "url": "/assets/slide52.png","order": "520", "alt": "Scenario slide 52"},
+              { "url": "/assets/slide53.png","order": "530", "alt": "Scenario slide 53"},
+              { "url": "/assets/slide54.png","order": "540", "alt": "Scenario slide 54"},
+              { "url": "/assets/slide55.png","order": "550", "alt": "Scenario slide 55"},
+              { "url": "/assets/slide56.png","order": "560", "alt": "Scenario slide 56"},
+              { "url": "/assets/slide57.png","order": "570", "alt": "Scenario slide 57"},
+              { "url": "/assets/slide58.png","order": "580", "alt": "Scenario slide 58"},
+              { "url": "/assets/slide59.png","order": "590", "alt": "Scenario slide 59"},
+              { "url": "/assets/slide60.png","order": "600", "alt": "Scenario slide 60"},
+              { "url": "/assets/slide61.png","order": "610", "alt": "Scenario slide 61"},
+              { "url": "/assets/slide62.png","order": "620", "alt": "Scenario slide 62"},
+              { "url": "/assets/slide63.png","order": "630", "alt": "Scenario slide 63"},
+              { "url": "/assets/slide64.png","order": "640", "alt": "Scenario slide 64"},
+              { "url": "/assets/slide65.png","order": "650", "alt": "Scenario slide 65"},
+              { "url": "/assets/slide66.png","order": "660", "alt": "Scenario slide 66"},
+              { "url": "/assets/slide67.png","order": "670", "alt": "Scenario slide 67"}              
+            ]
+          }
+        ],
+        "detailItemCategories": [
+          {
+            "name": "Technology",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": [
+              {
+                "name": "Technology used in scenario",
+                "description": "Potential description on top of the technology",
+                "url": "https://www.bing.com"
+              }
+            ]
+          },
+          {
+            "name": "Partners",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": [
+              {
+                "name": "Partner 1 name",
+                "description": "Potential description for the partner reference",
+                "url": "https://www.bing.com"
+              }
+            ]
+          },
+          {
+            "name": "Samples",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": [
+              {
+                "name": "Sample name 1 with link to GitHub or to Sample gallery when it's available",
+                "description": "Potential description for the sample reference",
+                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
+              }
+            ]
+          },
+          {
+            "name": "Documentation",
+            "description": "Here are the key resources around getting started on building Microsoft Teams tabs",
+            "items": [
+              {
+                "name": "What are Microsoft Teams custom tabs?",
+                "description": "Potential description for the doc link",
+                "url": "https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/what-are-tabs"
+              }           
+            ]
+          },
+          {
+            "name": "References",
+            "description": "Additional assets around the scenario",
+            "items": [
+              {
+                "name": "PowerPoint presentation containing scenario details",
+                "url": "/assets/Education Teamwork BoD.pptx"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

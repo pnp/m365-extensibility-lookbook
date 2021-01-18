@@ -14,8 +14,8 @@
         "cardPictureUrl": "/assets/card-time-expense.png", 
         "cardPictureAlt": "Time & Expense Submission", 
         "descriptionParagraphs": [
-          "Babak, an employee at Contoso Consulting Services works with multiple clients and juggles various projects both internal and client facing in a typical week",
-          "Contoso Consulting’s org policy states that all Consultants must submit the hours logged for each client project and expenses incurred in a weekly manner. Missing Time & expense submission is a compliance issue and needs to be closely monitored"
+          "Babak, an employee at Contoso Consulting Services works with multiple clients and juggles various projects both internal and client facing in a typical week.",
+          "Contoso Consulting’s org policy states that all Consultants must submit the hours logged for each client project and expenses incurred in a weekly manner. Missing Time & expense submission is a compliance issue and needs to be closely monitored."
         ],
         "mediaAssets": [
           {
@@ -77,18 +77,8 @@
             "description": "Possible html supported text shown just above the list of links",
             "items": [
               {
-                "name": "Technology 1 with a long time explaining what the scenario is all about",
-                "description": "Potential description on top of the scenario title",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Technology 2 with a long time explaining what the scenario is all about",
-                "description": "Potential description on top of the scenario title",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Technology 3 with a long time explaining what the scenario is all about",
-                "description": "Potential description on top of the scenario title",
+                "name": "Technology used in scenario",
+                "description": "Potential description on top of the technology",
                 "url": "https://www.bing.com"
               }
             ]
@@ -97,36 +87,6 @@
             "name": "Partners",
             "description": "Possible html supported text shown just above the list of links",
             "items": [
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
               {
                 "name": "Partner 1 name",
                 "description": "Potential description for the partner reference",
@@ -142,16 +102,6 @@
                 "name": "Sample name 1 with link to GitHub or to Sample gallery when it's available",
                 "description": "Potential description for the sample reference",
                 "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
-              },
-              {
-                "name": "Sample name 2 with link to GitHub or to Sample gallery when it's available",
-                "description": "Potential description for the sample reference",
-                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
-              },
-              {
-                "name": "Sample name 3 with link to GitHub or to Sample gallery when it's available",
-                "description": "Potential description for the sample reference",
-                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
               }
             ]
           },
@@ -163,45 +113,20 @@
                 "name": "What are Microsoft Teams custom tabs?",
                 "description": "Potential description for the doc link",
                 "url": "https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/what-are-tabs"
-              },
-              {
-                "name": "Learning path: Create embedded web experiences with tabs for Microsoft Teams",
-                "description": "Potential description for the doc link",
-                "url": "https://docs.microsoft.com/en-gb/learn/modules/embedded-web-experiences/"
-              },
-              {
-                "name": "Quick start: Build and run your first Microsoft Teams app",
-                "description": "Potential description for the doc link",
-                "url": "https://docs.microsoft.com/en-us/microsoftteams/platform/build-your-first-app/build-and-run"
-              },
-              {
-                "name": "Building Microsoft Teams tabs using SharePoint Framework",
-                "description": "You can build Microsoft Teams tabs also using SharePoint Framework with automated solution hosting.",
-                "url": "https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/using-web-part-as-ms-teams-tab"
-              }              
+              }           
             ]
           },
           {
             "name": "References",
-            "description": "Possible html supported text shown just above the list of links",
+            "description": "Additional assets around the scenario",
             "items": [
               {
-                "name": "Here are some additional references"
-              },
-              {
-                "name": "Rendered as a link if URL exists",
-                "url": "http://aka.ms/m365pnp"
-              },
-              {
-                "name": "Second additional link",
-                "url": "http://aka.ms/m365pnp"
+                "name": "PowerPoint presentation containing scenario details",
+                "url": "/assets/Professional Services Teamwork BoD.pptx"
               }
             ]
           }
         ]
-      },
-      "fr": {
-        "displayTitle": "Microsoft Teams tab"
       }
     }
   }

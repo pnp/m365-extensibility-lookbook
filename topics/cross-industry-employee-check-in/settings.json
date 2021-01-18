@@ -1,0 +1,113 @@
+{
+  "topicId": "scenario-cross-industry-employee-check-in",
+  "categories": [
+     "CROSSINDUSTRY"
+  ],
+  "sortOrder": 100,
+  "preview": false,
+  "visible": true,
+  "metadata": {
+    "displayInfo": {
+      "default": {
+        "displayTitle": "Employee Check-in",
+        "shortDescription": "Employee Check-in",
+        "cardPictureUrl": "/assets/card-employee-check-in.png", 
+        "cardPictureAlt": "Employee Check-in", 
+        "descriptionParagraphs": [
+          "Babak newly joined Contoso and is figuring out the new tools and systems he has to get familiarized with. One of the daily activities expected of Babak is sharing the time of check-in and check-out with his immediate manager",
+          "Babak’s team works with multiple customers in different locations and this frequently takes Babak across cities or to different offices within his base city. Consequently, Babak is expected to check-in and check-out from whichever location he is in."
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 100,
+            "url": "/assets/promo-employee-check-in.png",
+            "alt": "Employee Check-in"
+          },
+          {
+            "type": "slideshow",
+            "order": 102,
+            "alt": "Alt text for the image",
+            "slides": [
+              { "url": "/assets/slide4.png","order": "10", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide5.png","order": "20", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide6.png","order": "30", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide7.png","order": "40", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide8.png","order": "50", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide9.png","order": "60", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide10.png","order": "70", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide11.png","order": "80", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide12.png","order": "90", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide13.png","order": "100", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide14.png","order": "110", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide15.png","order": "120", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide16.png","order": "130", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide17.png","order": "140", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide18.png","order": "150", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide19.png","order": "160", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide20.png","order": "170", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide21.png","order": "180", "alt": "Alt text for a slide"},
+              { "url": "/assets/slide22.png","order": "190", "alt": "Alt text for a slide"}            
+            ]
+          }
+        ],
+        "detailItemCategories": [
+          {
+            "name": "Technology",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": [
+              {
+                "name": "Technology used in scenario",
+                "description": "Potential description on top of the technology",
+                "url": "https://www.bing.com"
+              }
+            ]
+          },
+          {
+            "name": "Partners",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": [
+              {
+                "name": "Partner 1 name",
+                "description": "Potential description for the partner reference",
+                "url": "https://www.bing.com"
+              }
+            ]
+          },
+          {
+            "name": "Samples",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": [
+              {
+                "name": "Sample name 1 with link to GitHub or to Sample gallery when it's available",
+                "description": "Potential description for the sample reference",
+                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
+              }
+            ]
+          },
+          {
+            "name": "Documentation",
+            "description": "Here are the key resources around getting started on building Microsoft Teams tabs",
+            "items": [
+              {
+                "name": "What are Microsoft Teams custom tabs?",
+                "description": "Potential description for the doc link",
+                "url": "https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/what-are-tabs"
+              }           
+            ]
+          },
+          {
+            "name": "References",
+            "description": "Additional assets around the scenario",
+            "items": [
+              {
+                "name": "PowerPoint presentation containing scenario details",
+                "url": "/assets/Cross-Industry Teamwork BoD.pptx"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

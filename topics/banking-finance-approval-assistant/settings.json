@@ -1,0 +1,119 @@
+{
+  "topicId": "scenario-banking-finance-approval-assistant",
+  "categories": [
+     "BFSI"
+  ],
+  "sortOrder": 100,
+  "preview": false,
+  "visible": true,
+  "metadata": {
+    "displayInfo": {
+      "default": {
+        "displayTitle": "Approval Assistant",
+        "shortDescription": "Approval Assistant",
+        "cardPictureUrl": "/assets/card-approval-assistant.png", 
+        "cardPictureAlt": "Approval Assistant", 
+        "descriptionParagraphs": [
+          "Daniela, a relationship manager at Contoso Banking is handling the creation of marketing asset for a discount flyer that is scheduled for distribution to customers announcing new year offers.",
+          "Daniela needs to get approval from various stakeholders in her branch before she includes the flyer in the marketing communication."
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 100,
+            "url": "/assets/promo-approval-assistant.png",
+            "alt": "Approval Assistant"
+          },
+          {
+            "type": "slideshow",
+            "order": 102,
+            "alt": "Alt text for the image",
+            "slides": [
+              { "url": "/assets/slide59.png","order": "590", "alt": "Scenario slide 59"},
+              { "url": "/assets/slide60.png","order": "600", "alt": "Scenario slide 60"},
+              { "url": "/assets/slide61.png","order": "610", "alt": "Scenario slide 61"},
+              { "url": "/assets/slide62.png","order": "620", "alt": "Scenario slide 62"},
+              { "url": "/assets/slide63.png","order": "630", "alt": "Scenario slide 63"},
+              { "url": "/assets/slide64.png","order": "640", "alt": "Scenario slide 64"},
+              { "url": "/assets/slide65.png","order": "650", "alt": "Scenario slide 65"},
+              { "url": "/assets/slide66.png","order": "660", "alt": "Scenario slide 66"},
+              { "url": "/assets/slide67.png","order": "670", "alt": "Scenario slide 67"},
+              { "url": "/assets/slide68.png","order": "680", "alt": "Scenario slide 68"},
+              { "url": "/assets/slide69.png","order": "690", "alt": "Scenario slide 69"},
+              { "url": "/assets/slide70.png","order": "700", "alt": "Scenario slide 70"},
+              { "url": "/assets/slide71.png","order": "710", "alt": "Scenario slide 71"},
+              { "url": "/assets/slide72.png","order": "720", "alt": "Scenario slide 72"},
+              { "url": "/assets/slide73.png","order": "730", "alt": "Scenario slide 73"},
+              { "url": "/assets/slide74.png","order": "740", "alt": "Scenario slide 74"},
+              { "url": "/assets/slide75.png","order": "750", "alt": "Scenario slide 75"},
+              { "url": "/assets/slide76.png","order": "760", "alt": "Scenario slide 76"},
+              { "url": "/assets/slide77.png","order": "770", "alt": "Scenario slide 77"},
+              { "url": "/assets/slide78.png","order": "780", "alt": "Scenario slide 78"},
+              { "url": "/assets/slide79.png","order": "790", "alt": "Scenario slide 79"},
+              { "url": "/assets/slide80.png","order": "800", "alt": "Scenario slide 80"},
+              { "url": "/assets/slide81.png","order": "810", "alt": "Scenario slide 81"},
+              { "url": "/assets/slide82.png","order": "820", "alt": "Scenario slide 82"},
+              { "url": "/assets/slide83.png","order": "830", "alt": "Scenario slide 83"}
+            ]
+          }
+        ],
+        "detailItemCategories": [
+          {
+            "name": "Technology",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": [
+              {
+                "name": "Technology used in scenario",
+                "description": "Potential description on top of the technology",
+                "url": "https://www.bing.com"
+              }
+            ]
+          },
+          {
+            "name": "Partners",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": [
+              {
+                "name": "Partner 1 name",
+                "description": "Potential description for the partner reference",
+                "url": "https://www.bing.com"
+              }
+            ]
+          },
+          {
+            "name": "Samples",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": [
+              {
+                "name": "Sample name 1 with link to GitHub or to Sample gallery when it's available",
+                "description": "Potential description for the sample reference",
+                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
+              }
+            ]
+          },
+          {
+            "name": "Documentation",
+            "description": "Here are the key resources around getting started on building Microsoft Teams tabs",
+            "items": [
+              {
+                "name": "What are Microsoft Teams custom tabs?",
+                "description": "Potential description for the doc link",
+                "url": "https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/what-are-tabs"
+              }           
+            ]
+          },
+          {
+            "name": "References",
+            "description": "Additional assets around the scenario",
+            "items": [
+              {
+                "name": "PowerPoint presentation containing scenario details",
+                "url": "/assets/BFSI Teamwork BoD.pptx"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

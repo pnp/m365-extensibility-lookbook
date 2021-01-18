@@ -1,0 +1,121 @@
+{
+  "topicId": "scenario-cross-industry-meeting-manager",
+  "categories": [
+     "CROSSINDUSTRY"
+  ],
+  "sortOrder": 200,
+  "preview": false,
+  "visible": true,
+  "metadata": {
+    "displayInfo": {
+      "default": {
+        "displayTitle": "Meeting Manager",
+        "shortDescription": "Meeting Manager",
+        "cardPictureUrl": "/assets/card-meeting-manager.png", 
+        "cardPictureAlt": "Meeting Manager", 
+        "descriptionParagraphs": [
+          "Daniela is a manager at Contoso Services. She manages a cross-functional team of employees and juggles between responsibilities across different product areas",
+          "She uses a multitude of tools to keep in track of her project goals across different teams, outcomes from meetings, action items and notes. While it works to a certain extent, these systems seldom talk to each other causing switches and silos of info."
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 100,
+            "url": "/assets/promo-meeting-manager.png",
+            "alt": "Scenario description"
+          },
+          {
+            "type": "slideshow",
+            "order": 102,
+            "alt": "Alt text for the image",
+            "slides": [
+              { "url": "/assets/slide24.png","order": "240", "alt": "Scenario slide 24"},
+              { "url": "/assets/slide25.png","order": "250", "alt": "Scenario slide 25"},
+              { "url": "/assets/slide26.png","order": "260", "alt": "Scenario slide 26"},
+              { "url": "/assets/slide27.png","order": "270", "alt": "Scenario slide 27"},
+              { "url": "/assets/slide28.png","order": "280", "alt": "Scenario slide 28"},
+              { "url": "/assets/slide29.png","order": "290", "alt": "Scenario slide 29"},
+              { "url": "/assets/slide30.png","order": "300", "alt": "Scenario slide 30"},
+              { "url": "/assets/slide31.png","order": "310", "alt": "Scenario slide 31"},
+              { "url": "/assets/slide32.png","order": "320", "alt": "Scenario slide 32"},
+              { "url": "/assets/slide33.png","order": "330", "alt": "Scenario slide 33"},
+              { "url": "/assets/slide34.png","order": "340", "alt": "Scenario slide 34"},
+              { "url": "/assets/slide35.png","order": "350", "alt": "Scenario slide 35"},
+              { "url": "/assets/slide36.png","order": "360", "alt": "Scenario slide 36"},
+              { "url": "/assets/slide37.png","order": "370", "alt": "Scenario slide 37"},
+              { "url": "/assets/slide38.png","order": "380", "alt": "Scenario slide 38"},
+              { "url": "/assets/slide39.png","order": "390", "alt": "Scenario slide 39"},
+              { "url": "/assets/slide40.png","order": "400", "alt": "Scenario slide 40"},
+              { "url": "/assets/slide41.png","order": "410", "alt": "Scenario slide 41"},
+              { "url": "/assets/slide42.png","order": "420", "alt": "Scenario slide 42"},
+              { "url": "/assets/slide43.png","order": "430", "alt": "Scenario slide 43"},
+              { "url": "/assets/slide44.png","order": "440", "alt": "Scenario slide 44"},
+              { "url": "/assets/slide45.png","order": "450", "alt": "Scenario slide 45"},
+              { "url": "/assets/slide46.png","order": "460", "alt": "Scenario slide 46"},
+              { "url": "/assets/slide47.png","order": "470", "alt": "Scenario slide 47"},
+              { "url": "/assets/slide48.png","order": "480", "alt": "Scenario slide 48"},
+              { "url": "/assets/slide49.png","order": "490", "alt": "Scenario slide 49"},
+              { "url": "/assets/slide50.png","order": "500", "alt": "Scenario slide 50"}                           
+            ]
+          }
+        ],
+        "detailItemCategories": [
+          {
+            "name": "Technology",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": [
+              {
+                "name": "Technology used in scenario",
+                "description": "Potential description on top of the technology",
+                "url": "https://www.bing.com"
+              }
+            ]
+          },
+          {
+            "name": "Partners",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": [
+              {
+                "name": "Partner 1 name",
+                "description": "Potential description for the partner reference",
+                "url": "https://www.bing.com"
+              }
+            ]
+          },
+          {
+            "name": "Samples",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": [
+              {
+                "name": "Sample name 1 with link to GitHub or to Sample gallery when it's available",
+                "description": "Potential description for the sample reference",
+                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
+              }
+            ]
+          },
+          {
+            "name": "Documentation",
+            "description": "Here are the key resources around getting started on building Microsoft Teams tabs",
+            "items": [
+              {
+                "name": "What are Microsoft Teams custom tabs?",
+                "description": "Potential description for the doc link",
+                "url": "https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/what-are-tabs"
+              }           
+            ]
+          },
+          {
+            "name": "References",
+            "description": "Additional assets around the scenario",
+            "items": [
+              {
+                "name": "PowerPoint presentation containing scenario details",
+                "url": "/assets/Cross-Industry Teamwork BoD.pptx"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

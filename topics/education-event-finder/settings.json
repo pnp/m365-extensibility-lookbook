@@ -1,0 +1,132 @@
+{
+  "topicId": "scenario-education-event-finder",
+  "categories": [
+     "EDU"
+  ],
+  "sortOrder": 300,
+  "preview": false,
+  "visible": true,
+  "metadata": {
+    "displayInfo": {
+      "default": {
+        "displayTitle": "Event Finder",
+        "shortDescription": "Event Finder",
+        "cardPictureUrl": "/assets/card-event-finder.png", 
+        "cardPictureAlt": "Event Finder", 
+        "descriptionParagraphs": [
+          "Daniela is a student at Contoso university looking to share her knowledge and passion in the field of data science with her fellow batch mates. She is also intent on starting a thriving community of data science enthusiasts in the university.",
+          "She wants to conduct a beginner level workshop on data science to understand the interest level and proceed to form a community from the interested students attending the workshop."
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 100,
+            "url": "/assets/promo-event-finder.png",
+            "alt": "Event Finder"
+          },
+          {
+            "type": "slideshow",
+            "order": 102,
+            "alt": "Alt text for the image",
+            "slides": [
+              { "url": "/assets/slide69.png","order": "690", "alt": "Scenario slide 69"},
+              { "url": "/assets/slide70.png","order": "700", "alt": "Scenario slide 70"},
+              { "url": "/assets/slide71.png","order": "710", "alt": "Scenario slide 71"},
+              { "url": "/assets/slide72.png","order": "720", "alt": "Scenario slide 72"},
+              { "url": "/assets/slide73.png","order": "730", "alt": "Scenario slide 73"},
+              { "url": "/assets/slide74.png","order": "740", "alt": "Scenario slide 74"},
+              { "url": "/assets/slide75.png","order": "750", "alt": "Scenario slide 75"},
+              { "url": "/assets/slide76.png","order": "760", "alt": "Scenario slide 76"},
+              { "url": "/assets/slide77.png","order": "770", "alt": "Scenario slide 77"},
+              { "url": "/assets/slide78.png","order": "780", "alt": "Scenario slide 78"},
+              { "url": "/assets/slide79.png","order": "790", "alt": "Scenario slide 79"},
+              { "url": "/assets/slide80.png","order": "800", "alt": "Scenario slide 80"},
+              { "url": "/assets/slide81.png","order": "810", "alt": "Scenario slide 81"},
+              { "url": "/assets/slide82.png","order": "820", "alt": "Scenario slide 82"},
+              { "url": "/assets/slide83.png","order": "830", "alt": "Scenario slide 83"},
+              { "url": "/assets/slide84.png","order": "840", "alt": "Scenario slide 84"},
+              { "url": "/assets/slide85.png","order": "850", "alt": "Scenario slide 85"},
+              { "url": "/assets/slide86.png","order": "860", "alt": "Scenario slide 86"},
+              { "url": "/assets/slide87.png","order": "870", "alt": "Scenario slide 87"},
+              { "url": "/assets/slide88.png","order": "880", "alt": "Scenario slide 88"},
+              { "url": "/assets/slide89.png","order": "890", "alt": "Scenario slide 89"},
+              { "url": "/assets/slide90.png","order": "900", "alt": "Scenario slide 90"},
+              { "url": "/assets/slide91.png","order": "910", "alt": "Scenario slide 91"},
+              { "url": "/assets/slide92.png","order": "920", "alt": "Scenario slide 92"},
+              { "url": "/assets/slide93.png","order": "930", "alt": "Scenario slide 93"},
+              { "url": "/assets/slide94.png","order": "940", "alt": "Scenario slide 94"},
+              { "url": "/assets/slide95.png","order": "950", "alt": "Scenario slide 95"},
+              { "url": "/assets/slide96.png","order": "960", "alt": "Scenario slide 96"},
+              { "url": "/assets/slide97.png","order": "970", "alt": "Scenario slide 97"},
+              { "url": "/assets/slide98.png","order": "980", "alt": "Scenario slide 98"},
+              { "url": "/assets/slide99.png","order": "990", "alt": "Scenario slide 99"},
+              { "url": "/assets/slide100.png","order": "1000", "alt": "Scenario slide 100"},
+              { "url": "/assets/slide101.png","order": "1010", "alt": "Scenario slide 101"},
+              { "url": "/assets/slide102.png","order": "1020", "alt": "Scenario slide 102"},
+              { "url": "/assets/slide103.png","order": "1030", "alt": "Scenario slide 103"},
+              { "url": "/assets/slide104.png","order": "1040", "alt": "Scenario slide 104"},
+              { "url": "/assets/slide105.png","order": "1050", "alt": "Scenario slide 105"},
+              { "url": "/assets/slide106.png","order": "1060", "alt": "Scenario slide 106"}                           
+            ]
+          }
+        ],
+        "detailItemCategories": [
+          {
+            "name": "Technology",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": [
+              {
+                "name": "Technology used in scenario",
+                "description": "Potential description on top of the technology",
+                "url": "https://www.bing.com"
+              }
+            ]
+          },
+          {
+            "name": "Partners",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": [
+              {
+                "name": "Partner 1 name",
+                "description": "Potential description for the partner reference",
+                "url": "https://www.bing.com"
+              }
+            ]
+          },
+          {
+            "name": "Samples",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": [
+              {
+                "name": "Sample name 1 with link to GitHub or to Sample gallery when it's available",
+                "description": "Potential description for the sample reference",
+                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
+              }
+            ]
+          },
+          {
+            "name": "Documentation",
+            "description": "Here are the key resources around getting started on building Microsoft Teams tabs",
+            "items": [
+              {
+                "name": "What are Microsoft Teams custom tabs?",
+                "description": "Potential description for the doc link",
+                "url": "https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/what-are-tabs"
+              }           
+            ]
+          },
+          {
+            "name": "References",
+            "description": "Additional assets around the scenario",
+            "items": [
+              {
+                "name": "PowerPoint presentation containing scenario details",
+                "url": "/assets/Education Teamwork BoD.pptx"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
