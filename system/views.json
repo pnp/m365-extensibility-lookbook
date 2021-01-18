@@ -192,7 +192,7 @@
             "categories": [
                 {
                     "id": "MEDASHBOARD",
-                    "sortOrder": 100,
+                    "sortOrder": 900,
                     "displayInfo": {
                         "default": {
                             "displayName": "Me dashboard",
@@ -230,7 +230,7 @@
                 },
                 {
                     "id": "EDU",
-                    "sortOrder": 300,
+                    "sortOrder": 400,
                     "displayInfo": {
                         "default": {
                             "displayName": "Education",
@@ -240,7 +240,7 @@
                 },
                 {
                     "id": "CROSSINDUSTRY",
-                    "sortOrder": 300,
+                    "sortOrder": 500,
                     "displayInfo": {
                         "default": {
                             "displayName": "Cross-Industry",
@@ -250,7 +250,7 @@
                 },
                 {
                     "id": "RETAIL",
-                    "sortOrder": 300,
+                    "sortOrder": 600,
                     "displayInfo": {
                         "default": {
                             "displayName": "Retail",
