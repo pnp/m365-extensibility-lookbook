@@ -43,68 +43,6 @@
           }
         ],
         "detailItemCategories": [
-          // {
-          //   "name": "Scenarios",
-          //   "description": "Possible html supported text shown just above the list of links",
-          //   "items": [
-          //     {
-          //       "name": "Scenario 1 with a long time explaining what the scenario is all about",
-          //       "description": "Potential description on top of the scenario title",
-          //       "url": "https://www.bing.com"
-          //     },
-          //     {
-          //       "name": "Scenario 2 with a long time explaining what the scenario is all about",
-          //       "description": "Potential description on top of the scenario title",
-          //       "url": "https://www.bing.com"
-          //     },
-          //     {
-          //       "name": "Scenario 3 with a long time explaining what the scenario is all about",
-          //       "description": "Potential description on top of the scenario title",
-          //       "url": "https://www.bing.com"
-          //     }
-          //   ]
-          // },
-          // {
-          //   "name": "Partners",
-          //   "description": "Possible html supported text shown just above the list of links",
-          //   "items": [
-          //     {
-          //       "name": "Partner 1 name",
-          //       "description": "Potential description for the partner reference",
-          //       "url": "https://www.bing.com"
-          //     },
-          //     {
-          //       "name": "Partner 1 name",
-          //       "description": "Potential description for the partner reference",
-          //       "url": "https://www.bing.com"
-          //     },
-          //     {
-          //       "name": "Partner 1 name",
-          //       "description": "Potential description for the partner reference",
-          //       "url": "https://www.bing.com"
-          //     },
-          //     {
-          //       "name": "Partner 1 name",
-          //       "description": "Potential description for the partner reference",
-          //       "url": "https://www.bing.com"
-          //     },
-          //     {
-          //       "name": "Partner 1 name",
-          //       "description": "Potential description for the partner reference",
-          //       "url": "https://www.bing.com"
-          //     },
-          //     {
-          //       "name": "Partner 1 name",
-          //       "description": "Potential description for the partner reference",
-          //       "url": "https://www.bing.com"
-          //     },
-          //     {
-          //       "name": "Partner 1 name",
-          //       "description": "Potential description for the partner reference",
-          //       "url": "https://www.bing.com"
-          //     }
-          //   ]
-          // },
           {
             "name": "Samples",
             "description": "Possible html supported text shown just above the list of links",
