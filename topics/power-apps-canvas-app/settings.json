@@ -48,6 +48,11 @@
             "description": "Possible html supported text shown just above the list of links",
             "items": [
               {
+                "name": "Power Apps Gallery Look Book",
+                "description": "Contains 5 different Power Apps Gallery Design Ideas. 5 different gallery layouts styles to choose from.",
+                "url":"https://powerusers.microsoft.com/t5/Community-App-Samples/Power-Apps-Gallery-Look-Book/td-p/791553"
+              },
+              {
                 "name": "Branding Template App V2",
                 "description": "This App will allow you to pre-brand any inserted controls or screens without having to manually edit any properties of controls or of screens. It will also allow your user to jump between themes while using the App and comes with two accessibility themes",
                 "url": "https://powerusers.microsoft.com/t5/Community-App-Samples/Branding-Template-App-V2/td-p/363582"
