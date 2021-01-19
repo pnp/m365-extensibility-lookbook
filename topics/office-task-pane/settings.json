@@ -30,28 +30,6 @@
             "url": "https://youtube.com/embed/3120470",
             "alt": "Alt text for the video"
           },
-          {
-            "type": "slideshow",
-            "order": 102,
-            "alt": "Alt text for the image",
-            "slides": [
-              {
-                "url": "/assets/slide1.png",
-                "order": "10",
-                "alt": "Alt text for a slide"
-              },
-              {
-                "url": "/assets/slide2.png",
-                "order": "20",
-                "alt": "Alt text for a slide"
-              },
-              {
-                "url": "/assets/slide3.png",
-                "order": "30",
-                "alt": "Alt text for a slide"
-              }
-            ]
-          }
         ],
         "detailItemCategories": [
           {

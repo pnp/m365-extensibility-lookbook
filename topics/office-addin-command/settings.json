@@ -34,28 +34,6 @@
             "order": 102,
             "url": "https://www.youtube.com/embed/U1BrjstGmAY",
             "alt": "Increase your productivity with Office Add-ins"
-          },
-          {
-            "type": "slideshow",
-            "order": 103,
-            "alt": "Alt text for the image",
-            "slides": [
-              {
-                "url": "/assets/slide1.png",
-                "order": "10",
-                "alt": "Alt text for a slide"
-              },
-              {
-                "url": "/assets/slide2.png",
-                "order": "20",
-                "alt": "Alt text for a slide"
-              },
-              {
-                "url": "/assets/slide3.png",
-                "order": "30",
-                "alt": "Alt text for a slide"
-              }
-            ]
           }
         ],
         "detailItemCategories": [

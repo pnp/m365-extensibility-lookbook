@@ -43,34 +43,6 @@
             "order": 103,
             "url": "https://www.youtube.com/embed/CMJEp8TS4aU",
             "alt": "Deploy your client-side web part to a SharePoint page"
-          },
-          {
-            "type": "image",
-            "order": 104,
-            "url": "/assets/promo-webpart.png",
-            "alt": "Alt text for the image"
-          },          
-          {
-            "type": "slideshow",
-            "order": 102,
-            "alt": "Alt text for the image",
-            "slides": [
-              {
-                "url": "/assets/slide1.png",
-                "order": "10",
-                "alt": "Alt text for a slide"
-              },
-              {
-                "url": "/assets/slide2.png",
-                "order": "20",
-                "alt": "Alt text for a slide"
-              },
-              {
-                "url": "/assets/slide3.png",
-                "order": "30",
-                "alt": "Alt text for a slide"
-              }
-            ]
           }
         ],
         "detailItemCategories": [
