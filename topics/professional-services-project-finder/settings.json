@@ -89,7 +89,7 @@
               {
                 "name": "Partner 1 name",
                 "description": "Potential description for the partner reference",
-                "url": "/gallery/bot/"
+                "url": "../bot/"
               }
             ]
           },
