@@ -11,7 +11,7 @@
       "default": {
         "displayTitle": "Microsoft Teams Office 365 Connectors",
         "shortDescription": "Connect your web services to channels and teams inside Microsoft Teams",
-        "cardPictureUrl": "/assets/card-tab.png",
+        "cardPictureUrl": "/assets/promo-connector.png",
         "cardPictureAlt": "Microsoft Teams Office 365 Connectors", 
         "descriptionParagraphs": [
           "Office 365 Connectors allow you to create a custom configuration page for your incoming webhook, and package them as part of a Teams app."
@@ -20,87 +20,19 @@
           {
             "type": "image",
             "order": 100,
-            "url": "/assets/promo-tab.png",
-            "alt": "Alt text for the image"
-          },
-          {
-            "type": "video",
-            "order": 101,
-            "url": "https://youtube.com/embed/3120470",
-            "alt": "Alt text for the video"
+            "url": "/assets/promo-connector.png",
+            "alt": "Conceptual representation of what messaging extensions look like in the Teams client."
           }
         ],
         "detailItemCategories": [
           {
             "name": "Scenarios",
-            "description": "Possible html supported text shown just above the list of links",
+            "description": "",
             "items": [
               {
-                "name": "Weather forecast",
+                "name": "Configurable weather connector",
                 "description": "Allow users to choose a location and time of day to receive updates about tomorrow's weather",
-                "url": "https://www.bing.com"
-              }
-            ]
-          },
-          {
-            "name": "Partners",
-            "description": "Possible html supported text shown just above the list of links",
-            "items": [
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              }
-            ]
-          },
-          {
-            "name": "Samples",
-            "description": "Possible html supported text shown just above the list of links",
-            "items": [
-              {
-                "name": "Sample name 1 with link to GitHub or to Sample gallery when it's available",
-                "description": "Potential description for the sample reference",
-                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
-              },
-              {
-                "name": "Sample name 2 with link to GitHub or to Sample gallery when it's available",
-                "description": "Potential description for the sample reference",
-                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
-              },
-              {
-                "name": "Sample name 3 with link to GitHub or to Sample gallery when it's available",
-                "description": "Potential description for the sample reference",
-                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
+                "url": "https://docs.microsoft.com/microsoftteams/platform/webhooks-and-connectors/what-are-webhooks-and-connectors?WT.mc_id=m365-12775-cxa#office-365-connectors"
               }
             ]
           },
@@ -111,41 +43,21 @@
               {
                 "name": "Office 365 Connectors",
                 "description": "What are Office 365 Connectors",
-                "url": "https://docs.microsoft.com/en-us/microsoftteams/platform/webhooks-and-connectors/what-are-webhooks-and-connectors#office-365-connectors"
+                "url": "https://docs.microsoft.com/microsoftteams/platform/webhooks-and-connectors/what-are-webhooks-and-connectors?WT.mc_id=m365-12775-cxa#office-365-connectors"
               },
               {
                 "name": "Creating Office 365 Connectors for Microsoft Teams",
                 "description": "How-to guide explaining creating Office 365 Connectors for Microsoft Teams",
-                "url": "https://docs.microsoft.com/en-us/microsoftteams/platform/webhooks-and-connectors/how-to/connectors-creating"
+                "url": "https://docs.microsoft.com/microsoftteams/platform/webhooks-and-connectors/how-to/connectors-creating?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Learn module: Connect web services to Microsoft Teams with webhooks and Office 365 Connectors",
                 "description": "Learn about webhooks and connectors and how to implement them in Microsoft Teams channels.",
-                "url": "https://docs.microsoft.com/en-us/learn/modules/msteams-webhooks-connectors/"
+                "url": "https://docs.microsoft.comlearn/modules/msteams-webhooks-connectors/?WT.mc_id=m365-12775-cxa"
               }              
-            ]
-          },
-          {
-            "name": "References",
-            "description": "Possible html supported text shown just above the list of links",
-            "items": [
-              {
-                "name": "Here are some additional references"
-              },
-              {
-                "name": "Rendered as a link if URL exists",
-                "url": "http://aka.ms/m365pnp"
-              },
-              {
-                "name": "Second additional link",
-                "url": "http://aka.ms/m365pnp"
-              }
             ]
           }
         ]
-      },
-      "fr": {
-        "displayTitle": "Microsoft Teams incoming webhooks"
       }
     }
   }
