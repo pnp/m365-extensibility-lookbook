@@ -48,7 +48,7 @@
         "detailItemCategories": [
           {
             "name": "Samples",
-            "description": "Possible html supported text shown just above the list of links",
+            "description": "SharePoint Framework Application Customizers samples",
             "items": [
               {
                 "name": "JS Application Alert Message",
@@ -90,11 +90,27 @@
           },
           {
             "name": "References",
-            "description": "Possible html supported text shown just above the list of links",
+            "description": "Useful resources associated to SharePoint Framework Extensions",
             "items": [
               {
                 "name": "Pre-allocate space for SharePoint Framework extension placeholders",
                 "url": "https://docs.microsoft.com/en-us/sharepoint/dev/spfx/extensions/basics/preallocated-space-placeholders"
+              },
+              {
+                "name": "Using library component type in SharePoint Framework",
+                "url":  "https://docs.microsoft.com/sharepoint/dev/spfx/library-component-overview"
+              },
+              {
+                "name": "Build solutions with the library component type in SharePoint Framework",
+                "url":  "https://docs.microsoft.com/sharepoint/dev/spfx/library-component-tutorial"
+              },
+              {
+                "name": "Tenant-wide Deployment of SharePoint Framework Extensions",
+                "url":  "https://docs.microsoft.com/sharepoint/dev/spfx/extensions/basics/tenant-wide-deployment-extensions"
+              },
+              {
+                "name": "SharePoint Framework Extension Samples",
+                "url":  "http://aka.ms/spfx-extensions"
               }
             ]
           }

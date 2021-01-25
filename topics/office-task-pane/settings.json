@@ -34,7 +34,7 @@
         "detailItemCategories": [
           {
             "name": "Samples",
-            "description": "Possible html supported text shown just above the list of links",
+            "description": "Add-in Task Pane Samples",
             "items": [
               {
                 "name": "Office Add-in TaskPane",
@@ -67,19 +67,7 @@
           {
             "name": "References",
             "description": "Possible html supported text shown just above the list of links",
-            "items": [
-              {
-                "name": "Here are some additional references"
-              },
-              {
-                "name": "Rendered as a link if URL exists",
-                "url": "http://aka.ms/m365pnp"
-              },
-              {
-                "name": "Second additional link",
-                "url": "http://aka.ms/m365pnp"
-              }
-            ]
+            "items": []
           }
         ]
       },

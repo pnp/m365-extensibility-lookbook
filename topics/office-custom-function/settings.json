@@ -33,7 +33,7 @@
         "detailItemCategories": [
           {
             "name": "Samples",
-            "description": "Possible html supported text shown just above the list of links",
+            "description": "Custom Add-in Function Samples",
             "items": [
               {
                 "name": "Custom functions in Excel",
@@ -71,19 +71,7 @@
           {
             "name": "References",
             "description": "Possible html supported text shown just above the list of links",
-            "items": [
-              {
-                "name": "Here are some additional references"
-              },
-              {
-                "name": "Rendered as a link if URL exists",
-                "url": "http://aka.ms/m365pnp"
-              },
-              {
-                "name": "Second additional link",
-                "url": "http://aka.ms/m365pnp"
-              }
-            ]
+            "items": []
           }
         ]
       },

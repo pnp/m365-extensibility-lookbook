@@ -46,7 +46,7 @@
         "detailItemCategories": [
           {
             "name": "Samples",
-            "description": "Possible html supported text shown just above the list of links",
+            "description": "SharePoint Framework Search Query Extension samples",
             "items": [
               {
                 "name": "Sample name 1 with link to GitHub or to Sample gallery when it's available",
@@ -78,7 +78,7 @@
           },
           {
             "name": "References",
-            "description": "Possible html supported text shown just above the list of links",
+            "description": "Useful resources associated to SharePoint Framework Search Query Extensions",
             "items": [
               {
                 "name": "Here are some additional references"

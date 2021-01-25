@@ -11,7 +11,7 @@
   "metadata": {
     "displayInfo": {
       "default": {
-        "displayTitle": "Profile card properties",
+        "displayTitle": "Profile Card properties",
         "shortDescription": "Add additional properties to the profile card",
         "cardPictureUrl": "/assets/card-tab.png", 
         "cardPictureAlt": "Profile card properties", 
@@ -36,7 +36,7 @@
         "detailItemCategories": [
           {
             "name": "Samples",
-            "description": "Possible html supported text shown just above the list of links",
+            "description": "Profile Card samples",
             "items": [
               {
                 "name": "Manage Profile Card Properties",

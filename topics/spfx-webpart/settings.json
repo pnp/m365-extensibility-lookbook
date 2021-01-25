@@ -48,7 +48,7 @@
         "detailItemCategories": [
           {
             "name": "Samples",
-            "description": "Possible html supported text shown just above the list of links",
+            "description": "SharePoint Framework Web Part Samples",
             "items": [
               {
                 "name": "Chart Control Samples",
@@ -95,18 +95,23 @@
           },
           {
             "name": "References",
-            "description": "Possible html supported text shown just above the list of links",
+            "description": "Useful resources associated to SharePoint Framework Web Parts",
             "items": [
               {
-                "name": "Here are some additional references"
+                "name": "Tenant-wide Deployment of SharePoint Framework Extensions",
+                "url":  "https://docs.microsoft.com/sharepoint/dev/spfx/extensions/basics/tenant-wide-deployment-extensions"
               },
               {
-                "name": "Rendered as a link if URL exists",
-                "url": "http://aka.ms/m365pnp"
+                "name": "Using library component type in SharePoint Framework",
+                "url":  "https://docs.microsoft.com/sharepoint/dev/spfx/library-component-overview"
               },
               {
-                "name": "Second additional link",
-                "url": "http://aka.ms/m365pnp"
+                "name": "Build solutions with the library component type in SharePoint Framework",
+                "url":  "https://docs.microsoft.com/sharepoint/dev/spfx/library-component-tutorial"
+              },
+              {
+                "name": "SharePoint Framework Web Part Samples",
+                "url":  "http://aka.ms/spfx-webparts"
               }
             ]
           }

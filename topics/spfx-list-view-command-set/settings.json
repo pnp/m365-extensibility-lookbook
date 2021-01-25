@@ -48,7 +48,7 @@
         "detailItemCategories": [
           {
             "name": "Samples",
-            "description": "Possible html supported text shown just above the list of links",
+            "description": "SharePoint Framework List View Command Set Samples",
             "items": [
               {
                 "name": "SPFx Copy Classic Link Extension",
@@ -80,18 +80,23 @@
           },
           {
             "name": "References",
-            "description": "Possible html supported text shown just above the list of links",
+            "description": "Useful resources associated to SharePoint Framework List View Command Sets",
             "items": [
               {
-                "name": "Here are some additional references"
+                "name": "Tenant-wide Deployment of SharePoint Framework Extensions",
+                "url":  "https://docs.microsoft.com/sharepoint/dev/spfx/extensions/basics/tenant-wide-deployment-extensions"
               },
               {
-                "name": "Rendered as a link if URL exists",
-                "url": "http://aka.ms/m365pnp"
+                "name": "Using library component type in SharePoint Framework",
+                "url":  "https://docs.microsoft.com/sharepoint/dev/spfx/library-component-overview"
               },
               {
-                "name": "Second additional link",
-                "url": "http://aka.ms/m365pnp"
+                "name": "Build solutions with the library component type in SharePoint Framework",
+                "url":  "https://docs.microsoft.com/sharepoint/dev/spfx/library-component-tutorial"
+              },
+              {
+                "name": "SharePoint Framework Extension Samples",
+                "url":  "http://aka.ms/spfx-extensions"
               }
             ]
           }
