@@ -75,8 +75,13 @@
           },
           {
             "name": "References",
-            "description": "Possible html supported text shown just above the list of links",
-            "items": []
+            "description": "Useful resources associated to Office Add-in Dialog Boxes",
+            "items": [
+              {
+                "name": "Use the Office dialog box to show a video",
+                "url":  "https://docs.microsoft.com/office/dev/add-ins/develop/dialog-video?WT.mc_id=m365-12775-cxa"
+              }
+            ]
           }
         ]
       },

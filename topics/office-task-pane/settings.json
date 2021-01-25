@@ -66,8 +66,13 @@
           },
           {
             "name": "References",
-            "description": "Possible html supported text shown just above the list of links",
-            "items": []
+            "description": "Useful resources associated to Office Add-in Task Panes",
+            "items": [
+              {
+                "name": "Build your first Word task pane add-in",
+                "url":  "https://docs.microsoft.com/office/dev/add-ins/quickstarts/word-quickstart?WT.mc_id=m365-12775-cxa"
+              }
+            ]
           }
         ]
       },
