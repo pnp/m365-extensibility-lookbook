@@ -11,7 +11,7 @@
       "default": {
         "displayTitle": "Task modules",
         "shortDescription": "Collect input with Microsoft Teams",
-        "cardPictureUrl": "/assets/card-task-module.png", 
+        "cardPictureUrl": "/assets/promo-task-module.png", 
         "cardPictureAlt": "Task Modules", 
         "descriptionParagraphs": [
           "Task modules are modals that you can populate with either an Adaptive Card or an embedded web/content page for use in your custom Microsoft Teams app’s user experience for workflows that require data input.",
@@ -26,142 +26,66 @@
           },
           {
             "type": "video",
-            "order": 101,
-            "url": "https://youtube.com/embed/3120470",
-            "alt": "Alt text for the video"
+            "order": 110,
+            "url": "https://youtube.com/embed/nKKI8Pk9dbY",
+            "alt": "Use SPFx for Task Modules in Microsoft Teams and access Microsoft Graph"
+          },
+          {
+            "type": "video",
+            "order": 120,
+            "url": "https://youtube.com/embed/1o8xIx9BALM",
+            "alt": "Microsoft Teams Messaging extensions using SPFx: Message data with Microsoft Graph"
           }
         ],
         "detailItemCategories": [
           {
-            "name": "Scenarios",
-            "description": "Possible html supported text shown just above the list of links",
-            "items": [
-              {
-                "name": "Scenario 1 with a long time explaining what the scenario is all about",
-                "description": "Potential description on top of the scenario title",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Scenario 2 with a long time explaining what the scenario is all about",
-                "description": "Potential description on top of the scenario title",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Scenario 3 with a long time explaining what the scenario is all about",
-                "description": "Potential description on top of the scenario title",
-                "url": "https://www.bing.com"
-              }
-            ]
-          },
-          {
-            "name": "Partners",
-            "description": "Possible html supported text shown just above the list of links",
-            "items": [
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              },
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              }
-            ]
-          },
-          {
             "name": "Samples",
-            "description": "Possible html supported text shown just above the list of links",
+            "description": "",
             "items": [
               {
-                "name": "Sample name 1 with link to GitHub or to Sample gallery when it's available",
-                "description": "Potential description for the sample reference",
-                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
+                "name": "Request-a-team",
+                "description": "Request-a-team is a Microsoft Teams app that optimizes new team creation for your enterprise organization. The app supports standardization and best practices when creating new team instances through the integration of a wizard-guided request form, an embedded approval process, a request status dashboard, and automated team builds.",
+                "url": "https://docs.microsoft.com/microsoftteams/platform/samples/app-templates?WT.mc_id=m365-12775-cxa#request-a-team"
               },
               {
-                "name": "Sample name 2 with link to GitHub or to Sample gallery when it's available",
-                "description": "Potential description for the sample reference",
-                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
+                "name": "Teams emergency response",
+                "description": "Simple Emergency Response Center which could be used to coordinate the response to an emergency such as a natural disaster",
+                "url": "https://github.com/OfficeDev/M365Bootcamp-TeamsEmergencyResponse"
               },
               {
-                "name": "Sample name 3 with link to GitHub or to Sample gallery when it's available",
-                "description": "Potential description for the sample reference",
-                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
+                "name": "Incident Reporter",
+                "description": "Incident Reporter is a Microsoft Teams bot that optimizes the management of incidents in your organization. The bot facilitates automated incident data collection, customized incident reports, relevant stakeholder notifications, and end-to-end incident tracking.",
+                "url": "https://docs.microsoft.com/microsoftteams/platform/samples/app-templates?WT.mc_id=m365-12775-cxa#incident-reporter"
               }
             ]
           },
           {
             "name": "Documentation",
-            "description": "Here are the key resources around getting started on building Microsoft Teams tabs",
+            "description": "Here are the key resources around getting started on building Microsoft Teams task modules",
             "items": [
               {
                 "name": "Documentation: What are task modules?",
                 "description": "Potential description for the doc link",
-                "url": "https://docs.microsoft.com/en-us/microsoftteams/platform/task-modules-and-cards/what-are-task-modules"
+                "url": "https://docs.microsoft.com/microsoftteams/platform/task-modules-and-cards/what-are-task-modules?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Learning path: Collect Input in Microsoft Teams with Task Modules",
                 "description": "Potential description for the doc link",
-                "url": "https://docs.microsoft.com/en-us/learn/modules/msteams-task-modules/"
+                "url": "https://docs.microsoft.com/learn/modules/msteams-task-modules/?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Using task modules from Microsoft Teams bots",
                 "description": "Potential description for the doc link",
-                "url": "https://docs.microsoft.com/en-us/microsoftteams/platform/task-modules-and-cards/task-modules/task-modules-bots"
+                "url": "https://docs.microsoft.com/microsoftteams/platform/task-modules-and-cards/task-modules/task-modules-bots?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Using task modules in tabs",
                 "description": "Potential description for the doc link",
-                "url": "https://docs.microsoft.com/en-us/microsoftteams/platform/task-modules-and-cards/task-modules/task-modules-tabs"
+                "url": "https://docs.microsoft.com/microsoftteams/platform/task-modules-and-cards/task-modules/task-modules-tabs?WT.mc_id=m365-12775-cxa"
               }              
-            ]
-          },
-          {
-            "name": "References",
-            "description": "Possible html supported text shown just above the list of links",
-            "items": [
-              {
-                "name": "Here are some additional references"
-              },
-              {
-                "name": "Rendered as a link if URL exists",
-                "url": "http://aka.ms/m365pnp"
-              },
-              {
-                "name": "Second additional link",
-                "url": "http://aka.ms/m365pnp"
-              }
             ]
           }
         ]
-      },
-      "fr": {
-        "displayTitle": "Microsoft Teams tab"
       }
     }
   }
