@@ -38,7 +38,7 @@
               {
                 "name": "Teams Provisioning Using Power Apps and Power Automate",
                 "description": "Are you getting a lot of requests to create new Microsoft Teams as more people work from home ? Want to learn how to create an app to accept requests, create approval using Power Automate to finally create a new team using Graph API HTTP requests?",
-                "url": "https://powerusers.microsoft.com/t5/Community-App-Samples/Teams-Provisioning-Using-Power-Apps-and-Power-Automate/td-p/509442"
+                "url": "https://powerusers.microsoft.com/t5/Community-App-Samples/Teams-Provisioning-Using-Power-Apps-and-Power-Automate/td-p/509442?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Chat Bot with Power Apps, Power Automate, and LUIS",
@@ -48,7 +48,7 @@
               {
                 "name": "25 Days of Flows: The Power Automate Advent Calendar",
                 "description": "The app behind the 25 days of flows series. It works for cataloging and finding the downloadable flows.",
-                "url": "https://powerusers.microsoft.com/t5/Community-App-Samples/25-Days-of-Flows-The-App-behind-the-series/m-p/433575"
+                "url": "https://powerusers.microsoft.com/t5/Community-App-Samples/25-Days-of-Flows-The-App-behind-the-series/m-p/433575?WT.mc_id=m365-12775-cxa"
               }
             ]
           },
@@ -59,22 +59,22 @@
               {
                 "name": "Create a cloud flow from a template in Power Automate",
                 "description": "Create a cloud flow from one of many built-in templates that can, for example, send you a Slack message when your manager sends you an email in Office 365.",
-                "url": "https://docs.microsoft.com/en-us/power-automate/get-started-logic-template"
+                "url": "https://docs.microsoft.com/power-automate/get-started-logic-template?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Create a cloud flow in Power Automate",
                 "description": "Create a cloud flow that performs one or more tasks automatically after it's triggered by an event",
-                "url": "https://docs.microsoft.com/en-us/power-automate/get-started-logic-flow"
+                "url": "https://docs.microsoft.com/power-automate/get-started-logic-flow?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Create an automated flow by using Microsoft Dataverse (current environment) connector",
                 "description": "The flows you create can trigger when a Dataverse record is created, updated, or deleted.",
-                "url": "https://docs.microsoft.com/en-us/power-automate/connection-cds-native"
+                "url": "https://docs.microsoft.com/power-automate/connection-cds-native?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Create an automated flow by using Microsoft Dataverse",
                 "description": "With the Common Data Service connector, you can create flows that are initiated by create and update events within Dataverse. Additionally, you can perform create, update, retrieve, and delete actions on records within Dataverse.",
-                "url": "https://docs.microsoft.com/en-us/power-automate/connection-cds"
+                "url": "https://docs.microsoft.com/power-automate/connection-cds?WT.mc_id=m365-12775-cxa"
               }              
             ]
           }

@@ -43,7 +43,7 @@
               {
                 "name": "Sample HR bot",
                 "description": "HR Support bot is a friendly question and answer bot that brings a support professional expert from the HR team into the loop when it is unable to help. An employee can ask the bot a question and the bot responds with an answer if the bot has content for it.",
-                "url": "https://docs.microsoft.com/en-us/power-virtual-agents/teams/fundamentals-get-started-teams"
+                "url": "https://docs.microsoft.com/power-virtual-agents/teams/fundamentals-get-started-teams?WT.mc_id=m365-12775-cxa"
               }
             ]
           },
@@ -54,22 +54,22 @@
               {
                 "name": "What is Power Virtual Agents",
                 "description": "Power Virtual Agents lets you create powerful chatbots that can answer questions posed by your customers, other employees, or visitors to your website or service.",
-                "url": "https://docs.microsoft.com/en-us/power-virtual-agents/fundamentals-what-is-power-virtual-agents"
+                "url": "https://docs.microsoft.com/power-virtual-agents/fundamentals-what-is-power-virtual-agents?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Overview of Power Virtual Agents web app",
                 "description": "Power Virtual Agents lets you create powerful chatbots that can be created with a guided, no-code graphical interface - and without the need for data scientists or developers.",
-                "url": "https://docs.microsoft.com/en-us/power-virtual-agents/fundamentals-what-is-power-virtual-agents-portal"
+                "url": "https://docs.microsoft.com/power-virtual-agents/fundamentals-what-is-power-virtual-agents-portal?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Power Virtual Agents app in Microsoft Teams",
                 "description": "Power Virtual Agents is available as an app within Microsoft Teams, which means you can easily create your own chatbots that answer questions posed by other employees or team members.",
-                "url": "https://docs.microsoft.com/en-us/power-virtual-agents/teams/fundamentals-what-is-power-virtual-agents-teams"
+                "url": "https://docs.microsoft.com/power-virtual-agents/teams/fundamentals-what-is-power-virtual-agents-teams?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Create and delete Power Virtual Agents bots",
                 "description": "To help get you started and tailor the bot to your specific needs, Power Virtual Agents lets you create a bot using built-in content building blocks containing topics, trigger phrases, and pre-authored bot conversations.",
-                "url": "https://docs.microsoft.com/en-us/power-virtual-agents/authoring-first-bot"
+                "url": "https://docs.microsoft.com/power-virtual-agents/authoring-first-bot?WT.mc_id=m365-12775-cxa"
               }              
             ]
           },
@@ -78,15 +78,15 @@
             "items": [
               {
                 "name": "Licensing for Power Virtual Agents",
-                "url": "https://docs.microsoft.com/en-us/power-virtual-agents/requirements-licensing-subscriptions"
+                "url": "https://docs.microsoft.com/power-virtual-agents/requirements-licensing-subscriptions?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Standards compliance and certification",
-                "url": "https://docs.microsoft.com/en-us/power-virtual-agents/admin-certification"
+                "url": "https://docs.microsoft.com/power-virtual-agents/admin-certification?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Quotas and rate limit considerations",
-                "url": "https://docs.microsoft.com/en-us/power-virtual-agents/requirements-quotas"
+                "url": "https://docs.microsoft.com/power-virtual-agents/requirements-quotas?WT.mc_id=m365-12775-cxa"
               }
             ]
           }

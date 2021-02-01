@@ -44,22 +44,22 @@
               {
                 "name": "Introduction to desktop flows",
                 "description": "Power Automate Desktop broadens the existing robotic process automation (RPA) capabilities in Power Automate",
-                "url": "https://docs.microsoft.com/en-us/power-automate/desktop-flows/introduction"
+                "url": "https://docs.microsoft.com/power-automate/desktop-flows/introduction?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Set up Power Automate Desktop",
                 "description": "Before you can use your device to create desktop flows, you'll need to ensure it meets the requirements outlined here.",
-                "url": "https://docs.microsoft.com/en-us/power-automate/desktop-flows/setup"
+                "url": "https://docs.microsoft.com/power-automate/desktop-flows/setup?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Create a Power Automate Desktop flow",
                 "description": "Desktop flows are used to automate tasks on the Web or the desktop. Using Power Automate Desktop you can automate tasks on the desktop as well as the Web. ",
-                "url": "https://docs.microsoft.com/en-us/power-automate/desktop-flows/create-flow"
+                "url": "https://docs.microsoft.com/power-automate/desktop-flows/create-flow?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Run attended and unattended desktop flows",
                 "description": "After you've created and tested a desktop flow, you can run it from an event, schedule, or button. To make this possible, add your desktop flow to an automated flow, a instant flow, a scheduled flow, or a business process flow.",
-                "url": "https://docs.microsoft.com/en-us/power-automate/desktop-flows/run-pad-flow"
+                "url": "https://docs.microsoft.com/power-automate/desktop-flows/run-pad-flow?WT.mc_id=m365-12775-cxa"
               }              
             ]
           },
@@ -69,7 +69,7 @@
             "items": [
               {
                 "name": "Desktop action references",
-                "url": "https://docs.microsoft.com/en-us/power-automate/desktop-flows/actions-reference"
+                "url": "https://docs.microsoft.com/power-automate/desktop-flows/actions-reference?WT.mc_id=m365-12775-cxa"
               }
             ]
           }

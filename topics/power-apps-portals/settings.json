@@ -50,17 +50,17 @@
               {
                 "name": "What is Power Apps portals?",
                 "description": "Power Apps makers can now create a powerful new type of experience: external-facing websites that allow users outside their organizations to sign in with a wide variety of identities, create and view data in Microsoft Dataverse, or even browse content anonymously.",
-                "url": "https://docs.microsoft.com/en-us/powerapps/maker/portals/overview"
+                "url": "https://docs.microsoft.com/powerapps/maker/portals/overview?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Sample name 2 with link to GitHub or to Sample gallery when it's available",
                 "description": "Potential description for the sample reference",
-                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
+                "url": "https://support.office.com/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
               },
               {
                 "name": "Sample name 3 with link to GitHub or to Sample gallery when it's available",
                 "description": "Potential description for the sample reference",
-                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
+                "url": "https://support.office.com/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
               }
             ]
           },
@@ -71,22 +71,22 @@
               {
                 "name": "What is Power Apps portals?",
                 "description": "Power Apps makers can now create a powerful new type of experience: external-facing websites that allow users outside their organizations to sign in with a wide variety of identities, create and view data in Microsoft Dataverse, or even browse content anonymously.",
-                "url": "https://docs.microsoft.com/en-us/powerapps/maker/portals/overview"
+                "url": "https://docs.microsoft.com/powerapps/maker/portals/overview?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Get started with Power Apps portals",
                 "description": "This learning path introduces you to the Power Apps portals that can be quickly provisioned to serve a variety of different audiences and workloads. We also cover fundamentals of portal architecture, components, features, and tooling.",
-                "url": "https://docs.microsoft.com/en-us/learn/paths/get-started-power-apps-portals/"
+                "url": "https://docs.microsoft.com/learn/paths/get-started-power-apps-portals/?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Create a starter portal",
                 "description": "With the capability to build a portal in Power Apps, you can create a website for external and internal users enabling them to interact with data stored in Microsoft Dataverse.",
-                "url": "https://docs.microsoft.com/en-us/powerapps/maker/portals/create-portal"
+                "url": "https://docs.microsoft.com/powerapps/maker/portals/create-portal?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Customize web parts using Portals Studio",
                 "description": "Power Apps portals Studio allows makers to add and configure webpages, layout components, static content, custom CSS files, entity lists, and entity forms.",
-                "url": "https://docs.microsoft.com/en-us/learn/modules/explore-portals-studio/"
+                "url": "https://docs.microsoft.com/learn/modules/explore-portals-studio/?WT.mc_id=m365-12775-cxa"
               }              
             ]
           },

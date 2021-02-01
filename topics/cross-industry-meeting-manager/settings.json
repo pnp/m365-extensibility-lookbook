@@ -89,7 +89,7 @@
               {
                 "name": "Sample name 1 with link to GitHub or to Sample gallery when it's available",
                 "description": "Potential description for the sample reference",
-                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
+                "url": "https://support.office.com/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
               }
             ]
           },
@@ -100,7 +100,7 @@
               {
                 "name": "What are Microsoft Teams custom tabs?",
                 "description": "Potential description for the doc link",
-                "url": "https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/what-are-tabs"
+                "url": "https://docs.microsoft.com/microsoftteams/platform/tabs/what-are-tabs?WT.mc_id=m365-12775-cxa"
               }           
             ]
           },

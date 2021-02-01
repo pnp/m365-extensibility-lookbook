@@ -50,22 +50,22 @@
               {
                 "name": "Power Apps Gallery Look Book",
                 "description": "Contains 5 different Power Apps Gallery Design Ideas. 5 different gallery layouts styles to choose from.",
-                "url":"https://powerusers.microsoft.com/t5/Community-App-Samples/Power-Apps-Gallery-Look-Book/td-p/791553"
+                "url":"https://powerusers.microsoft.com/t5/Community-App-Samples/Power-Apps-Gallery-Look-Book/td-p/791553?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Branding Template App V2",
                 "description": "This App will allow you to pre-brand any inserted controls or screens without having to manually edit any properties of controls or of screens. It will also allow your user to jump between themes while using the App and comes with two accessibility themes",
-                "url": "https://powerusers.microsoft.com/t5/Community-App-Samples/Branding-Template-App-V2/td-p/363582"
+                "url": "https://powerusers.microsoft.com/t5/Community-App-Samples/Branding-Template-App-V2/td-p/363582?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Power Apps Formula Reference",
                 "description": "Potential description for the sample reference",
-                "url": "https://powerusers.microsoft.com/t5/Community-App-Samples/Power-Apps-Formula-Reference/td-p/650191"
+                "url": "https://powerusers.microsoft.com/t5/Community-App-Samples/Power-Apps-Formula-Reference/td-p/650191?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Collections Cookbook: 50+ Visual Examples & Code",
                 "description": "Inside you will find over 50 examples of how to do various tasks with Collections. Each page contains code and a visual to show what the code is doing.",
-                "url": "https://powerusers.microsoft.com/t5/Community-App-Samples/Collections-Cookbook-50-Visual-Examples-amp-Code/td-p/437594"
+                "url": "https://powerusers.microsoft.com/t5/Community-App-Samples/Collections-Cookbook-50-Visual-Examples-amp-Code/td-p/437594?WT.mc_id=m365-12775-cxa"
               }
             ]
           },
@@ -76,17 +76,17 @@
               {
                 "name": "What is Power Apps",
                 "description": "An overview of Power Apps for beginners",
-                "url": "https://docs.microsoft.com/en-us/powerapps/powerapps-overview"
+                "url": "https://docs.microsoft.com/powerapps/powerapps-overview?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Power Apps canvas apps documentation",
                 "description": "Design and build a business app from a canvas in Microsoft Power Apps with data from a variety of sources without writing any code using traditional programming languages, such as C#.",
-                "url": "https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/"
+                "url": "https://docs.microsoft.com/powerapps/maker/canvas-apps/?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Create a canvas app from a sample in Power Apps",
                 "description": "In this quickstart, you'll create a canvas app from a sample template. Once created, you can explore the app design possibilities, and discover concepts that you can apply as you develop your own canvas apps.",
-                "url": "https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/open-and-run-a-sample-app"
+                "url": "https://docs.microsoft.com/powerapps/maker/canvas-apps/open-and-run-a-sample-app?WT.mc_id=m365-12775-cxa"
               }              
             ]
           },
@@ -96,15 +96,15 @@
             "items": [
               {
                 "name": "Formula reference for Power Apps",
-                "url": "https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/formula-reference"
+                "url": "https://docs.microsoft.com/powerapps/maker/canvas-apps/formula-reference?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Power Apps patterns",
-                "url": "https://docs.microsoft.com/en-us/powerapps/guidance/patterns/overview"
+                "url": "https://docs.microsoft.com/powerapps/guidance/patterns/overview?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Planning a Power Apps project",
-                "url": "https://docs.microsoft.com/en-us/powerapps/guidance/planning/introduction"
+                "url": "https://docs.microsoft.com/powerapps/guidance/planning/introduction?WT.mc_id=m365-12775-cxa"
               }
             ]
           }

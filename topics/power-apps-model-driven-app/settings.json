@@ -56,17 +56,17 @@
               {
                 "name": "Sample Workflow operations",
                 "description": "This sample demonstrates how to perform a number of workflow operations such as create, delete, activate, set state , and more.",
-                "url": "https://docs.microsoft.com/en-us/powerapps/developer/data-platform/org-service/samples/workflow-operations"
+                "url": "https://docs.microsoft.com/powerapps/developer/data-platform/org-service/samples/workflow-operations?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Work with option sets",
                 "description": "This sample shows how to work with option sets. Typically, you use global option sets to set fields so that different fields can share the same set of options, which are maintained in one location. Unlike local options sets which are defined only for a specific attribute, you can reuse global option sets. You will also see them used in request parameters in a manner similar to an enumeration.",
-                "url": "https://docs.microsoft.com/en-us/powerapps/developer/data-platform/org-service/samples/work-with-option-sets"
+                "url": "https://docs.microsoft.com/powerapps/developer/data-platform/org-service/samples/work-with-option-sets?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Work with solutions",
                 "description": "This sample shows how to how to perform various actions with solutions",
-                "url": "https://docs.microsoft.com/en-us/powerapps/developer/data-platform/org-service/samples/work-solutions"
+                "url": "https://docs.microsoft.com/powerapps/developer/data-platform/org-service/samples/work-solutions?WT.mc_id=m365-12775-cxa"
               }
             ]
           },
@@ -77,22 +77,22 @@
               {
                 "name": "What are model-driven apps?",
                 "description": "Model-driven app design is a component-focused approach to app development. Model-driven app design doesn’t require code and the apps you make can be simple or very complex. Unlike canvas app development where the designer has complete control over app layout, with model-driven apps much of the layout is determined for you and largely designated by the components you add to the app.",
-                "url": "https://docs.microsoft.com/en-us/powerapps/maker/model-driven-apps/model-driven-app-overview"
+                "url": "https://docs.microsoft.com/powerapps/maker/model-driven-apps/model-driven-app-overview?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Create and design app forms",
                 "description": "With Power Apps, forms provide the user interface that people use to interact with the data they need to do their work. It's important that the forms people use are designed to allow them to find or enter the information they need efficiently.",
-                "url": "https://docs.microsoft.com/en-us/powerapps/maker/model-driven-apps/create-design-forms"
+                "url": "https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-design-forms?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Define data for your model-driven app",
                 "description": "Data for your model-driven app is defined in Microsoft Dataverse. You define your app data using the following components: table, column, and relationship.",
-                "url": "https://docs.microsoft.com/en-us/powerapps/maker/model-driven-apps/define-data-model-driven-app"
+                "url": "https://docs.microsoft.com/powerapps/maker/model-driven-apps/define-data-model-driven-app?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Create your first model-driven app",
                 "description": "Model-driven app design is a component-focused approach to app development. In this topic, you simplify how to create a model-driven app by using one of the standard tables that's available in your Power Apps environment.",
-                "url": "https://docs.microsoft.com/en-us/powerapps/maker/model-driven-apps/build-first-model-driven-app"
+                "url": "https://docs.microsoft.com/powerapps/maker/model-driven-apps/build-first-model-driven-app?WT.mc_id=m365-12775-cxa"
               }              
             ]
           },

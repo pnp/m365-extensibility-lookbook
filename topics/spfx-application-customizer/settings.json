@@ -58,12 +58,12 @@
               {
                 "name": "Sample name 2 with link to GitHub or to Sample gallery when it's available",
                 "description": "Potential description for the sample reference",
-                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
+                "url": "https://support.office.com/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
               },
               {
                 "name": "Sample name 3 with link to GitHub or to Sample gallery when it's available",
                 "description": "Potential description for the sample reference",
-                "url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
+                "url": "https://support.office.com/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
               }
             ]
           },
@@ -94,19 +94,19 @@
             "items": [
               {
                 "name": "Pre-allocate space for SharePoint Framework extension placeholders",
-                "url": "https://docs.microsoft.com/en-us/sharepoint/dev/spfx/extensions/basics/preallocated-space-placeholders"
+                "url": "https://docs.microsoft.com/sharepoint/dev/spfx/extensions/basics/preallocated-space-placeholders?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Using library component type in SharePoint Framework",
-                "url":  "https://docs.microsoft.com/sharepoint/dev/spfx/library-component-overview"
+                "url":  "https://docs.microsoft.com/sharepoint/dev/spfx/library-component-overview?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Build solutions with the library component type in SharePoint Framework",
-                "url":  "https://docs.microsoft.com/sharepoint/dev/spfx/library-component-tutorial"
+                "url":  "https://docs.microsoft.com/sharepoint/dev/spfx/library-component-tutorial?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Tenant-wide Deployment of SharePoint Framework Extensions",
-                "url":  "https://docs.microsoft.com/sharepoint/dev/spfx/extensions/basics/tenant-wide-deployment-extensions"
+                "url":  "https://docs.microsoft.com/sharepoint/dev/spfx/extensions/basics/tenant-wide-deployment-extensions?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "SharePoint Framework Extension Samples",

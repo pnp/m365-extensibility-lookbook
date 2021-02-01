@@ -44,22 +44,22 @@
               {
                 "name": "Get started with approvals",
                 "description": "Approval flows can help you automate sign-off requests and combine human decision-making with background automation to help business users focus on their core tasks.",
-                "url": "https://docs.microsoft.com/en-us/power-automate/get-started-approvals"
+                "url": "https://docs.microsoft.com/power-automate/get-started-approvals?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Create and test an approval workflow with Power Automate",
                 "description": "With Power Automate, you can manage the approval of documents or processes across several services, including SharePoint, Dynamics 365, Salesforce, OneDrive for Business, Zendesk, or WordPress.",
-                "url": "https://docs.microsoft.com/en-us/power-automate/modern-approvals"
+                "url": "https://docs.microsoft.com/power-automate/modern-approvals?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Manage sequential approvals with Power Automate",
                 "description": "Some workflows require pre-approval before the final approver is required to sign off.",
-                "url": "https://docs.microsoft.com/en-us/power-automate/sequential-modern-approvals"
+                "url": "https://docs.microsoft.com/power-automate/sequential-modern-approvals?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Create parallel approval workflows with Power Automate",
                 "description": "In a parallel approval workflow, multiple persons are required to approve items such as invoices, purchase orders, vacation requests, etc. Each person's approval is independent of all other approvers.",
-                "url": "https://docs.microsoft.com/en-us/power-automate/parallel-modern-approvals"
+                "url": "https://docs.microsoft.com/power-automate/parallel-modern-approvals?WT.mc_id=m365-12775-cxa"
               }              
             ]
           },
@@ -69,16 +69,16 @@
             "items": [
               {
                 "name": "View and manage pending approval requests",
-                "url": "https://docs.microsoft.com/en-us/power-automate/approve-reject-requests"
+                "url": "https://docs.microsoft.com/power-automate/approve-reject-requests?WT.mc_id=m365-12775-cxa"
 
               },
               {
                 "name": "Create sequential approval flows",
-                "url": "https://docs.microsoft.com/en-us/power-automate/sequential-modern-approvals"
+                "url": "https://docs.microsoft.com/power-automate/sequential-modern-approvals?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Create parallel approval flows.",
-                "url": "https://docs.microsoft.com/en-us/power-automate/parallel-modern-approvals"
+                "url": "https://docs.microsoft.com/power-automate/parallel-modern-approvals?WT.mc_id=m365-12775-cxa"
               }
             ]
           }

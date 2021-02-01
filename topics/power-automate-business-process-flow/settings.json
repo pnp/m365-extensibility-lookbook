@@ -45,22 +45,22 @@
               {
                 "name": "Business process flows overview",
                 "description": "ou can help ensure that people enter data consistently and follow the same steps every time they work with a customer by creating a business process flow.",
-                "url": "https://docs.microsoft.com/en-us/power-automate/business-process-flows-overview"
+                "url": "https://docs.microsoft.com/power-automate/business-process-flows-overview?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Tutorial: Create a business process flow to standardize processes",
                 "description": "This tutorial shows you how to create a business process flow with Power Apps.",
-                "url": "https://docs.microsoft.com/en-us/power-automate/create-business-process-flow"
+                "url": "https://docs.microsoft.com/power-automate/create-business-process-flow?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Tutorial: Enhance business process flows with branching",
                 "description": "Business process flows guide you through various stages of sales, marketing, or service processes toward completion.",
-                "url": "https://docs.microsoft.com/en-us/power-automate/enhance-business-process-flows-branching"
+                "url": "https://docs.microsoft.com/power-automate/enhance-business-process-flows-branching?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Use custom controls in business process flows",
                 "description": "Business process flows provide a guided way to get work done in the form of stages and steps. ",
-                "url": "https://docs.microsoft.com/en-us/power-automate/custom-controls-business-process-flows"
+                "url": "https://docs.microsoft.com/power-automate/custom-controls-business-process-flows?WT.mc_id=m365-12775-cxa"
               }              
             ]
           },
@@ -70,7 +70,7 @@
             "items": [
               {
                 "name": "Best practices in using business process flow attributes",
-                "url": "https://docs.microsoft.com/en-us/power-automate/best-practices-entity-attributes"
+                "url": "https://docs.microsoft.com/power-automate/best-practices-entity-attributes?WT.mc_id=m365-12775-cxa"
               }
             ]
           }

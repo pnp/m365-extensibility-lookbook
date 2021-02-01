@@ -99,15 +99,15 @@
             "items": [
               {
                 "name": "Tenant-wide Deployment of SharePoint Framework Extensions",
-                "url":  "https://docs.microsoft.com/sharepoint/dev/spfx/extensions/basics/tenant-wide-deployment-extensions"
+                "url":  "https://docs.microsoft.com/sharepoint/dev/spfx/extensions/basics/tenant-wide-deployment-extensions?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Using library component type in SharePoint Framework",
-                "url":  "https://docs.microsoft.com/sharepoint/dev/spfx/library-component-overview"
+                "url":  "https://docs.microsoft.com/sharepoint/dev/spfx/library-component-overview?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Build solutions with the library component type in SharePoint Framework",
-                "url":  "https://docs.microsoft.com/sharepoint/dev/spfx/library-component-tutorial"
+                "url":  "https://docs.microsoft.com/sharepoint/dev/spfx/library-component-tutorial?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "SharePoint Framework Web Part Samples",

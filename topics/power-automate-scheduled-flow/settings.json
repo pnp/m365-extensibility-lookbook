@@ -38,12 +38,12 @@
               {
                 "name": "Run flows on a schedule",
                 "description": "Create a cloud flow that performs one or more tasks: Once a day, an hour, or a minute, On a date that you specify, After a number of days, hours, or minutes that you specify",
-                "url": "https://docs.microsoft.com/en-us/power-automate/run-scheduled-tasks"
+                "url": "https://docs.microsoft.com/power-automate/run-scheduled-tasks?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Use the apply to each action in Power Automate to process a list of items periodically",
                 "description": "Many triggers can immediately start a cloud flow based on an event such as when a new email arrives in your inbox",
-                "url": "https://docs.microsoft.com/en-us/power-automate/apply-to-each"
+                "url": "https://docs.microsoft.com/power-automate/apply-to-each?WT.mc_id=m365-12775-cxa"
               }              
             ]
           },
@@ -53,7 +53,7 @@
             "items": [
               {
                 "name": "Create, schedule, and run recurring tasks and workflows with the Recurrence trigger in Azure Logic Apps",
-                "url": "https://docs.microsoft.com/en-us/azure/connectors/connectors-native-recurrence"
+                "url": "https://docs.microsoft.com/azure/connectors/connectors-native-recurrence?WT.mc_id=m365-12775-cxa"
               }
             ]
           }
