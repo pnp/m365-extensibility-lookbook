@@ -24,7 +24,7 @@
             "type": "image",
             "order": 100,
             "url": "/assets/promo-spfx-extension.png",
-            "alt": "Alt text for the image"
+            "alt": "Field rendering in a list customized using a field customizer"
           },
           {
             "type": "video",

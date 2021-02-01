@@ -1,0 +1,92 @@
+{
+  "topicId": "extend-search",
+  "categories": [
+    "EXTEND"
+  ],
+  "sortOrder": 500,
+  "preview": true,
+  "visible": true,
+  "metadata": {
+    "displayInfo": {
+      "default": {
+        "displayTitle": "Extend search",
+        "shortDescription": "When you use the Microsoft Search API, your customers benefit from more personalized, relevant search results powered by Microsoft Graph. The search experience in your apps will return results that are consistent with search in Office applications.",
+        "cardPictureUrl": "/assets/promo-bot.png", 
+        "cardPictureAlt": "Bot", 
+        "descriptionParagraphs": [
+          "Microsoft Search is an enterprise search engine that delivers productivity gains and relevant search results for your organization. It harnesses the collective knowledge and productivity of an organization, and surfaces relevant content to keep end users up to date. Microsoft Search is available in various experiences including Office, SharePoint, Delve, Windows, and Bing. You can use the Microsoft Search API in Microsoft Graph to extend Microsoft Search to your apps."
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 100,
+            "url": "/assets/promo-bot.png",
+            "alt": "Conceptual representation of what bots look like in the Teams client."
+          }
+        ],
+        "detailItemCategories": [
+          {
+            "name": "Scenarios",
+            "description": "Key use cases for extending Microsoft Search",
+            "items": [
+              {
+                "name": "Manage connections to index external content",
+                "url": "https://docs.microsoft.com/graph/search-index-manage-connections?WT.mc_id=m365-12775-cxa"
+              },
+              {
+                "name": "Index external content",
+                "url": "https://docs.microsoft.com/graph/search-index-manage-items?WT.mc_id=m365-12775-cxa"
+              },
+              {
+                "name": "Search Outlook messages",
+                "url": "https://docs.microsoft.com/graph/search-concept-messages?WT.mc_id=m365-12775-cxa"
+              },
+              {
+                "name": "Search calendar events",
+                "url": "https://docs.microsoft.com/graph/search-concept-events?WT.mc_id=m365-12775-cxa"
+              },
+              {
+                "name": "Search content in SharePoint and OneDrive",
+                "url": "https://docs.microsoft.com/graph/search-concept-files?WT.mc_id=m365-12775-cxa"
+              },
+              {
+                "name": "Search external content (preview)",
+                "url": "https://docs.microsoft.com/graph/search-concept-custom-types?WT.mc_id=m365-12775-cxa"
+              },
+              {
+                "name": "Sort search results (preview)",
+                "url": "https://docs.microsoft.com/graph/search-concept-sort?WT.mc_id=m365-12775-cxa"
+              },
+              {
+                "name": "Refine search results (preview)",
+                "url": "https://docs.microsoft.com/graph/search-concept-aggregation?WT.mc_id=m365-12775-cxa"
+              }
+            ]
+          },
+          {
+            "name": "Samples",
+            "description": "Useful samples that illustrate extending search",
+            "items": [
+              {
+                "name": "Microsoft Graph Search Connector Sample",
+                "description": "This .NET Core application shows how to use the Microsoft Graph indexing API to create a connection to the Microsoft Search service and index custom items. The sample indexes appliance parts inventory for Contoso Appliance Repair.",
+                "url": "https://github.com/microsoftgraph/msgraph-search-connector-sample"
+              }
+            ]
+          },
+          {
+            "name": "Documentation",
+            "description": "Here are the key resources around getting started on building Microsoft Teams bots",
+            "items": [
+              {
+                "name": "Overview of the Microsoft Search API in Microsoft Graph",
+                "description": "What is Microsoft Search and why would you use it in your apps",
+                "url": "https://docs.microsoft.com/graph/search-concept-overview?WT.mc_id=m365-12775-cxa"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

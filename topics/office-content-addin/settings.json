@@ -14,7 +14,7 @@
         "cardPictureUrl": "/assets/card-tab.png", 
         "cardPictureAlt": "Microsoft Office content add-ins", 
         "descriptionParagraphs": [
-          "Content add-ins are surfaces that you can embed directly into Excel documents. You can use content add-ins to embed rich, web-based objects such as charts, data visualizations, or media into a worksheet or to give users access to interface controls that run code to modify the Excel document or display data from a data source. Use content add-ins when you want to embed functionality directly into the document."
+          "Content add-ins are surfaces that you can embed directly into Office documents. You can use content add-ins to embed rich, web-based objects such as charts, data visualizations, or media into a worksheet or to give users access to interface controls that run code to modify the Office document or display data from a data source. Use content add-ins when you want to embed functionality directly into the document."
         ],
         "mediaAssets": [
           {

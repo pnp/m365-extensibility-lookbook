@@ -1,0 +1,54 @@
+{
+  "topicId": "extend-documents",
+  "categories": [
+    "EXTEND"
+  ],
+  "sortOrder": 100,
+  "preview": true,
+  "visible": true,
+  "metadata": {
+    "displayInfo": {
+      "default": {
+        "displayTitle": "Extend documents",
+        "shortDescription": "Embed your application in Office documents",
+        "cardPictureUrl": "/assets/card-tab.png", 
+        "cardPictureAlt": "Microsoft Office content add-ins", 
+        "descriptionParagraphs": [
+          "Content add-ins are surfaces that you can embed directly into Office documents. You can use content add-ins to embed rich, web-based objects such as charts, data visualizations, or media into a worksheet or to give users access to interface controls that run code to modify the Office document or display data from a data source. Use content add-ins when you want to embed functionality directly into the document."
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 100,
+            "url": "/assets/promo-content-addin.png",
+            "alt": "Interactive map displayed in an email message"
+          },
+          {
+            "type": "image",
+            "order": 100,
+            "url": "/assets/promo-contextual-addin.png",
+            "alt": "Interactive map displayed overlaying a message"
+          }
+        ],
+        "detailItemCategories": [
+          {
+            "name": "Types of extensions",
+            "description": "Here are different ways how you can expose your app inside an Office document",
+            "items": [
+              {
+                "name": "Microsoft Office contextual add-ins",
+                "description": "Interact with contents of messages",
+                "url": "../../extensibility-office-contextual-addin/?view=product"
+              },
+              {
+                "name": "Microsoft Office content add-ins",
+                "description": "Embed your application in Office documents",
+                "url": "../../extensibility-office-content-addin/?view=product"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

@@ -22,7 +22,7 @@
             "type": "image",
             "order": 100,
             "url": "/assets/promo-task-module.png",
-            "alt": "Alt text for the image"
+            "alt": "Conceptual representation of what task modules look like in the Teams client."
           },
           {
             "type": "video",

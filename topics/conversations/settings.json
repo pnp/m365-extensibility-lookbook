@@ -1,0 +1,103 @@
+{
+  "topicId": "extend-conversations",
+  "categories": [
+    "EXTEND"
+  ],
+  "sortOrder": 200,
+  "preview": true,
+  "visible": true,
+  "metadata": {
+    "displayInfo": {
+      "default": {
+        "displayTitle": "Extend conversations",
+        "shortDescription": "Embed your application in conversations",
+        "cardPictureUrl": "/assets/promo-bot.png", 
+        "cardPictureAlt": "Bot", 
+        "descriptionParagraphs": [
+          "By embedding your app in conversations, you can bring your app to where your app where your users are and have them interact with your app without leaving their context."
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 100,
+            "url": "/assets/promo-bot.png",
+            "alt": "Conceptual representation of what bots look like in the Teams client."
+          },
+          {
+            "type": "image",
+            "order": 200,
+            "url": "/assets/promo-task-module.png",
+            "alt": "Conceptual representation of what task modules look like in the Teams client."
+          },
+          {
+            "type": "image",
+            "order": 300,
+            "url": "/assets/promo-connector.png",
+            "alt": "Conceptual representation of what messaging extensions look like in the Teams client."
+          },
+          {
+            "type": "image",
+            "order": 400,
+            "url": "/assets/promo-messaging.png",
+            "alt": "Conceptual representation of what messaging extensions look like in the Teams client."
+          },
+          {
+            "type": "image",
+            "order": 500,
+            "url": "/assets/promo-webhook.png",
+            "alt": "Conceptual representation of what connectors look like in the Teams client."
+          },
+          {
+            "type": "image",
+            "order": 600,
+            "url": "/assets/promo-tab.png",
+            "alt": "Conceptual representation of what tabs look like in the Teams client."
+          }
+        ],
+        "detailItemCategories": [
+          {
+            "name": "Types of extensions",
+            "description": "Here are some ways in which you can extend conversations with your app",
+            "items": [
+              {
+                "name": "Task modules",
+                "description": "Collect input with Microsoft Teams",
+                "url": "../../extensibility-task-module/?view=product"
+              },
+              {
+                "name": "Microsoft Teams outgoing webhooks",
+                "description": "Connect your web services to channels and teams inside Microsoft Teams",
+                "url": "../../extensibility-outgoing-webhook/?view=product"
+              },
+              {
+                "name": "Microsoft Teams Office 365 Connectors",
+                "description": "Connect your web services to channels and teams inside Microsoft Teams",
+                "url": "../../extensibility-office-365-connector/?view=product"
+              },
+              {
+                "name": "Messaging extensions",
+                "description": "Task-oriented interactions in Microsoft Teams",
+                "url": "../../extensibility-messaging-extension/?view=product"
+              },
+              {
+                "name": "Microsoft Teams incoming webhooks",
+                "description": "Connect your web services to channels and teams inside Microsoft Teams",
+                "url": "../../extensibility-incoming-webhook/?view=product"
+              },
+              {
+                "name": "Microsoft Teams channel and group tabs",
+                "description": "Create embedded web experiences for a team channel or chat",
+                "url": "../../extensibility-canvas-channel-group-tab/?view=product"
+              },
+              {
+                "name": "Microsoft Teams bots",
+                "description": "Create interactive conversational bots",
+                "url": "../../extensibility-bot/?view=product"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
