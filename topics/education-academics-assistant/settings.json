@@ -11,7 +11,7 @@
       "default": {
         "displayTitle": "Academics Assistant",
         "shortDescription": "Academics Assistant",
-        "cardPictureUrl": "/assets/academics-assistant.png", 
+        "cardPictureUrl": "/assets/card-academics-assistant.png", 
         "cardPictureAlt": "Academics Assistant", 
         "descriptionParagraphs": [
           "Daniel, a student at Contoso university is juggling between his academic coursework, part time job, extra and co-curricular activities. He prefers a centralized hub to manage all his day-to-day activities, tasks and  coursework in a structured manner.",
