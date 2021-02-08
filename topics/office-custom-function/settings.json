@@ -21,13 +21,7 @@
             "type": "image",
             "order": 100,
             "url": "/assets/promo-tab.png",
-            "alt": "Alt text for the image"
-          },
-          {
-            "type": "video",
-            "order": 101,
-            "url": "https://youtube.com/embed/3120470",
-            "alt": "Alt text for the video"
+            "alt": "Microsoft Office custom functions"
           }
         ],
         "detailItemCategories": [
@@ -70,13 +64,13 @@
           },
           {
             "name": "References",
-            "description": "Possible html supported text shown just above the list of links",
+            "description": "Useful resources associated to Office Add-ins Custom Functions",
             "items": []
           }
         ]
       },
       "fr": {
-        "displayTitle": "Microsoft Teams tab"
+        "displayTitle": "Microsoft Office custom functions"
       }
     }
   }

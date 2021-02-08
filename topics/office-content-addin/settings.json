@@ -21,13 +21,7 @@
             "type": "image",
             "order": 100,
             "url": "/assets/promo-tab.png",
-            "alt": "Alt text for the image"
-          },
-          {
-            "type": "video",
-            "order": 101,
-            "url": "https://youtube.com/embed/3120470",
-            "alt": "Alt text for the video"
+            "alt": "Microsoft Office content add-ins"
           }
         ],
         "detailItemCategories": [
@@ -55,13 +49,18 @@
           },
           {
             "name": "References",
-            "description": "Possible html supported text shown just above the list of links",
-            "items": []
+            "description": "Useful resources associated to Office Add-ins Content",
+            "items": [
+              {
+                "name": "Develop Office Add-ins",
+                "url": "https://docs.microsoft.com/office/dev/add-ins/develop/develop-overview?WT.mc_id=m365-12775-cxa"
+              }
+            ]
           }
         ]
       },
       "fr": {
-        "displayTitle": "Microsoft Teams tab"
+        "displayTitle": "Microsoft Office content add-ins"
       }
     }
   }

@@ -24,7 +24,7 @@
             "type": "image",
             "order": 100,
             "url": "/assets/promo-webpart.png",
-            "alt": "Alt text for the image"
+            "alt": "SharePoint Framework Web Parts"
           },
           {
             "type": "video",
@@ -51,19 +51,19 @@
             "description": "SharePoint Framework Web Part Samples",
             "items": [
               {
-                "name": "Chart Control Samples",
-                "description": "This sample contains several web parts that demonstrate how to use the PnP ChartControl",
-                "url": "https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-chartcontrol"
-              },
-              {
-                "name": "Content Query web part (SharePoint Online-Compatible)",
+                "name": "Content Query web part",
                 "description": "The Content Query web part is a modern version of the good old Content by Query web part that was introduced in SharePoint 2007.",
                 "url": "https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-content-query-online"
               },
               {
-                "name": "Enhanced List Formatting",
-                "description": "This web part allows you to add custom CSS on a page to enhance list formatting.",
-                "url": "https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-enhanced-list-formatting"
+                "name": "PnP Modern Search web parts",
+                "description": "The PnP 'Modern Search' solution is a set of SharePoint Online modern Web Parts allowing SharePoint super users, webmasters and developers to create highly flexible and personalized search based experiences in minutes.",
+                "url": "https://github.com/microsoft-search/pnp-modern-search/"
+              },
+              {
+                "name": "Chart Control Samples",
+                "description": "This sample contains several web parts that demonstrate how to use the PnP ChartControl",
+                "url": "https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-chartcontrol"
               }
             ]
           },
@@ -118,7 +118,7 @@
         ]
       },
       "fr": {
-        "displayTitle": "Microsoft Teams tab"
+        "displayTitle": "SharePoint Framework Web Parts"
       }
     }
   }

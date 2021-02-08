@@ -9,10 +9,10 @@
   "metadata": {
     "displayInfo": {
       "default": {
-        "displayTitle": "Microsoft Office dialog boxes",
+        "displayTitle": "Microsoft Office Add-ins dialog boxes",
         "shortDescription": "Interact with users in Office client applications",
         "cardPictureUrl": "/assets/card-tab.png", 
-        "cardPictureAlt": "Microsoft Office dialog boxes", 
+        "cardPictureAlt": "Microsoft Office Add-ins dialog boxes", 
         "descriptionParagraphs": [
           "Dialog boxes are surfaces that float above the active Excel application window. You can use dialog boxes for tasks such as displaying sign-in pages that can't be opened directly in a task pane, requesting that the user confirm an action, or hosting videos that might be too small if confined to a task pane."
         ],
@@ -21,13 +21,7 @@
             "type": "image",
             "order": 100,
             "url": "/assets/promo-tab.png",
-            "alt": "Alt text for the image"
-          },
-          {
-            "type": "video",
-            "order": 101,
-            "url": "https://youtube.com/embed/3120470",
-            "alt": "Alt text for the video"
+            "alt": "Microsoft Office Add-ins dialog boxes"
           }
         ],
         "detailItemCategories": [
@@ -86,7 +80,7 @@
         ]
       },
       "fr": {
-        "displayTitle": "Microsoft Teams tab"
+        "displayTitle": "Microsoft Office Add-ins dialog boxes"
       }
     }
   }

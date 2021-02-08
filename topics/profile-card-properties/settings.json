@@ -73,7 +73,7 @@
           },
           {
             "name": "References",
-            "description": "Collection of articles and resources",
+            "description": "Collection of articles and resources associated to Profile Card properties",
             "items": [
               {
                 "name": "Add additional properties to the profile card using the profile API in Microsoft Graph",
@@ -84,7 +84,7 @@
         ]
       },
       "fr": {
-        "displayTitle": "Microsoft Teams tab"
+        "displayTitle": "Profile Card properties"
       }
     }
   }

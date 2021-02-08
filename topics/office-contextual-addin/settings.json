@@ -21,13 +21,7 @@
             "type": "image",
             "order": 100,
             "url": "/assets/promo-tab.png",
-            "alt": "Alt text for the image"
-          },
-          {
-            "type": "video",
-            "order": 101,
-            "url": "https://youtube.com/embed/3120470",
-            "alt": "Alt text for the video"
+            "alt": "Microsoft Office contextual add-ins"
           }
         ],
         "detailItemCategories": [
@@ -44,7 +38,7 @@
           },
           {
             "name": "Documentation",
-            "description": "Here are the key resources around getting started on building Microsoft Teams tabs",
+            "description": "Here are the key resources around getting started on building Contextual Office Add-ins",
             "items": [
               {
                 "name": "Contextual Outlook add-ins",
@@ -55,8 +49,17 @@
           },
           {
             "name": "References",
-            "description": "Possible html supported text shown just above the list of links",
-            "items": []
+            "description": "Useful resources associated to Contextual Office Add-ins",
+            "items": [
+              {
+                "name": "Develop Office Add-ins",
+                "url": "https://docs.microsoft.com/office/dev/add-ins/develop/develop-overview?WT.mc_id=m365-12775-cxa"
+              },
+              {
+                "name": "Create custom contextual tabs in Office Add-ins",
+                "url": "https://docs.microsoft.com/office/dev/add-ins/design/contextual-tabs?WT.mc_id=m365-12775-cxa"
+              }
+            ]
           }
         ]
       },

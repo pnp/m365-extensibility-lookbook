@@ -90,7 +90,7 @@
           },
           {
             "name": "References",
-            "description": "Useful resources associated to SharePoint Framework Extensions",
+            "description": "Useful resources associated to SharePoint Framework Application Customizer Extensions",
             "items": [
               {
                 "name": "Pre-allocate space for SharePoint Framework extension placeholders",
@@ -117,7 +117,7 @@
         ]
       },
       "fr": {
-        "displayTitle": "Microsoft Teams tab"
+        "displayTitle": "SharePoint Framework Application Customizer Extensions"
       }
     }
   }

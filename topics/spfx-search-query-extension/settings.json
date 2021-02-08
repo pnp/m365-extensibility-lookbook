@@ -15,14 +15,15 @@
         "cardPictureAlt": "SharePoint Framework Search Query Extension", 
         "descriptionParagraphs": [
           "You can use SharePoint Framework (SPFx) Extensions to extend the SharePoint user experience. With SPFx Extensions, you can customize more facets of the SharePoint experience, including notification areas, toolbars, and list data views. SPFx Extensions are available in all Microsoft 365 subscriptions for production usage.",
-          "A query extension acts as a normal SharePoint Framework extension, but it will be invoked just before the search query is executed, so that the query can be potentially modified."
+          "A query extension acts as a normal SharePoint Framework extension, but it will be invoked just before the search query is executed, so that the query can be potentially modified.",
+          "Starting with the SharePoint Framework v1.10, you can also build a query suggestion extensions with SharePoint Framework."
         ],
         "mediaAssets": [
           {
             "type": "image",
             "order": 100,
             "url": "/assets/promo-spfx-extension.png",
-            "alt": "Alt text for the image"
+            "alt": "SharePoint Framework Search Query Extension"
           },
           {
             "type": "video",
@@ -49,19 +50,9 @@
             "description": "SharePoint Framework Search Query Extension samples",
             "items": [
               {
-                "name": "Sample name 1 with link to GitHub or to Sample gallery when it's available",
-                "description": "Potential description for the sample reference",
-                "url": "https://support.office.com/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
-              },
-              {
-                "name": "Sample name 2 with link to GitHub or to Sample gallery when it's available",
-                "description": "Potential description for the sample reference",
-                "url": "https://support.office.com/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
-              },
-              {
-                "name": "Sample name 3 with link to GitHub or to Sample gallery when it's available",
-                "description": "Potential description for the sample reference",
-                "url": "https://support.office.com/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
+                "name": "Building a query suggestion extension using SharePoint Framework",
+                "description": "Building a query suggestion extension using SharePoint Framework",
+                "url": "https://docs.microsoft.com/sharepoint/dev/spfx/extensions/get-started/query-suggestion-tutorial-building?WT.mc_id=m365-12775-cxa"
               }
             ]
           },
@@ -79,24 +70,12 @@
           {
             "name": "References",
             "description": "Useful resources associated to SharePoint Framework Search Query Extensions",
-            "items": [
-              {
-                "name": "Here are some additional references"
-              },
-              {
-                "name": "Rendered as a link if URL exists",
-                "url": "http://aka.ms/m365pnp"
-              },
-              {
-                "name": "Second additional link",
-                "url": "http://aka.ms/m365pnp"
-              }
-            ]
+            "items": []
           }
         ]
       },
       "fr": {
-        "displayTitle": "Microsoft Teams tab"
+        "displayTitle": "SharePoint Framework Search Query Extension"
       }
     }
   }

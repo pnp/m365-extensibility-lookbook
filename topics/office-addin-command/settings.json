@@ -21,7 +21,7 @@
             "type": "image",
             "order": 100,
             "url": "/assets/promo-tab.png",
-            "alt": "Alt text for the image"
+            "alt": "Microsoft Office add-in commands"
           },
           {
             "type": "video",
@@ -81,18 +81,15 @@
           },
           {
             "name": "References",
-            "description": "Possible html supported text shown just above the list of links",
+            "description": "Useful resources associated to Office Add-ins Commands",
             "items": [
               {
-                "name": "Here are some additional references"
+                "name": "Basic concepts for Add-in Commands",
+                "url": "https://docs.microsoft.com/office/dev/add-ins/design/add-in-commands?WT.mc_id=m365-12775-cxa"
               },
               {
-                "name": "Rendered as a link if URL exists",
-                "url": "http://aka.ms/m365pnp"
-              },
-              {
-                "name": "Second additional link",
-                "url": "http://aka.ms/m365pnp"
+                "name": "Office Add-in Commands Samples",
+                "url": "https://docs.microsoft.com/samples/officedev/office-add-in-commands-samples/office-add-in-commands-samples?WT.mc_id=m365-12775-cxa"
               }
             ]
           }
