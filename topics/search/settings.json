@@ -76,7 +76,7 @@
           },
           {
             "name": "Documentation",
-            "description": "Here are the key resources around getting started on building Microsoft Teams bots",
+            "description": "Here are the key resources around getting started extending Microsoft Search",
             "items": [
               {
                 "name": "Overview of the Microsoft Search API in Microsoft Graph",
