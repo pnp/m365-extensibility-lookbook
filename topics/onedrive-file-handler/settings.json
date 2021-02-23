@@ -44,7 +44,7 @@
           },
           {
             "name": "Documentation",
-            "description": "Here are the key resources around getting started on building Microsoft OneDrive File Handlers",
+            "description": "Get started building Microsoft OneDrive file handlers",
             "items": [
               {
                 "name": "Adding custom preview, open, and actions to files with File Handlers 2.0",
@@ -67,16 +67,8 @@
                 "url": "https://docs.microsoft.com/onedrive/developer/file-handlers/localization?WT.mc_id=m365-12775-cxa"
               }              
             ]
-          },
-          {
-            "name": "References",
-            "description": "Useful resources associated to Microsoft OneDrive file handlers",
-            "items": []
           }
         ]
-      },
-      "fr": {
-        "displayTitle": "Microsoft OneDrive file handlers"
       }
     }
   }
