@@ -12,7 +12,7 @@
         "displayTitle": "Build web apps",
         "shortDescription": "Integrate your web apps with Microsoft 365",
         "cardPictureUrl": "/assets/card-webapps.png", 
-        "cardPictureAlt": "Bot", 
+        "cardPictureAlt": "", 
         "descriptionParagraphs": [
           "Bring information and insights from Microsoft 365 to your web app"
         ],

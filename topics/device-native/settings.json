@@ -12,7 +12,7 @@
         "displayTitle": "Build device and native apps",
         "shortDescription": "Build apps for specific devices",
         "cardPictureUrl": "/assets/card-device-native.png", 
-        "cardPictureAlt": "Bot", 
+        "cardPictureAlt": "", 
         "descriptionParagraphs": [
           "Bring information and insights from Microsoft 365 to your native app"
         ],
