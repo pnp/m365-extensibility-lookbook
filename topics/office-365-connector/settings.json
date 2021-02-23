@@ -21,13 +21,13 @@
             "type": "image",
             "order": 100,
             "url": "/assets/promo-connector.png",
-            "alt": "Conceptual representation of what messaging extensions look like in the Teams client."
+            "alt": "Office 365 connectors displayed in Microsoft Teams"
           }
         ],
         "detailItemCategories": [
           {
             "name": "Scenarios",
-            "description": "",
+            "description": "What could use a Microsoft Teams Office 365 connector for?",
             "items": [
               {
                 "name": "Configurable weather connector",
@@ -38,7 +38,7 @@
           },
           {
             "name": "Documentation",
-            "description": "Here are the key resources around getting started on building Microsoft Teams tabs",
+            "description": "Get started with building Microsoft Teams Office 365 connectors",
             "items": [
               {
                 "name": "Office 365 Connectors",
