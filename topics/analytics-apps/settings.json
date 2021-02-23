@@ -27,7 +27,7 @@
         "detailItemCategories": [
           {
             "name": "Scenarios",
-            "description": "Possible html supported text shown just above the list of links",
+            "description": "What could you do in your analytics apps connected to Microsoft 365?",
             "items": [
               {
                 "name": "Integrate Microsoft 365 usage reporting into your organization's existing reporting solution",
