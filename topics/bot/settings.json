@@ -16,8 +16,8 @@
         "cardPictureAlt": "Bot", 
         "descriptionParagraphs": [
           "Conversational bots allow users to interact with your web service through text, interactive cards, and task modules.",
-          "Conversational bots can be scoped to handling a few simple commands or complex, artificial intelligence powered and natural language processing virtual assistants.",
-          "They can be one aspect of a larger application, or completely stand alone."
+          "Bots can handle a few simple commands or complex, artificial intelligence-powered and natural language processing virtual assistants.",
+          "Bots can be standalone or a part of a larger application."
         ],
         "mediaAssets": [
           {
@@ -54,15 +54,15 @@
         "detailItemCategories": [
           {
             "name": "Scenarios",
-            "description": "Possible html supported text shown just above the list of links",
+            "description": "What could you use bots for?",
             "items": [
               {
-                "name": "Notifications",
+                "name": "Notify users",
                 "description": "Particularly if you provide an interactive card for users to take additional information.",
                 "url": "https://docs.microsoft.com/microsoftteams/platform/bots/what-are-bots?WT.mc_id=m365-12775-cxa"
               },
               {
-                "name": "Feedback",
+                "name": "Collect feedback",
                 "description": "Feedback scenarios like polls and surveys.",
                 "url": "https://docs.microsoft.com/microsoftteams/platform/bots/what-are-bots?WT.mc_id=m365-12775-cxa"
               },
@@ -85,7 +85,7 @@
           },
           {
             "name": "Samples",
-            "description": "Possible html supported text shown just above the list of links",
+            "description": "Sample bots for Microsoft Teams",
             "items": [
               {
                 "name": "Book-a-room",
@@ -106,7 +106,7 @@
           },
           {
             "name": "Documentation",
-            "description": "Here are the key resources around getting started on building Microsoft Teams bots",
+            "description": "Key resources around getting started with building Microsoft Teams bots",
             "items": [
               {
                 "name": "Build a bot for Microsoft Teams",
