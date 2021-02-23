@@ -1,11 +1,12 @@
 {
   "topicId": "extensibility-bot",
   "categories": [
-    "MICROSOFTTEAMS"
+    "MICROSOFTTEAMS",
+    "BUILD"
   ],
   "sortOrder": 320,
   "preview": true,
-  "visible": false,
+  "visible": true,
   "metadata": {
     "displayInfo": {
       "default": {
