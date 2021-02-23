@@ -38,7 +38,7 @@
           },
           {
             "name": "Documentation",
-            "description": "Here are the key resources around getting started on Microsoft Office Content Add-ins",
+            "description": "Get started building Microsoft Office content add-ins",
             "items": [
               {
                 "name": "Content Office Add-ins",
@@ -49,7 +49,7 @@
           },
           {
             "name": "References",
-            "description": "Useful resources associated to Office Add-ins Content",
+            "description": "More information about Office content add-ins",
             "items": [
               {
                 "name": "Develop Office Add-ins",
@@ -58,9 +58,6 @@
             ]
           }
         ]
-      },
-      "fr": {
-        "displayTitle": "Microsoft Office content add-ins"
       }
     }
   }
