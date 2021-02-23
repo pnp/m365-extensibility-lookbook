@@ -43,7 +43,7 @@
           },
           {
             "name": "Documentation",
-            "description": "Here are the key resources around getting started on building Microsoft Office Add-ins custom dalog boxes",
+            "description": "Get started building Microsoft Office Add-ins dialog boxes",
             "items": [
               {
                 "name": "Dialog boxes in Office Add-ins",
@@ -69,7 +69,7 @@
           },
           {
             "name": "References",
-            "description": "Useful resources associated to Office Add-in Dialog Boxes",
+            "description": "More information about Office Add-in dialog boxes",
             "items": [
               {
                 "name": "Use the Office dialog box to show a video",
@@ -78,9 +78,6 @@
             ]
           }
         ]
-      },
-      "fr": {
-        "displayTitle": "Microsoft Office Add-ins dialog boxes"
       }
     }
   }
