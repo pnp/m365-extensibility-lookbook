@@ -38,7 +38,7 @@
           },
           {
             "name": "Documentation",
-            "description": "Here are the key resources around getting started on building Contextual Office Add-ins",
+            "description": "Get started building contextual Office add-ins",
             "items": [
               {
                 "name": "Contextual Outlook add-ins",
@@ -49,7 +49,7 @@
           },
           {
             "name": "References",
-            "description": "Useful resources associated to Contextual Office Add-ins",
+            "description": "More information about contextual Office add-ins",
             "items": [
               {
                 "name": "Develop Office Add-ins",
@@ -62,9 +62,6 @@
             ]
           }
         ]
-      },
-      "fr": {
-        "displayTitle": "Microsoft Teams tab"
       }
     }
   }
