@@ -41,7 +41,7 @@
         "detailItemCategories": [
           {
             "name": "Scenarios",
-            "description": "",
+            "description": "What could you use messaging extensions for?",
             "items": [
               {
                 "name": "Perform an action in external systems",
@@ -62,11 +62,11 @@
           },
           {
             "name": "Samples",
-            "description": "",
+            "description": "Sample messaging extensions for Microsoft Teams",
             "items": [
               {
                 "name": "Crowd Sourcer",
-                "description": "CrowdSourcer is a Microsoft Teams bot that gives teams queried information sourced collaboratively from group members. It's a great way to answer frequently asked questions while enabling participants to actively engage in and contribute to a fun and helpful information resource.",
+                "description": "Crowd Sourcer is a Microsoft Teams bot that gives teams queried information sourced collaboratively from group members. It's a great way to answer frequently asked questions while enabling participants to actively engage in and contribute to a fun and helpful information resource.",
                 "url": "https://docs.microsoft.com/microsoftteams/platform/samples/app-templates?WT.mc_id=m365-12775-cxa#crowdsourcer"
               },
               {
@@ -78,7 +78,7 @@
           },
           {
             "name": "Documentation",
-            "description": "",
+            "description": "Learn how to build messaging extensions for Microsoft Teams",
             "items": [
               {
                 "name": "Documentation: What are messaging extensions?",
