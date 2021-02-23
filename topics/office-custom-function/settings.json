@@ -27,7 +27,7 @@
         "detailItemCategories": [
           {
             "name": "Samples",
-            "description": "Custom Add-in Function Samples",
+            "description": "Custom Office function Samples",
             "items": [
               {
                 "name": "Custom functions in Excel",
@@ -43,7 +43,7 @@
           },
           {
             "name": "Documentation",
-            "description": "Here are the key resources around getting started on building Microsoft Office custom functions",
+            "description": "Get started building Microsoft Office custom functions",
             "items": [
               {
                 "name": "Get started developing Excel custom functions",
@@ -61,16 +61,8 @@
                 "url": "https://docs.microsoft.com/office/dev/add-ins/excel/custom-functions-troubleshooting?WT.mc_id=m365-12775-cxa"
               }              
             ]
-          },
-          {
-            "name": "References",
-            "description": "Useful resources associated to Office Add-ins Custom Functions",
-            "items": []
           }
         ]
-      },
-      "fr": {
-        "displayTitle": "Microsoft Office custom functions"
       }
     }
   }
