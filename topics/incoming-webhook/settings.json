@@ -27,7 +27,7 @@
         "detailItemCategories": [
           {
             "name": "Scenarios",
-            "description": "",
+            "description": "What could you use incoming webhooks in Microsoft Teams for?",
             "items": [
               {
                 "name": "Send DevOps alerts",
@@ -38,7 +38,7 @@
           },
           {
             "name": "Documentation",
-            "description": "Here are the key resources around getting started with using Microsoft Teams incoming webhooks",
+            "description": "Get started using Microsoft Teams incoming webhooks",
             "items": [
               {
                 "name": "What are webhooks and connectors?",
