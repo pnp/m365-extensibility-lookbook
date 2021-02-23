@@ -27,7 +27,7 @@
         "detailItemCategories": [
           {
             "name": "Samples",
-            "description": "",
+            "description": "Sample outgoing webhooks for Microsoft Teams",
             "items": [
               {
                 "name": "Microsoft Teams outgoing webhook sample (Node.js)",
@@ -43,7 +43,7 @@
           },
           {
             "name": "Documentation",
-            "description": "Here are the key resources around getting started on building outgoing webhooks in Microsoft Teams",
+            "description": "Get started building outgoing webhooks in Microsoft Teams",
             "items": [
               {
                 "name": "Add custom bots to Microsoft Teams with outgoing webhooks",
