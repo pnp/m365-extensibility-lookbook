@@ -10,7 +10,7 @@
     "displayInfo": {
       "default": {
         "displayTitle": "Build analytics apps",
-        "shortDescription": "",
+        "shortDescription": "Integrate Microsoft 365 usage reporting into your organization's existing reporting solution",
         "cardPictureUrl": "/assets/promo-analytics.png", 
         "cardPictureAlt": "", 
         "descriptionParagraphs": [
@@ -30,10 +30,51 @@
             "description": "Possible html supported text shown just above the list of links",
             "items": [
               {
-                "name": "TBD",
-                "description": "Particularly if you provide an interactive card for users to take additional information.",
-                "url": "https://docs.microsoft.com/microsoftteams/platform/bots/what-are-bots?WT.mc_id=m365-12775-cxa"
+                "name": "Integrate Microsoft 365 usage reporting into your organization's existing reporting solution",
+                "description": "Use the reports API to incorporate Microsoft 365 usage data into your organization's existing reporting solution so that all IT service reports are in a unified location.",
+                "url": "https://docs.microsoft.com/graph/reportroot-concept-overview?WT.mc_id=m365-12775-cxa#integrate-microsoft-365-usage-reporting-into-your-organizations-existing-reporting-solution"
+              },
+              {
+                "name": "Retain usage reports for historical analysis",
+                "description": "Use the reports API to get the data that's available in all usage reports, including organization-level summaries per service, entity-level (user, sites, accounts) usage information for the last 7/30/90/180 days, and daily activity aggregates.",
+                "url": "https://docs.microsoft.com/graph/reportroot-concept-overview?WT.mc_id=m365-12775-cxa#retain-usage-reports-for-historical-analysis"
+              },
+              {
+                "name": "Analyze AD FS application activity and configuration",
+                "description": "Get information about a relying party configured with Active Directory Federation Services (AD FS), its aggregated usage, and whether the relying party configuration can be migrated to Azure Active Directory.",
+                "url": "https://docs.microsoft.com/graph/reportroot-concept-overview?WT.mc_id=m365-12775-cxa#analize-ad-fs-application-activity-and-configuration"
+              },
+              {
+                "name": "Monitor application sign-ins",
+                "description": "Monitor the usage of your applications and make decisions about usage patterns.",
+                "url": "https://docs.microsoft.com/graph/reportroot-concept-overview?WT.mc_id=m365-12775-cxa#monitor-application-sign-ins"
+              },
+              {
+                "name": "Determine who is using your applications and how are they using them",
+                "description": "Understand how users in your organization use Azure Active Directory (Azure AD) capabilities, such as self-service password rest and multi-factor authentication (MFA).",
+                "url": "https://docs.microsoft.com/graph/reportroot-concept-overview?WT.mc_id=m365-12775-cxa#determine-who-is-using-your-applications-and-how-are-they-using-them"
+              },
+              {
+                "name": "Monitor activity on an Azure AD tenant",
+                "description": "Gain a better understanding of how your users access and use Azure AD services. You can analyze the data to create custom solutions tailored to your organization's specific needs.",
+                "url": "https://docs.microsoft.com/graph/reportroot-concept-overview?WT.mc_id=m365-12775-cxa#monitor-activity-on-an-azure-ad-tenant"
               }
+            ]
+          },
+          {
+            "name": "Documentation",
+            "description": "Key resources to get started building analytics apps",
+            "items": [
+              {
+                "name": "What data can I access by using the reports APIs?",
+                "description": "Learn about the types of reports that you can retrieve for Microsoft 365",
+                "url": "https://docs.microsoft.com/graph/reportroot-concept-overview?WT.mc_id=m365-12775-cxa#what-data-can-i-access-by-using-the-reports-apis"
+              },
+              {
+                "name": "Working with Microsoft 365 usage reports in Microsoft Graph",
+                "description": "API reference for reports API in Microsoft 365",
+                "url": "https://docs.microsoft.com/graph/api/resources/report?view=graph-rest-1.0?WT.mc_id=m365-12775-cxa"
+              }            
             ]
           }
         ]
