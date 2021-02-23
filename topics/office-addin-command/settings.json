@@ -39,7 +39,7 @@
         "detailItemCategories": [
           {
             "name": "Samples",
-            "description": "Office Addin Samples",
+            "description": "Office Add-in Samples",
             "items": [
               {
                 "name": "Office Add-in Commands Samples",
@@ -60,7 +60,7 @@
           },
           {
             "name": "Documentation",
-            "description": "Here are the key resources around getting started on building Microsoft Office Add-in commands",
+            "description": "Get started building Microsoft Office Add-in commands",
             "items": [
               {
                 "name": "Add-in commands for Excel, PowerPoint, and Word",
@@ -81,7 +81,7 @@
           },
           {
             "name": "References",
-            "description": "Useful resources associated to Office Add-ins Commands",
+            "description": "More information about Office Add-in commands",
             "items": [
               {
                 "name": "Basic concepts for Add-in Commands",
@@ -94,9 +94,6 @@
             ]
           }
         ]
-      },
-      "fr": {
-        "displayTitle": "Microsoft Office add-in commands"
       }
     }
   }
