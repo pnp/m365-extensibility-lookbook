@@ -14,7 +14,7 @@
         "cardPictureUrl": "/assets/card-daemon.png", 
         "cardPictureAlt": "", 
         "descriptionParagraphs": [
-          ""
+          "Build scheduled processes and background services connected to Microsoft 365"
         ],
         "mediaAssets": [
           {
@@ -27,13 +27,24 @@
         "detailItemCategories": [
           {
             "name": "Scenarios",
-            "description": "Possible html supported text shown just above the list of links",
+            "description": "What could you use daemon apps for?",
             "items": [
               {
-                "name": "TBD",
-                "description": "Particularly if you provide an interactive card for users to take additional information.",
-                "url": "https://docs.microsoft.com/microsoftteams/platform/bots/what-are-bots?WT.mc_id=m365-12775-cxa"
+                "name": "Archive service",
+                "description": "Archive old content every night",
+                "url": ""
               }
+            ]
+          },
+          {
+            "name": "Documentation",
+            "description": "Get started building deamon apps",
+            "items": [
+              {
+                "name": "Get access without a user",
+                "description": "Learn how to authenticate a scheduled process to connect to Microsoft 365",
+                "url": "https://docs.microsoft.com/graph/auth-v2-service?WT.mc_id=m365-12775-cxa"
+              }            
             ]
           }
         ]

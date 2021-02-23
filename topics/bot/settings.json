@@ -106,7 +106,7 @@
           },
           {
             "name": "Documentation",
-            "description": "Key resources around getting started with building Microsoft Teams bots",
+            "description": "Get started building Microsoft Teams bots",
             "items": [
               {
                 "name": "Build a bot for Microsoft Teams",
