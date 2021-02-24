@@ -11,7 +11,7 @@
       "default": {
         "displayTitle": "Power Automate desktop flows",
         "shortDescription": "Record clicks and keyboard strokes from your Desktop and Web applications and automate the playback of manual steps on legacy software.",
-        "cardPictureUrl": "/assets/card-tab.png", 
+        "cardPictureUrl": "/assets/card-flow.png", 
         "cardPictureAlt": "Power Automate desktop flows", 
         "descriptionParagraphs": [
           "Record clicks and keyboard strokes from your Desktop and Web applications and automate the playback of manual steps on legacy software."
@@ -20,7 +20,7 @@
           {
             "type": "image",
             "order": 100,
-            "url": "/assets/promo-tab.png",
+            "url": "/assets/promo-flow.png",
             "alt": "Power Automated desktop flow"
           },
           {
@@ -39,7 +39,7 @@
         "detailItemCategories": [
           {
             "name": "Documentation",
-            "description": "Here are the key resources around getting started on building desktop flows",
+            "description": "Get started building desktop flows",
             "items": [
               {
                 "name": "Introduction to desktop flows",
@@ -53,7 +53,7 @@
               },
               {
                 "name": "Create a Power Automate Desktop flow",
-                "description": "Desktop flows are used to automate tasks on the Web or the desktop. Using Power Automate Desktop you can automate tasks on the desktop as well as the Web. ",
+                "description": "Desktop flows are used to automate tasks on the Web or the desktop. Using Power Automate Desktop you can automate tasks on the desktop as well as the Web.",
                 "url": "https://docs.microsoft.com/power-automate/desktop-flows/create-flow?WT.mc_id=m365-12775-cxa"
               },
               {
@@ -65,7 +65,7 @@
           },
           {
             "name": "References",
-            "description": "Possible html supported text shown just above the list of links",
+            "description": "More information about desktop flows",
             "items": [
               {
                 "name": "Desktop action references",
@@ -74,9 +74,6 @@
             ]
           }
         ]
-      },
-      "fr": {
-        "displayTitle": "Microsoft Teams tab"
       }
     }
   }
