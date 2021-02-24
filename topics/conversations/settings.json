@@ -62,7 +62,7 @@
               {
                 "name": "Task modules",
                 "description": "Collect input with Microsoft Teams",
-                "url": "../../extensibility-task-module/?view=product"
+                "url": "ref://../product-view/microsoft-teams/extensibility-task-module"
               },
               {
                 "name": "Microsoft Teams outgoing webhooks",
