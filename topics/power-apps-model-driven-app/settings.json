@@ -51,7 +51,7 @@
         "detailItemCategories": [
           {
             "name": "Samples",
-            "description": "Here are the samples to get you started with building Power Apps model-driven applications",
+            "description": "Sample Power Apps model-driven applications",
             "items": [
               {
                 "name": "Sample Workflow operations",
@@ -72,7 +72,7 @@
           },
           {
             "name": "Documentation",
-            "description": "Here are the key resources around getting started on building Power Apps model-driven applications",
+            "description": "Get started building Power Apps model-driven applications",
             "items": [
               {
                 "name": "What are model-driven apps?",
@@ -95,28 +95,8 @@
                 "url": "https://docs.microsoft.com/powerapps/maker/model-driven-apps/build-first-model-driven-app?WT.mc_id=m365-12775-cxa"
               }              
             ]
-          },
-          {
-            "name": "References",
-            "description": "Possible html supported text shown just above the list of links",
-            "items": [
-              {
-                "name": "Here are some additional references"
-              },
-              {
-                "name": "Rendered as a link if URL exists",
-                "url": "http://aka.ms/m365pnp"
-              },
-              {
-                "name": "Second additional link",
-                "url": "http://aka.ms/m365pnp"
-              }
-            ]
           }
         ]
-      },
-      "fr": {
-        "displayTitle": "Power Apps model-driven apps"
       }
     }
   }
