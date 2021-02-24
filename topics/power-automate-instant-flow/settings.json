@@ -11,7 +11,7 @@
       "default": {
         "displayTitle": "Power Automate instant flows",
         "shortDescription": "Start an automation with a click of a button.",
-        "cardPictureUrl": "/assets/card-tab.png", 
+        "cardPictureUrl": "/assets/card-flow.png", 
         "cardPictureAlt": "Power Automate instant flows", 
         "descriptionParagraphs": [
           "Start an automation with a click of a button. You can automate for repetitive tasks from your Desktop or Mobile devices. For example, instantly send a reminder to the team with a push of a button from your mobile device."
@@ -20,7 +20,7 @@
           {
             "type": "image",
             "order": 100,
-            "url": "/assets/promo-tab.png",
+            "url": "/assets/promo-flow.png",
             "alt": "Power Automate instant flow"
           },
           {
@@ -33,7 +33,7 @@
         "detailItemCategories": [
           {
             "name": "Documentation",
-            "description": "Here are the key resources around getting started on building instant flows",
+            "description": "Get started building instant flows",
             "items": [
               {
                 "name": "Create a button flow",
@@ -42,7 +42,7 @@
               },
               {
                 "name": "Create a flow from your phone",
-                "description": "Create a cloud flow from your phone by using a Power Automate template. ",
+                "description": "Create a cloud flow from your phone by using a Power Automate template.",
                 "url": "https://docs.microsoft.com/power-automate/mobile-create-flow?WT.mc_id=m365-12775-cxa"
               },
               {
@@ -63,9 +63,6 @@
             ]
           }
         ]
-      },
-      "fr": {
-        "displayTitle": "Power Automate instant flows"
       }
     }
   }
