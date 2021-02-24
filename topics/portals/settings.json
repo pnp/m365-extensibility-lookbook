@@ -62,32 +62,32 @@
               {
                 "name": "Web Parts",
                 "description": "Building blocks for SharePoint experiences",
-                "url": "../../extensibility-web-parts/?view=product"
+                "url": "ref://../product-view/sharepoint/extensibility-web-parts"
               },
               {
                 "name": "SharePoint Framework Search Query Extension",
                 "description": "Adding extensibility to modern portals",
-                "url": "../../extensibility-spfx-search-query-extension/?view=product"
+                "url": "ref://../product-view/sharepoint/extensibility-spfx-search-query-extension"
               },
               {
                 "name": "SharePoint Framework List View Command Set",
                 "description": "Adding extensibility to modern portals",
-                "url": "../../extensibility-spfx-list-view-command-set/?view=product"
+                "url": "ref://../product-view/sharepoint/extensibility-spfx-list-view-command-set"
               },
               {
                 "name": "SharePoint Framework Field Customizers",
                 "description": "Adding extensibility to modern portals",
-                "url": "../../extensibility-spfx-field-customizer/?view=product"
+                "url": "ref://../product-view/sharepoint/extensibility-spfx-field-customizer"
               },
               {
                 "name": "SharePoint Framework Application Customizers",
                 "description": "Adds scripts to the page, and accesses well-known HTML element placeholders and extends them with custom renderings.",
-                "url": "../../extensibility-spfx-application-customizer/?view=product"
+                "url": "ref://../product-view/sharepoint/extensibility-spfx-application-customizer"
               },
               {
                 "name": "Profile card properties",
                 "description": "Add additional properties to the profile card",
-                "url": "../../extensibility-profile-card-properties/?view=product"
+                "url": "ref://../product-view/sharepoint/extensibility-profile-card-properties"
               }
             ]
           }
