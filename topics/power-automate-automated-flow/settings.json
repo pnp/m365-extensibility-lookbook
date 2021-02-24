@@ -11,7 +11,7 @@
       "default": {
         "displayTitle": "Power Automate automated flows",
         "shortDescription": "Create an automation that is triggered by an event such as arrival of an email from a specific person, or a mention of your company in social media.",
-        "cardPictureUrl": "/assets/card-tab.png", 
+        "cardPictureUrl": "/assets/card-flow.png", 
         "cardPictureAlt": "Power Automate automated flows", 
         "descriptionParagraphs": [
           "Create an automation that is triggered by an event such as arrival of an email from a specific person, or a mention of your company in social media."
@@ -20,41 +20,14 @@
           {
             "type": "image",
             "order": 100,
-            "url": "/assets/promo-tab.png",
-            "alt": "Alt text for the image"
-          },
-          {
-            "type": "video",
-            "order": 101,
-            "url": "https://youtube.com/embed/3120470",
-            "alt": "Alt text for the video"
+            "url": "/assets/promo-flow.png",
+            "alt": "Sample automated flow"
           }
         ],
         "detailItemCategories": [
           {
-            "name": "Samples",
-            "description": "Possible html supported text shown just above the list of links",
-            "items": [
-              {
-                "name": "Teams Provisioning Using Power Apps and Power Automate",
-                "description": "Are you getting a lot of requests to create new Microsoft Teams as more people work from home ? Want to learn how to create an app to accept requests, create approval using Power Automate to finally create a new team using Graph API HTTP requests?",
-                "url": "https://powerusers.microsoft.com/t5/Community-App-Samples/Teams-Provisioning-Using-Power-Apps-and-Power-Automate/td-p/509442?WT.mc_id=m365-12775-cxa"
-              },
-              {
-                "name": "Chat Bot with Power Apps, Power Automate, and LUIS",
-                "description": "Potential description for the sample reference",
-                "url": "Chatbots are becoming widely implemented by corporations as they are one of the most advanced expressions of interaction between humans and machines, there are tons of options for creating chatbots similar to Power Virtual Agents. in this post we demonstrate a low cost method of developing a chatbot with PowerApps, Power Automate, LUIS, and SharePoint. SharePoint is for data saving purpose only you can use Dataverse, Azure SQL etc."
-              },
-              {
-                "name": "25 Days of Flows: The Power Automate Advent Calendar",
-                "description": "The app behind the 25 days of flows series. It works for cataloging and finding the downloadable flows.",
-                "url": "https://powerusers.microsoft.com/t5/Community-App-Samples/25-Days-of-Flows-The-App-behind-the-series/m-p/433575?WT.mc_id=m365-12775-cxa"
-              }
-            ]
-          },
-          {
             "name": "Documentation",
-            "description": "Here are the key resources around getting started on building automated flows in Power Automate",
+            "description": "Get started building automated flows in Power Automate",
             "items": [
               {
                 "name": "Create a cloud flow from a template in Power Automate",
@@ -79,9 +52,6 @@
             ]
           }
         ]
-      },
-      "fr": {
-        "displayTitle": "Power Automate automated flows"
       }
     }
   }
