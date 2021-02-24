@@ -69,7 +69,7 @@
           },
           {
             "name": "Documentation",
-            "description": "Here are the key resources around getting started on building Microsoft SPFx Web Parts",
+            "description": "Get started building SharePoint Framework Web Parts",
             "items": [
               {
                 "name": "Overview of SharePoint client-side web parts",
@@ -95,7 +95,7 @@
           },
           {
             "name": "References",
-            "description": "Useful resources associated to SharePoint Framework Web Parts",
+            "description": "More information about SharePoint Framework Web Parts",
             "items": [
               {
                 "name": "Tenant-wide Deployment of SharePoint Framework Extensions",
@@ -116,9 +116,6 @@
             ]
           }
         ]
-      },
-      "fr": {
-        "displayTitle": "SharePoint Framework Web Parts"
       }
     }
   }
