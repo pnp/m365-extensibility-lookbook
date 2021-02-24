@@ -40,7 +40,7 @@
         "detailItemCategories": [
           {
             "name": "Samples",
-            "description": "",
+            "description": "Sample Microsoft Teams task modules",
             "items": [
               {
                 "name": "Request-a-team",
@@ -61,7 +61,7 @@
           },
           {
             "name": "Documentation",
-            "description": "Here are the key resources around getting started on building Microsoft Teams task modules",
+            "description": "Get started building Microsoft Teams task modules",
             "items": [
               {
                 "name": "Documentation: What are task modules?",
