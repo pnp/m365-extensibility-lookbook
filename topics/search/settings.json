@@ -11,8 +11,8 @@
       "default": {
         "displayTitle": "Extend search",
         "shortDescription": "When you use the Microsoft Search API, your customers benefit from more personalized, relevant search results powered by Microsoft Graph. The search experience in your apps will return results that are consistent with search in Office applications.",
-        "cardPictureUrl": "/assets/promo-bot.png", 
-        "cardPictureAlt": "Bot", 
+        "cardPictureUrl": "/assets/promo-search.png", 
+        "cardPictureAlt": "", 
         "descriptionParagraphs": [
           "Microsoft Search is an enterprise search engine that delivers productivity gains and relevant search results for your organization. It harnesses the collective knowledge and productivity of an organization, and surfaces relevant content to keep end users up to date. Microsoft Search is available in various experiences including Office, SharePoint, Delve, Windows, and Bing. You can use the Microsoft Search API in Microsoft Graph to extend Microsoft Search to your apps."
         ],
@@ -20,8 +20,8 @@
           {
             "type": "image",
             "order": 100,
-            "url": "/assets/promo-bot.png",
-            "alt": "Conceptual representation of what bots look like in the Teams client."
+            "url": "/assets/promo-search.png",
+            "alt": ""
           }
         ],
         "detailItemCategories": [
@@ -76,7 +76,7 @@
           },
           {
             "name": "Documentation",
-            "description": "Here are the key resources around getting started extending Microsoft Search",
+            "description": "Get started extending Microsoft Search",
             "items": [
               {
                 "name": "Overview of the Microsoft Search API in Microsoft Graph",
