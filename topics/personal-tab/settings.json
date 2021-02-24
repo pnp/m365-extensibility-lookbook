@@ -61,7 +61,7 @@
         "detailItemCategories": [
           {
             "name": "Scenarios",
-            "description": "",
+            "description": "What can you use Microsoft Teams personal tabs for?",
             "items": [
               {
                 "name": "Bring an existing web-based resource inside Teams.",
@@ -82,7 +82,7 @@
           },
           {
             "name": "Samples",
-            "description": "",
+            "description": "Sample Microsoft Teams personal tabs",
             "items": [
               {
                 "name": "Attendance",
@@ -103,7 +103,7 @@
           },
           {
             "name": "Documentation",
-            "description": "Here are the key resources around getting started on building Microsoft Teams tabs",
+            "description": "Get started building Microsoft Teams tabs",
             "items": [
               {
                 "name": "What are Microsoft Teams custom tabs?",
