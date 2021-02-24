@@ -58,7 +58,7 @@
           },
           {
             "name": "Documentation",
-            "description": "Here are the key resources around getting started on building Microsoft SPFx Search Query Extensions",
+            "description": "Get started building SharePoint Framework Search Query Extensions",
             "items": [
               {
                 "name": "Modifying Microsoft Search experience using SharePoint Framework extensions",
@@ -66,16 +66,8 @@
                 "url": "https://docs.microsoft.com/sharepoint/dev/spfx/building-search-extensions?WT.mc_id=m365-12775-cxa"
               }              
             ]
-          },
-          {
-            "name": "References",
-            "description": "Useful resources associated to SharePoint Framework Search Query Extensions",
-            "items": []
           }
         ]
-      },
-      "fr": {
-        "displayTitle": "SharePoint Framework Search Query Extension"
       }
     }
   }
