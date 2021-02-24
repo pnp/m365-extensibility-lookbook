@@ -67,32 +67,32 @@
               {
                 "name": "Microsoft Teams outgoing webhooks",
                 "description": "Connect your web services to channels and teams inside Microsoft Teams",
-                "url": "../../extensibility-outgoing-webhook/?view=product"
+                "url": "ref://../product-view/microsoft-teams/extensibility-outgoing-webhook"
               },
               {
                 "name": "Microsoft Teams Office 365 Connectors",
                 "description": "Connect your web services to channels and teams inside Microsoft Teams",
-                "url": "../../extensibility-office-365-connector/?view=product"
+                "url": "ref://../product-view/microsoft-teams/extensibility-office-365-connector"
               },
               {
                 "name": "Messaging extensions",
                 "description": "Task-oriented interactions in Microsoft Teams",
-                "url": "../../extensibility-messaging-extension/?view=product"
+                "url": "ref://../product-view/microsoft-teams/extensibility-messaging-extension"
               },
               {
                 "name": "Microsoft Teams incoming webhooks",
                 "description": "Connect your web services to channels and teams inside Microsoft Teams",
-                "url": "../../extensibility-incoming-webhook/?view=product"
+                "url": "ref://../product-view/microsoft-teams/extensibility-incoming-webhook"
               },
               {
                 "name": "Microsoft Teams channel and group tabs",
                 "description": "Create embedded web experiences for a team channel or chat",
-                "url": "../../extensibility-canvas-channel-group-tab/?view=product"
+                "url": "ref://../product-view/microsoft-teams/extensibility-canvas-channel-group-tab"
               },
               {
                 "name": "Microsoft Teams bots",
                 "description": "Create interactive conversational bots",
-                "url": "../../extensibility-bot/?view=product"
+                "url": "ref://../product-view/microsoft-teams/extensibility-bot"
               }
             ]
           }
