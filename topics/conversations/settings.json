@@ -12,7 +12,7 @@
         "displayTitle": "Extend conversations",
         "shortDescription": "Embed your application in conversations",
         "cardPictureUrl": "/assets/card-bot.png", 
-        "cardPictureAlt": "Bot", 
+        "cardPictureAlt": "Conversations", 
         "descriptionParagraphs": [
           "By embedding your app in conversations, you can bring your app to where your app where your users are and have them interact with your app without leaving their context."
         ],
