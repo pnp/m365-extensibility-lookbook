@@ -45,7 +45,7 @@
         "detailItemCategories": [
           {
             "name": "Samples",
-            "description": "Possible html supported text shown just above the list of links",
+            "description": "Sample Power Apps canvas apps",
             "items": [
               {
                 "name": "Power Apps Gallery Look Book",
@@ -71,7 +71,7 @@
           },
           {
             "name": "Documentation",
-            "description": "Here are the key resources around getting started on building Microsoft Power Apps canvas applications",
+            "description": "Get started building Microsoft Power Apps canvas applications",
             "items": [
               {
                 "name": "What is Power Apps",
@@ -92,7 +92,7 @@
           },
           {
             "name": "References",
-            "description": "Possible html supported text shown just above the list of links",
+            "description": "More information about Power Apps canvas apps",
             "items": [
               {
                 "name": "Formula reference for Power Apps",
@@ -109,9 +109,6 @@
             ]
           }
         ]
-      },
-      "fr": {
-        "displayTitle": "Power Apps canvas apps"
       }
     }
   }
