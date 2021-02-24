@@ -24,7 +24,7 @@
             "type": "image",
             "order": 100,
             "url": "/assets/promo-spfx-extension.png",
-            "alt": "Alt text for the image"
+            "alt": "SharePoint Framework List View Command Set"
           },
           {
             "type": "video",
@@ -64,7 +64,7 @@
           },
           {
             "name": "Documentation",
-            "description": "Here are the key resources around getting started on building Microsoft SPFx ListView Command Set Extensions",
+            "description": "Get started building SharePoint Framework List View Command Sets",
             "items": [
               {
                 "name": "Build your first ListView Command Set extension",
@@ -80,7 +80,7 @@
           },
           {
             "name": "References",
-            "description": "Useful resources associated to SharePoint Framework List View Command Sets",
+            "description": "More information about SharePoint Framework List View Command Sets",
             "items": [
               {
                 "name": "Tenant-wide Deployment of SharePoint Framework Extensions",
@@ -101,9 +101,6 @@
             ]
           }
         ]
-      },
-      "fr": {
-        "displayTitle": "SharePoint Framework List View Command Sets"
       }
     }
   }
