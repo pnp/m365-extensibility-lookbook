@@ -11,7 +11,7 @@
       "default": {
         "displayTitle": "Power Automate business process flows",
         "shortDescription": "You can help ensure that people enter data consistently and follow the same steps every time they work with a customer by creating a business process flow.",
-        "cardPictureUrl": "/assets/card-tab.png", 
+        "cardPictureUrl": "/assets/card-flow.png", 
         "cardPictureAlt": "Power Automate business process flows", 
         "descriptionParagraphs": [
           "Ensure that everyone in your company follows the same process by defining a set of steps for people to follow."
@@ -20,8 +20,8 @@
           {
             "type": "image",
             "order": 100,
-            "url": "/assets/promo-tab.png",
-            "alt": "Alt text for the image"
+            "url": "/assets/promo-flow.png",
+            "alt": "Sample Power Automate business process flow"
           },
           {
             "type": "video",
@@ -40,7 +40,7 @@
          
           {
             "name": "Documentation",
-            "description": "Here are the key resources around getting started on building business process flows",
+            "description": "Get started building business process flows",
             "items": [
               {
                 "name": "Business process flows overview",
@@ -66,7 +66,7 @@
           },
           {
             "name": "References",
-            "description": "Possible html supported text shown just above the list of links",
+            "description": "More information about building business process flow",
             "items": [
               {
                 "name": "Best practices in using business process flow attributes",
@@ -75,9 +75,6 @@
             ]
           }
         ]
-      },
-      "fr": {
-        "displayTitle": "Power Automate business process flows"
       }
     }
   }
