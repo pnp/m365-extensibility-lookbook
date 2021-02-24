@@ -64,7 +64,7 @@
           },
           {
             "name": "Documentation",
-            "description": "Here are the key resources around getting started on building Microsoft SPFx Field Customizer Extensions",
+            "description": "Get started building SharePoint Framework Field Customizers",
             "items": [
               {
                 "name": "Build your first Field Customizer extension",
@@ -80,7 +80,7 @@
           },
           {
             "name": "References",
-            "description": "Useful resources associated to SharePoint Framework Field Customizers",
+            "description": "More information about SharePoint Framework Field Customizers",
             "items": [
               {
                 "name": "Tenant-wide Deployment of SharePoint Framework Extensions",
@@ -97,9 +97,6 @@
             ]
           }
         ]
-      },
-      "fr": {
-        "displayTitle": "SharePoint Framework Field Customizers"
       }
     }
   }
