@@ -44,29 +44,8 @@
         ],
         "detailItemCategories": [
           {
-            "name": "Samples",
-            "description": "Possible html supported text shown just above the list of links",
-            "items": [
-              {
-                "name": "What is Power Apps portals?",
-                "description": "Power Apps makers can now create a powerful new type of experience: external-facing websites that allow users outside their organizations to sign in with a wide variety of identities, create and view data in Microsoft Dataverse, or even browse content anonymously.",
-                "url": "https://docs.microsoft.com/powerapps/maker/portals/overview?WT.mc_id=m365-12775-cxa"
-              },
-              {
-                "name": "Sample name 2 with link to GitHub or to Sample gallery when it's available",
-                "description": "Potential description for the sample reference",
-                "url": "https://support.office.com/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
-              },
-              {
-                "name": "Sample name 3 with link to GitHub or to Sample gallery when it's available",
-                "description": "Potential description for the sample reference",
-                "url": "https://support.office.com/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
-              }
-            ]
-          },
-          {
             "name": "Documentation",
-            "description": "Here are the key resources around getting started on building Microsoft Teams tabs",
+            "description": "Get started building Power Apps portals",
             "items": [
               {
                 "name": "What is Power Apps portals?",
@@ -89,28 +68,8 @@
                 "url": "https://docs.microsoft.com/learn/modules/explore-portals-studio/?WT.mc_id=m365-12775-cxa"
               }              
             ]
-          },
-          {
-            "name": "References",
-            "description": "Possible html supported text shown just above the list of links",
-            "items": [
-              {
-                "name": "Here are some additional references"
-              },
-              {
-                "name": "Rendered as a link if URL exists",
-                "url": "http://aka.ms/m365pnp"
-              },
-              {
-                "name": "Second additional link",
-                "url": "http://aka.ms/m365pnp"
-              }
-            ]
           }
         ]
-      },
-      "fr": {
-        "displayTitle": "Power Apps portals"
       }
     }
   }
