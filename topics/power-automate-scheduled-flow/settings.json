@@ -11,7 +11,7 @@
       "default": {
         "displayTitle": "Power Automate scheduled flows",
         "shortDescription": "Schedule an automation such as daily data upload to SharePoint or a database.",
-        "cardPictureUrl": "/assets/card-tab.png", 
+        "cardPictureUrl": "/assets/card-flow.png", 
         "cardPictureAlt": "Power Automate scheduled flows", 
         "descriptionParagraphs": [
           "Schedule an automation such as daily data upload to SharePoint or a database."
@@ -20,7 +20,7 @@
           {
             "type": "image",
             "order": 100,
-            "url": "/assets/promo-tab.png",
+            "url": "/assets/promo-flow.png",
             "alt": "Scheduled flows"
           },
           {
@@ -33,7 +33,7 @@
         "detailItemCategories": [
           {
             "name": "Documentation",
-            "description": "Here are the key resources around getting started on building scheduled flows",
+            "description": "Get started building scheduled flows",
             "items": [
               {
                 "name": "Run flows on a schedule",
@@ -49,7 +49,7 @@
           },
           {
             "name": "References",
-            "description": "Possible html supported text shown just above the list of links",
+            "description": "More information about scheduled flows",
             "items": [
               {
                 "name": "Create, schedule, and run recurring tasks and workflows with the Recurrence trigger in Azure Logic Apps",
@@ -58,9 +58,6 @@
             ]
           }
         ]
-      },
-      "fr": {
-        "displayTitle": "Microsoft Teams tab"
       }
     }
   }
