@@ -39,6 +39,7 @@
         "detailItemCategories": [
           {
             "name": "Samples",
+            "description": "Sample Power Virtual Agents",
             "items": [
               {
                 "name": "Sample HR bot",
@@ -49,7 +50,7 @@
           },
           {
             "name": "Documentation",
-            "description": "Here are the key resources around getting started on building Microsoft Power Virtual Agents",
+            "description": "Get started building Microsoft Power Virtual Agents",
             "items": [
               {
                 "name": "What is Power Virtual Agents",
@@ -91,9 +92,6 @@
             ]
           }
         ]
-      },
-      "fr": {
-        "displayTitle": "Power Virtual Agents"
       }
     }
   }
