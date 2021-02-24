@@ -39,7 +39,7 @@
         "detailItemCategories": [
           {
             "name": "Documentation",
-            "description": "Here are the key resources around getting started on building approval flows using Power Automate",
+            "description": "Get started building approval flows using Power Automate",
             "items": [
               {
                 "name": "Get started with approvals",
@@ -65,7 +65,7 @@
           },
           {
             "name": "References",
-            "description": "Possible html supported text shown just above the list of links",
+            "description": "More information about Power Automate approval flows",
             "items": [
               {
                 "name": "View and manage pending approval requests",
@@ -83,9 +83,6 @@
             ]
           }
         ]
-      },
-      "fr": {
-        "displayTitle": "Microsoft Teams tab"
       }
     }
   }
