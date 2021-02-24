@@ -69,7 +69,7 @@
           },
           {
             "name": "Documentation",
-            "description": "Here are the key resources around getting started on building Microsoft SPFx Application Customizers",
+            "description": "Get started building SharePoint Framework Application Customizers",
             "items": [
               {
                 "name": "Build your first SharePoint Framework Extension",
@@ -90,7 +90,7 @@
           },
           {
             "name": "References",
-            "description": "Useful resources associated to SharePoint Framework Application Customizer Extensions",
+            "description": "More information about SharePoint Framework Application Customizers",
             "items": [
               {
                 "name": "Pre-allocate space for SharePoint Framework extension placeholders",
@@ -115,9 +115,6 @@
             ]
           }
         ]
-      },
-      "fr": {
-        "displayTitle": "SharePoint Framework Application Customizer Extensions"
       }
     }
   }
