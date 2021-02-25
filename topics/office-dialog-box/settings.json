@@ -9,10 +9,10 @@
   "metadata": {
     "displayInfo": {
       "default": {
-        "displayTitle": "Microsoft Office Add-ins dialog boxes",
+        "displayTitle": "Office add-ins dialog boxes",
         "shortDescription": "Interact with users in Office client applications",
         "cardPictureUrl": "/assets/card-tab.png", 
-        "cardPictureAlt": "Microsoft Office Add-ins dialog boxes", 
+        "cardPictureAlt": "Office add-ins dialog boxes", 
         "descriptionParagraphs": [
           "Dialog boxes are surfaces that float above the active Excel application window. You can use dialog boxes for tasks such as displaying sign-in pages that can't be opened directly in a task pane, requesting that the user confirm an action, or hosting videos that might be too small if confined to a task pane."
         ],
@@ -21,7 +21,7 @@
             "type": "image",
             "order": 100,
             "url": "/assets/promo-tab.png",
-            "alt": "Microsoft Office Add-ins dialog boxes"
+            "alt": "Office add-ins dialog boxes"
           }
         ],
         "detailItemCategories": [
@@ -43,7 +43,7 @@
           },
           {
             "name": "Documentation",
-            "description": "Get started building Microsoft Office Add-ins dialog boxes",
+            "description": "Get started building Microsoft Office add-ins dialog boxes",
             "items": [
               {
                 "name": "Dialog boxes in Office Add-ins",
@@ -69,7 +69,7 @@
           },
           {
             "name": "References",
-            "description": "More information about Office Add-in dialog boxes",
+            "description": "More information about Office add-in dialog boxes",
             "items": [
               {
                 "name": "Use the Office dialog box to show a video",

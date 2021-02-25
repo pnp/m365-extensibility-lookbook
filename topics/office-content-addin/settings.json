@@ -9,7 +9,7 @@
   "metadata": {
     "displayInfo": {
       "default": {
-        "displayTitle": "Microsoft Office content add-ins",
+        "displayTitle": "Office content add-ins",
         "shortDescription": "Embed your application in Office documents",
         "cardPictureUrl": "/assets/card-tab.png", 
         "cardPictureAlt": "Microsoft Office content add-ins", 
@@ -27,7 +27,7 @@
         "detailItemCategories": [
           {
             "name": "Samples",
-            "description": "Content Add-in Samples",
+            "description": "Content add-in samples",
             "items": [
               {
                 "name": "Excel Content Add-in Humongous Insurance",
@@ -38,7 +38,7 @@
           },
           {
             "name": "Documentation",
-            "description": "Get started building Microsoft Office content add-ins",
+            "description": "Get started building Office content add-ins",
             "items": [
               {
                 "name": "Content Office Add-ins",

@@ -10,10 +10,10 @@
   "metadata": {
     "displayInfo": {
       "default": {
-        "displayTitle": "Microsoft Office Add-ins task panes",
+        "displayTitle": "Office add-ins task panes",
         "shortDescription": "Create embedded web experiences for Office client applications",
         "cardPictureUrl": "/assets/card-tab.png", 
-        "cardPictureAlt": "Microsoft Office Add-ins task panes", 
+        "cardPictureAlt": "Office add-ins task panes", 
         "descriptionParagraphs": [
           "Task panes are interface surfaces that typically appear on the right side of the window within Word, PowerPoint, Excel, and Outlook. Task panes give users access to interface controls that run code to modify documents or emails, or display data from a data source. Use task panes when you don't need to embed functionality directly into the document."
         ],
@@ -22,13 +22,13 @@
             "type": "image",
             "order": 100,
             "url": "/assets/promo-tab.png",
-            "alt": "Microsoft Office Add-ins task panes"
+            "alt": "Office Add-ins task panes"
           }
         ],
         "detailItemCategories": [
           {
             "name": "Samples",
-            "description": "Add-in Task Pane Samples",
+            "description": "Add-in task pane samples",
             "items": [
               {
                 "name": "Office Add-in TaskPane",
@@ -49,7 +49,7 @@
           },
           {
             "name": "Documentation",
-            "description": "Get started building Microsoft Office Add-ins task panes",
+            "description": "Get started building Office add-ins task panes",
             "items": [
               {
                 "name": "Task panes in Office Add-ins",

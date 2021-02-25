@@ -9,10 +9,10 @@
   "metadata": {
     "displayInfo": {
       "default": {
-        "displayTitle": "Power Automate automated flows",
+        "displayTitle": "Automated flows",
         "shortDescription": "Create an automation that is triggered by an event such as arrival of an email from a specific person, or a mention of your company in social media.",
         "cardPictureUrl": "/assets/card-flow.png", 
-        "cardPictureAlt": "Power Automate automated flows", 
+        "cardPictureAlt": "Automated flows", 
         "descriptionParagraphs": [
           "Create an automation that is triggered by an event such as arrival of an email from a specific person, or a mention of your company in social media."
         ],

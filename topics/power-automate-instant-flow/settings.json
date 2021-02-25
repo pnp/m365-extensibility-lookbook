@@ -9,10 +9,10 @@
   "metadata": {
     "displayInfo": {
       "default": {
-        "displayTitle": "Power Automate instant flows",
+        "displayTitle": "Instant flows",
         "shortDescription": "Start an automation with a click of a button.",
         "cardPictureUrl": "/assets/card-flow.png", 
-        "cardPictureAlt": "Power Automate instant flows", 
+        "cardPictureAlt": "Instant flows", 
         "descriptionParagraphs": [
           "Start an automation with a click of a button. You can automate for repetitive tasks from your Desktop or Mobile devices. For example, instantly send a reminder to the team with a push of a button from your mobile device."
         ],
@@ -33,7 +33,7 @@
         "detailItemCategories": [
           {
             "name": "Documentation",
-            "description": "Get started building instant flows",
+            "description": "Get started building instant flows with Power Automate",
             "items": [
               {
                 "name": "Create a button flow",

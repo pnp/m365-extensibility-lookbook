@@ -10,10 +10,10 @@
   "metadata": {
     "displayInfo": {
       "default": {
-        "displayTitle": "SharePoint Framework Application Customizers",
+        "displayTitle": "Application Customizers",
         "shortDescription": "Adds scripts to the page, and accesses well-known HTML element placeholders and extends them with custom renderings.",
         "cardPictureUrl": "/assets/card-spfx-extension.png", 
-        "cardPictureAlt": "SharePoint Framework Application Customizers", 
+        "cardPictureAlt": "Application Customizers", 
         "descriptionParagraphs": [
           "You can use SharePoint Framework (SPFx) Extensions to extend the SharePoint user experience. With SPFx Extensions, you can customize more facets of the SharePoint experience, including notification areas, toolbars, and list data views. SPFx Extensions are available in all Microsoft 365 subscriptions for production usage.",
           "SPFx Extensions enable you to extend the SharePoint user experience within modern pages and document libraries, while using the familiar SPFx tools and libraries for client-side development. Specifically, the SPFx includes three extension types:",
@@ -48,7 +48,7 @@
         "detailItemCategories": [
           {
             "name": "Samples",
-            "description": "SharePoint Framework Application Customizers samples",
+            "description": "Application Customizers samples",
             "items": [
               {
                 "name": "JS Application Alert Message",
@@ -69,7 +69,7 @@
           },
           {
             "name": "Documentation",
-            "description": "Get started building SharePoint Framework Application Customizers",
+            "description": "Get started building Application Customizers",
             "items": [
               {
                 "name": "Build your first SharePoint Framework Extension",
@@ -90,7 +90,7 @@
           },
           {
             "name": "References",
-            "description": "More information about SharePoint Framework Application Customizers",
+            "description": "More information about Application Customizers",
             "items": [
               {
                 "name": "Pre-allocate space for SharePoint Framework extension placeholders",

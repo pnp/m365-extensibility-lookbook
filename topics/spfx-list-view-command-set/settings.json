@@ -10,10 +10,10 @@
   "metadata": {
     "displayInfo": {
       "default": {
-        "displayTitle": "SharePoint Framework List View Command Set",
+        "displayTitle": "List View Command Set",
         "shortDescription": "Adding extensibility to modern portals",
         "cardPictureUrl": "/assets/card-spfx-extension.png", 
-        "cardPictureAlt": "SharePoint Framework List View Command Set", 
+        "cardPictureAlt": "List View Command Set", 
         "descriptionParagraphs": [
           "You can use SharePoint Framework (SPFx) Extensions to extend the SharePoint user experience. With SPFx Extensions, you can customize more facets of the SharePoint experience, including notification areas, toolbars, and list data views. SPFx Extensions are available in all Microsoft 365 subscriptions for production usage.",
           "SPFx Extensions enable you to extend the SharePoint user experience within modern pages and document libraries, while using the familiar SPFx tools and libraries for client-side development. Specifically, the SPFx includes three extension types:",
@@ -24,7 +24,7 @@
             "type": "image",
             "order": 100,
             "url": "/assets/promo-spfx-extension.png",
-            "alt": "SharePoint Framework List View Command Set"
+            "alt": "List View Command Set"
           },
           {
             "type": "video",
@@ -48,7 +48,7 @@
         "detailItemCategories": [
           {
             "name": "Samples",
-            "description": "SharePoint Framework List View Command Set Samples",
+            "description": "List View Command Set Samples",
             "items": [
               {
                 "name": "SPFx Copy Classic Link Extension",
@@ -64,7 +64,7 @@
           },
           {
             "name": "Documentation",
-            "description": "Get started building SharePoint Framework List View Command Sets",
+            "description": "Get started building List View Command Sets",
             "items": [
               {
                 "name": "Build your first ListView Command Set extension",
@@ -80,7 +80,7 @@
           },
           {
             "name": "References",
-            "description": "More information about SharePoint Framework List View Command Sets",
+            "description": "More information about List View Command Sets",
             "items": [
               {
                 "name": "Tenant-wide Deployment of SharePoint Framework Extensions",

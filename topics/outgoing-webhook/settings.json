@@ -9,10 +9,10 @@
   "metadata": {
     "displayInfo": {
       "default": {
-        "displayTitle": "Microsoft Teams outgoing webhooks",
+        "displayTitle": "Outgoing webhooks",
         "shortDescription": "Connect your web services to channels and teams inside Microsoft Teams",
         "cardPictureUrl": "/assets/promo-bot.png",
-        "cardPictureAlt": "Microsoft Teams outgoing webhooks", 
+        "cardPictureAlt": "Outgoing webhooks", 
         "descriptionParagraphs": [
           "Outgoing webhooks allow your users to send text messages from a channel to your web services. Once configured, your users will be able to @mention your outgoing webhook and send a message to your service."
         ],

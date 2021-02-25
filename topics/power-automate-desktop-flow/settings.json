@@ -9,10 +9,10 @@
   "metadata": {
     "displayInfo": {
       "default": {
-        "displayTitle": "Power Automate desktop flows",
+        "displayTitle": "Desktop flows",
         "shortDescription": "Record clicks and keyboard strokes from your Desktop and Web applications and automate the playback of manual steps on legacy software.",
         "cardPictureUrl": "/assets/card-flow.png", 
-        "cardPictureAlt": "Power Automate desktop flows", 
+        "cardPictureAlt": "Desktop flows", 
         "descriptionParagraphs": [
           "Record clicks and keyboard strokes from your Desktop and Web applications and automate the playback of manual steps on legacy software."
         ],
@@ -21,7 +21,7 @@
             "type": "image",
             "order": 100,
             "url": "/assets/promo-flow.png",
-            "alt": "Power Automated desktop flow"
+            "alt": "Desktop flow in Power Automate"
           },
           {
             "type": "video",
@@ -39,7 +39,7 @@
         "detailItemCategories": [
           {
             "name": "Documentation",
-            "description": "Get started building desktop flows",
+            "description": "Get started building desktop flows with Power Automate",
             "items": [
               {
                 "name": "Introduction to desktop flows",
@@ -65,7 +65,7 @@
           },
           {
             "name": "References",
-            "description": "More information about desktop flows",
+            "description": "More information about desktop flows in Power Automate",
             "items": [
               {
                 "name": "Desktop action references",

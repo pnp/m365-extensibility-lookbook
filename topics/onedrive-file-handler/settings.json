@@ -10,10 +10,10 @@
   "metadata": {
     "displayInfo": {
       "default": {
-        "displayTitle": "Microsoft OneDrive file handlers",
+        "displayTitle": "OneDrive file handlers",
         "shortDescription": "Integrates custom file types into Microsoft 365",
         "cardPictureUrl": "/assets/card-tab.png", 
-        "cardPictureAlt": "Microsoft OneDrive file handlers", 
+        "cardPictureAlt": "OneDrive file handlers", 
         "descriptionParagraphs": [
           "File Handlers are a type of Microsoft 365 add-in that integrates custom file types into the service allowing you to provide rich experiences for any proprietary format."
         ],
@@ -22,7 +22,7 @@
             "type": "image",
             "order": 100,
             "url": "/assets/promo-tab.png",
-            "alt": "Microsoft OneDrive file handlers"
+            "alt": "OneDrive file handlers"
           }
         ],
         "detailItemCategories": [
@@ -44,7 +44,7 @@
           },
           {
             "name": "Documentation",
-            "description": "Get started building Microsoft OneDrive file handlers",
+            "description": "Get started building OneDrive file handlers",
             "items": [
               {
                 "name": "Adding custom preview, open, and actions to files with File Handlers 2.0",

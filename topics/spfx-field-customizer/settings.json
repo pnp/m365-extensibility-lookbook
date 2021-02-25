@@ -10,10 +10,10 @@
   "metadata": {
     "displayInfo": {
       "default": {
-        "displayTitle": "SharePoint Framework Field Customizers",
+        "displayTitle": "Field Customizers",
         "shortDescription": "Adding extensibility to modern portals",
         "cardPictureUrl": "/assets/card-spfx-extension.png", 
-        "cardPictureAlt": "SharePoint Framework Field Customizers", 
+        "cardPictureAlt": "Field Customizers", 
         "descriptionParagraphs": [
           "You can use SharePoint Framework (SPFx) Extensions to extend the SharePoint user experience. With SPFx Extensions, you can customize more facets of the SharePoint experience, including notification areas, toolbars, and list data views. SPFx Extensions are available in all Microsoft 365 subscriptions for production usage.",
           "SPFx Extensions enable you to extend the SharePoint user experience within modern pages and document libraries, while using the familiar SPFx tools and libraries for client-side development. Specifically, the SPFx includes three extension types:",
@@ -48,7 +48,7 @@
         "detailItemCategories": [
           {
             "name": "Samples",
-            "description": "SharePoint Framework Field Customizer samples",
+            "description": "Field Customizer samples",
             "items": [
               {
                 "name": "Field Customizer using PnP FieldRendererHelper.",
@@ -64,7 +64,7 @@
           },
           {
             "name": "Documentation",
-            "description": "Get started building SharePoint Framework Field Customizers",
+            "description": "Get started building Field Customizers",
             "items": [
               {
                 "name": "Build your first Field Customizer extension",
@@ -80,7 +80,7 @@
           },
           {
             "name": "References",
-            "description": "More information about SharePoint Framework Field Customizers",
+            "description": "More information about Field Customizers",
             "items": [
               {
                 "name": "Tenant-wide Deployment of SharePoint Framework Extensions",

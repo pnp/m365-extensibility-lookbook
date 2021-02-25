@@ -9,10 +9,10 @@
   "metadata": {
     "displayInfo": {
       "default": {
-        "displayTitle": "Microsoft Teams Office 365 Connectors",
+        "displayTitle": "Office 365 Connectors",
         "shortDescription": "Connect your web services to channels and teams inside Microsoft Teams",
         "cardPictureUrl": "/assets/promo-connector.png",
-        "cardPictureAlt": "Microsoft Teams Office 365 Connectors", 
+        "cardPictureAlt": "Office 365 Connectors", 
         "descriptionParagraphs": [
           "Office 365 Connectors allow you to create a custom configuration page for your incoming webhook, and package them as part of a Teams app."
         ],
@@ -27,7 +27,7 @@
         "detailItemCategories": [
           {
             "name": "Scenarios",
-            "description": "What could use a Microsoft Teams Office 365 connector for?",
+            "description": "What could use an Office 365 connector in Microsoft Teams for?",
             "items": [
               {
                 "name": "Configurable weather connector",
@@ -38,7 +38,7 @@
           },
           {
             "name": "Documentation",
-            "description": "Get started with building Microsoft Teams Office 365 connectors",
+            "description": "Get started with building Office 365 connectors for Microsoft Teams",
             "items": [
               {
                 "name": "Office 365 Connectors",

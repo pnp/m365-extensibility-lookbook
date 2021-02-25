@@ -9,10 +9,10 @@
   "metadata": {
     "displayInfo": {
       "default": {
-        "displayTitle": "Power Apps portals",
+        "displayTitle": "Portals",
         "shortDescription": "Use Power Apps portals to create external-facing websites that allow users outside their organizations to sign in with a wide variety of identities, create and view data in Dataverse, or even browse content anonymously.",
         "cardPictureUrl": "/assets/card-tab.png", 
-        "cardPictureAlt": "Power Apps portals", 
+        "cardPictureAlt": "Portals", 
         "descriptionParagraphs": [
           "Use Power Apps portals to create external-facing websites that allow users outside their organizations to sign in with a wide variety of identities, create and view data in Dataverse, or even browse content anonymously."
         ],
@@ -45,7 +45,7 @@
         "detailItemCategories": [
           {
             "name": "Documentation",
-            "description": "Get started building Power Apps portals",
+            "description": "Get started building portals using Power Apps",
             "items": [
               {
                 "name": "What is Power Apps portals?",

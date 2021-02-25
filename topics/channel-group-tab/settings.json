@@ -11,10 +11,10 @@
   "metadata": {
     "displayInfo": {
       "default": {
-        "displayTitle": "Microsoft Teams channel and group tabs",
+        "displayTitle": "Channel and group tabs",
         "shortDescription": "Create embedded web experiences for a team channel or chat",
         "cardPictureUrl": "/assets/promo-tab.png", 
-        "cardPictureAlt": "Microsoft Teams channel and group tabs", 
+        "cardPictureAlt": "Channel and group tabs", 
         "descriptionParagraphs": [
           "Tabs are Microsoft Teams-aware webpages embedded in Microsoft Teams. They can be added as part of a channel or a group chat inside a team or as a personal app for an individual user.",
           "As part of your app, you can add custom tabs to embed your own web content in Teams.",
@@ -49,7 +49,7 @@
         "detailItemCategories": [
           {
             "name": "Scenarios",
-            "description": "What could you use Microsoft Teams tabs for?",
+            "description": "What could you use channel and group tabs for?",
             "items": [
               {
                 "name": "Bring an existing web-based resource inside Teams.",
@@ -91,7 +91,7 @@
           },
           {
             "name": "Documentation",
-            "description": "Get started building Microsoft Teams tabs",
+            "description": "Get started building channel and group tabs",
             "items": [
               {
                 "name": "What are Microsoft Teams custom tabs?",

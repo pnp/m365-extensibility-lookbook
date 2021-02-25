@@ -9,10 +9,10 @@
   "metadata": {
     "displayInfo": {
       "default": {
-        "displayTitle": "Microsoft Office contextual add-ins",
+        "displayTitle": "Office contextual add-ins",
         "shortDescription": "Interact with contents of messages",
         "cardPictureUrl": "/assets/card-tab.png", 
-        "cardPictureAlt": "Microsoft Office contextual add-ins", 
+        "cardPictureAlt": "Office contextual add-ins", 
         "descriptionParagraphs": [
           "Contextual add-ins are Outlook add-ins that activate based on text in a message or appointment. By using contextual add-ins, a user can initiate tasks related to a message without leaving the message itself, which results in an easier and richer user experience."
         ],
@@ -21,13 +21,13 @@
             "type": "image",
             "order": 100,
             "url": "/assets/promo-tab.png",
-            "alt": "Microsoft Office contextual add-ins"
+            "alt": "Office contextual add-ins"
           }
         ],
         "detailItemCategories": [
           {
             "name": "Samples",
-            "description": "Contextual Add-in Samples",
+            "description": "Contextual add-in samples",
             "items": [
               {
                 "name": "Outlook Add-In Contextual Regex",

@@ -11,7 +11,7 @@
   "metadata": {
     "displayInfo": {
       "default": {
-        "displayTitle": "Profile Card properties",
+        "displayTitle": "Profile card properties",
         "shortDescription": "Add additional properties to the profile card",
         "cardPictureUrl": "/assets/card-profile-card.png", 
         "cardPictureAlt": "Profile card properties", 
@@ -30,7 +30,7 @@
         "detailItemCategories": [
           {
             "name": "Samples",
-            "description": "Profile Card samples",
+            "description": "Profile card samples",
             "items": [
               {
                 "name": "Manage Profile Card Properties",
@@ -51,7 +51,7 @@
           },
           {
             "name": "Documentation",
-            "description": "Get started working with Profile Card properties",
+            "description": "Get started working with Profile card properties",
             "items": [
               {
                 "name": "Add additional properties to the profile card using the profile card API in Microsoft Graph (preview)",
@@ -67,7 +67,7 @@
           },
           {
             "name": "References",
-            "description": "More information about Profile Card properties",
+            "description": "More information about Profile card properties",
             "items": [
               {
                 "name": "Add additional properties to the profile card using the profile API in Microsoft Graph",

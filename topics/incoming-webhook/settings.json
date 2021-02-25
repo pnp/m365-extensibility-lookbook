@@ -9,10 +9,10 @@
   "metadata": {
     "displayInfo": {
       "default": {
-        "displayTitle": "Microsoft Teams incoming webhooks",
+        "displayTitle": "Incoming webhooks",
         "shortDescription": "Connect your web services to channels and teams inside Microsoft Teams",
         "cardPictureUrl": "/assets/promo-webhook.png",
-        "cardPictureAlt": "Microsoft Teams incoming webhooks", 
+        "cardPictureAlt": "Incoming webhooks", 
         "descriptionParagraphs": [
           "Incoming webhooks are a quick and easy way to connect a channel to your service, and are best used for scenarios that are unique to a particular team"
         ],
@@ -38,7 +38,7 @@
           },
           {
             "name": "Documentation",
-            "description": "Get started using Microsoft Teams incoming webhooks",
+            "description": "Get started using incoming webhooks in Microsoft Teams",
             "items": [
               {
                 "name": "What are webhooks and connectors?",

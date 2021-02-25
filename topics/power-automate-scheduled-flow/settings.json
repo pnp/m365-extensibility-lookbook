@@ -9,10 +9,10 @@
   "metadata": {
     "displayInfo": {
       "default": {
-        "displayTitle": "Power Automate scheduled flows",
+        "displayTitle": "Scheduled flows",
         "shortDescription": "Schedule an automation such as daily data upload to SharePoint or a database.",
         "cardPictureUrl": "/assets/card-flow.png", 
-        "cardPictureAlt": "Power Automate scheduled flows", 
+        "cardPictureAlt": "Scheduled flows", 
         "descriptionParagraphs": [
           "Schedule an automation such as daily data upload to SharePoint or a database."
         ],
@@ -33,7 +33,7 @@
         "detailItemCategories": [
           {
             "name": "Documentation",
-            "description": "Get started building scheduled flows",
+            "description": "Get started building scheduled flows with Power Automate",
             "items": [
               {
                 "name": "Run flows on a schedule",
@@ -49,7 +49,7 @@
           },
           {
             "name": "References",
-            "description": "More information about scheduled flows",
+            "description": "More information about scheduled flows in Power Automate",
             "items": [
               {
                 "name": "Create, schedule, and run recurring tasks and workflows with the Recurrence trigger in Azure Logic Apps",

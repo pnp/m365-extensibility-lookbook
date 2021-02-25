@@ -9,10 +9,10 @@
   "metadata": {
     "displayInfo": {
       "default": {
-        "displayTitle": "Power Automate approval flows",
+        "displayTitle": "Approval flows",
         "shortDescription": "Approval flows can help you automate sign-off requests and combine human decision-making with background automation to help business users focus on their core tasks.",
         "cardPictureUrl": "/assets/card-tab.png", 
-        "cardPictureAlt": "Power Automate approval flows", 
+        "cardPictureAlt": "Approval flows", 
         "descriptionParagraphs": [
           "Approval flows can help you automate sign-off requests and combine human decision-making with background automation to help business users focus on their core tasks."
         ],
@@ -21,7 +21,7 @@
             "type": "image",
             "order": 100,
             "url": "/assets/promo-tab.png",
-            "alt": "Alt text for the image"
+            "alt": "Sample approval flow"
           },
           {
             "type": "video",
@@ -65,7 +65,7 @@
           },
           {
             "name": "References",
-            "description": "More information about Power Automate approval flows",
+            "description": "More information about approval flows in Power Automate",
             "items": [
               {
                 "name": "View and manage pending approval requests",

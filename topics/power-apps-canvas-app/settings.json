@@ -9,10 +9,10 @@
   "metadata": {
     "displayInfo": {
       "default": {
-        "displayTitle": "Power Apps canvas apps",
+        "displayTitle": "Canvas apps",
         "shortDescription": "Design and build a business app from a canvas in Microsoft Power Apps with data from a variety of sources without writing any code using traditional programming languages, such as C#.",
         "cardPictureUrl": "/assets/card-tab.png", 
-        "cardPictureAlt": "Power Automate canvas apps", 
+        "cardPictureAlt": "Canvas apps", 
         "descriptionParagraphs": [
           "Design and build a business app from a canvas in Microsoft Power Apps with data from a variety of sources without writing any code using traditional programming languages, such as C#."
         ],
@@ -45,7 +45,7 @@
         "detailItemCategories": [
           {
             "name": "Samples",
-            "description": "Sample Power Apps canvas apps",
+            "description": "Sample canvas apps",
             "items": [
               {
                 "name": "Power Apps Gallery Look Book",
@@ -71,7 +71,7 @@
           },
           {
             "name": "Documentation",
-            "description": "Get started building Microsoft Power Apps canvas applications",
+            "description": "Get started building canvas applications using Power Apps",
             "items": [
               {
                 "name": "What is Power Apps",
@@ -92,7 +92,7 @@
           },
           {
             "name": "References",
-            "description": "More information about Power Apps canvas apps",
+            "description": "More information about canvas apps in Power Apps",
             "items": [
               {
                 "name": "Formula reference for Power Apps",

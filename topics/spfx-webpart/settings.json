@@ -48,7 +48,7 @@
         "detailItemCategories": [
           {
             "name": "Samples",
-            "description": "SharePoint Framework Web Part Samples",
+            "description": "Web Part Samples",
             "items": [
               {
                 "name": "Content Query web part",
@@ -69,7 +69,7 @@
           },
           {
             "name": "Documentation",
-            "description": "Get started building SharePoint Framework Web Parts",
+            "description": "Get started building Web Parts",
             "items": [
               {
                 "name": "Overview of SharePoint client-side web parts",
@@ -95,7 +95,7 @@
           },
           {
             "name": "References",
-            "description": "More information about SharePoint Framework Web Parts",
+            "description": "More information about Web Parts",
             "items": [
               {
                 "name": "Tenant-wide Deployment of SharePoint Framework Extensions",
