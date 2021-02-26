@@ -61,7 +61,7 @@
         "detailItemCategories": [
           {
             "name": "Technology",
-            "description": "Possible html supported text shown just above the list of links",
+            "description": "Extensibility options used in this scenario",
             "items": [
               {
                 "name": "Microsoft Teams bots",

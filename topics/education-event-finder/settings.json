@@ -73,7 +73,7 @@
         "detailItemCategories": [
           {
             "name": "Technology",
-            "description": "Possible html supported text shown just above the list of links",
+            "description": "Extensibility options used in this scenario",
             "items": [
               {
                 "name": "Technology used in scenario",
@@ -83,30 +83,8 @@
             ]
           },
           {
-            "name": "Partners",
-            "description": "Possible html supported text shown just above the list of links",
-            "items": [
-              {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              }
-            ]
-          },
-          {
-            "name": "Samples",
-            "description": "Possible html supported text shown just above the list of links",
-            "items": [
-              {
-                "name": "Sample name 1 with link to GitHub or to Sample gallery when it's available",
-                "description": "Potential description for the sample reference",
-                "url": "https://support.office.com/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
-              }
-            ]
-          },
-          {
             "name": "Documentation",
-            "description": "Here are the key resources around getting started on building Microsoft Teams tabs",
+            "description": "Documentation around the used technologies in this scenario",
             "items": [
               {
                 "name": "What are Microsoft Teams custom tabs?",

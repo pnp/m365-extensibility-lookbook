@@ -12,7 +12,7 @@
       "default": {
         "displayTitle": "Apps in Teams meetings",
         "shortDescription": "Create embedded web experiences for individual users",
-        "cardPictureUrl": "/assets/promo-tab.png", 
+        "cardPictureUrl": "/assets/promo-meeting-apps.png", 
         "cardPictureAlt": "Apps in Teams meetings", 
         "descriptionParagraphs": [
           "Meetings are key to productivity in Teams. They enable collaboration, partnership, informed communication, and shared feedback in an inclusive and active forum. As a developer, you can create configurable tab, bot, and message extension applications to enhance and enrich a Teams meeting experience.",
@@ -32,8 +32,32 @@
             "alt": "Using Microsoft Teams apps for meetings"
           },
           {
+            "type": "image",
+            "order": 120,
+            "url": "/assets/meeting-app-pre-meeting.png",
+            "alt": "Conceptual representation of what meeting apps look like in the Teams client."
+          },
+          {
+            "type": "image",
+            "order": 130,
+            "url": "/assets/meeting-app-in-meeting1.png",
+            "alt": "Conceptual representation of what meeting apps look like in the Teams client."
+          },
+          {
+            "type": "image",
+            "order": 140,
+            "url": "/assets/meeting-app-in-meeting2.png",
+            "alt": "Conceptual representation of what meeting apps look like in the Teams client."
+          },
+          {
+            "type": "image",
+            "order": 150,
+            "url": "/assets/meeting-app-post-meeting.png",
+            "alt": "Conceptual representation of what meeting apps look like in the Teams client."
+          },                    
+          {
             "type": "video",
-            "order": 110,
+            "order": 160,
             "url": "https://www.youtube.com/embed/rrNpFJbxqrg",
             "alt": "Microsoft Teams Apps for Meetings"
           }
