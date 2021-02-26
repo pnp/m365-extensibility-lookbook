@@ -10,9 +10,9 @@
     "displayInfo": {
       "default": {
         "displayTitle": "Build Adaptive Cards",
-        "shortDescription": "Integrate Microsoft 365 usage reporting into your organization's existing reporting solution",
+        "shortDescription": "Integrate Adaptive Cards in your organization's existing applications and future solutions",
         "cardPictureUrl": "/assets/promo-adaptive-cards.png",
-        "cardPictureAlt": "Adaptive Card",
+        "cardPictureAlt": "Adaptive Cards",
         "descriptionParagraphs": [
           "Adaptive Cards are platform-agnostic snippets of UI, authored in JSON, that apps and services can openly exchange.",
           "When delivered to a specific app, the JSON is transformed into native UI that automatically adapts to its surroundings. They help design and integrate light-weight UI for all major platforms and frameworks."
@@ -22,31 +22,31 @@
             "type": "image",
             "order": 100,
             "url": "/assets/promo-adaptive-cards.png",
-            "alt": "Conceptual representation of what bots look like in the Teams client."
+            "alt": "Conceptual representation of what adaptive cards look like in the Teams client."
           },
           {
             "type": "video",
             "order": 101,
-            "url": "https://youtube.com/embed/MJ7OG7ul8zo",
-            "alt": "First Bot"
+            "url": "https://www.youtube.com/embed/t6_x8Bpzxss",
+            "alt": "Use Adaptive Card Templates to Build Bots in Microsoft Teams"
           },
           {
             "type": "video",
             "order": 110,
-            "url": "https://youtube.com/embed/FhWG9Y6U6nc",
-            "alt": "Building a Low-Code QnA Bot for Teams Part 1 (QnA Bot)"
+            "url": "https://www.youtube.com/embed/J12lKt717Ws",
+            "alt": "Teams Development: Introduction to Adaptive Cards"
           },
           {
             "type": "video",
             "order": 120,
-            "url": "https://youtube.com/embed/G5OX876Hf8I",
-            "alt": "Build Microsoft Graph integrated bots using Bot Framework Composer"
+            "url": "https://www.youtube.com/embed/cl9c1AXdtS8",
+            "alt": "Create engaging messages with Adaptive Cards"
           },
           {
             "type": "video",
             "order": 130,
-            "url": "https://youtube.com/embed/a6xJlmdIfos",
-            "alt": "Creating a bot with yo teams"
+            "url": "https://www.youtube.com/embed/FqQ3jM2qPRM",
+            "alt": "Adaptive Cards | Using Sample Code Blocks"
           }
         ],
         "detailItemCategories": [
@@ -93,88 +93,128 @@
               {
                 "name": "Activity Update Sample",
                 "description": "Now that we have defined the main rules and features of the format, we need to produce a schema and publish it to GitHub. The schema will be the starting point of our reference documentation",
-                "url": "https://adaptivecards.io/samples/ActivityUpdate.html"
+                "url": "https://adaptivecards.io/samples/ActivityUpdate.html?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Calendar Reminder Sample",
                 "description": "Display a message to remind someone of an calendar appointment",
-                "url": "https://adaptivecards.io/samples/CalendarReminder.html"
+                "url": "https://adaptivecards.io/samples/CalendarReminder.html?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Flight Itinerary Sample",
                 "description": "Display a list of flights, passengers, and other related information used in a flight booking application",
-                "url": "https://adaptivecards.io/samples/FlightItinerary.html"
+                "url": "https://adaptivecards.io/samples/FlightItinerary.html?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Flight Update Sample",
                 "description": "Display a list of flights, flight status, and passengers.",
-                "url": "https://adaptivecards.io/samples/FlightUpdate.html"
+                "url": "https://adaptivecards.io/samples/FlightUpdate.html?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Food Order Sample",
                 "description": "This is an example restaurant that serves American cuisine.",
-                "url": "https://adaptivecards.io/samples/FoodOrder.html"
+                "url": "https://adaptivecards.io/samples/FoodOrder.html?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Image Gallery Sample",
                 "description": "Showing the obligatory cat photos gallery.",
-                "url": "https://adaptivecards.io/samples/ImageGallery.html"
+                "url": "https://adaptivecards.io/samples/ImageGallery.html?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Input Form Sample",
                 "description": "Demonstrates how to create a form using Adaptive Cards.",
-                "url": "https://adaptivecards.io/samples/InputForm.html"
+                "url": "https://adaptivecards.io/samples/InputForm.html?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Inputs Sample",
                 "description": "Shows how to use every type of form input in Adaptive Cards.",
-                "url": "https://adaptivecards.io/samples/Inputs.html"
+                "url": "https://adaptivecards.io/samples/Inputs.html?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Restaurant Sample",
                 "description": "Adaptive Cards are on the menu tonight.",
-                "url": "https://adaptivecards.io/samples/Restaurant.html"
+                "url": "https://adaptivecards.io/samples/Restaurant.html?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Sporting Event Sample",
                 "description": "Stay up-to-date on your favorite sporting event using Adaptive Cards.",
-                "url": "https://adaptivecards.io/samples/SportingEvent.html"
+                "url": "https://adaptivecards.io/samples/SportingEvent.html?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Stock Update Sample",
                 "description": "Keep track of how your stocks are doing with this Adaptive Card template.",
-                "url": "https://adaptivecards.io/samples/StockUpdate.html"
+                "url": "https://adaptivecards.io/samples/StockUpdate.html?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Weather Sample (Compact)",
                 "description": "Use an Adaptive Card to display the weather in a compact card format.",
-                "url": "https://adaptivecards.io/samples/WeatherCompact.html"
+                "url": "https://adaptivecards.io/samples/WeatherCompact.html?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Weather Sample (Large)",
                 "description": "Use an Adaptive Card to display the weather in a large card format.",
-                "url": "https://adaptivecards.io/samples/WeatherLarge.html"
+                "url": "https://adaptivecards.io/samples/WeatherLarge.html?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Product Video Sample",
                 "description": "Adaptive Cards can display embedded multimedia assets. Find out how using this sample template.",
-                "url": "https://adaptivecards.io/samples/ProductVideo.html"
+                "url": "https://adaptivecards.io/samples/ProductVideo.html?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Agenda Sample",
                 "description": "Adaptive Cards can display embedded multimedia assets. Find out how using this sample template.",
-                "url": "https://adaptivecards.io/samples/Agenda.html"
+                "url": "https://adaptivecards.io/samples/Agenda.html?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Expense Report Sample",
                 "description": "Demonstrates how to use Adaptive Cards for an expense approval application.",
-                "url": "https://adaptivecards.io/samples/ExpenseReport.html"
+                "url": "https://adaptivecards.io/samples/ExpenseReport.html?WT.mc_id=m365-12775-cxa"
               },
               {
-                "name": "Expense Report Sample",
-                "description": "Demonstrates how to use Adaptive Cards for an expense approval application.",
-                "url": "https://adaptivecards.io/samples/FlightDetails.html"
-              }
+                "name": "Flight Details Sample",
+                "description": "An example of showing in-context flight information using Adaptive Cards.",
+                "url": "https://adaptivecards.io/samples/FlightDetails.html?WT.mc_id=m365-12775-cxa"
+              },
+              {
+                "name": "Simple Fallback Sample",
+                "description": "Here is an example of how to use a simple fallback template when calls to underlying APIs go wrong.",
+                "url": "https://adaptivecards.io/samples/SimpleFallback.html?WT.mc_id=m365-12775-cxa"
+              },
+              {
+                "name": "Activity Update with Labels",
+                "description": "The default activity update sample using labels.",
+                "url": "https://adaptivecards.io/samples/ActivityUpdateWithLabels.html?WT.mc_id=m365-12775-cxa"
+              },
+              {
+                "name": "Calendar Reminder with Labels",
+                "description": "The calendar reminder sample using labels.",
+                "url": "https://adaptivecards.io/samples/CalendarReminderWithLabels.html?WT.mc_id=m365-12775-cxa"
+              },
+              {
+                "name": "Expense Report with Labels Sample",
+                "description": "The expense report sample, but using labels.",
+                "url": "https://adaptivecards.io/samples/ExpenseReportWithLabels.html?WT.mc_id=m365-12775-cxa"
+              },
+              {
+                "name": "Food Order with Validation Sample",
+                "description": "Demonstrates how to use input validation in Adaptive Cards.",
+                "url": "https://adaptivecards.io/samples/FoodOrderWithValidation.html?WT.mc_id=m365-12775-cxa"
+              },
+              {
+                "name": "Input Forms with Labels",
+                "description": "Demonstrates how to use input forms with labels",
+                "url": "https://adaptivecards.io/samples/InputFormWithLabels.html?WT.mc_id=m365-12775-cxa"
+              },
+              {
+                "name": "Input Forms with Validation",
+                "description": "Demonstrates how to use input forms with validation in Adaptive Cards.",
+                "url": "https://adaptivecards.io/samples/InputsWithValidation.html?WT.mc_id=m365-12775-cxa"
+              },
+              {
+                "name": "Show Card Wizard Sample",
+                "description": "Create a wizard-like user interface using Adaptive Cards.",
+                "url": "https://adaptivecards.io/samples/ShowCardWizard.html?WT.mc_id=m365-12775-cxa"
+              } 
             ]
           },
           {
