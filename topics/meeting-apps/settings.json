@@ -20,16 +20,16 @@
         ],
         "mediaAssets": [
           {
-            "type": "image",
-            "order": 100,
-            "url": "/assets/promo-meeting-apps.png",
-            "alt": "Conceptual representation of what meeting apps look like in the Teams client."
-          },
-          {
             "type": "video",
-            "order": 110,
+            "order": 100,
             "url": "https://www.youtube.com/embed/nKAy5rNDus4",
             "alt": "Using Microsoft Teams apps for meetings"
+          },
+          {
+            "type": "image",
+            "order": 110,
+            "url": "/assets/promo-meeting-apps.png",
+            "alt": "Conceptual representation of what meeting apps look like in the Teams client."
           },
           {
             "type": "image",

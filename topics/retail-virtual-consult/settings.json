@@ -76,9 +76,19 @@
             "description": "Extensibility options used in this scenario",
             "items": [
               {
-                "name": "Technology used in scenario",
-                "description": "Potential description on top of the technology",
-                "url": "https://www.bing.com"
+                "name": "Personal tabs",
+                "description": "Create embedded web experiences for individual users",
+                "url": "ref://../product-view/microsoft-teams/extensibility-canvas-personal-tab"
+              },
+              {
+                "name": "Channel and group tabs",
+                "description": "Create embedded web experiences for a team channel or chat",
+                "url": "ref://../product-view/microsoft-teams/extensibility-canvas-channel-group-tab"
+              },              
+              {
+                "name": "Messaging Extensions",
+                "description": "Task-oriented interactions in Microsoft Teams",
+                "url": "ref://../product-view/microsoft-teams/extensibility-messaging-extension"
               }
             ]
           },
@@ -87,10 +97,25 @@
             "description": "Documentation around the used technologies in this scenario",
             "items": [
               {
-                "name": "What are Microsoft Teams custom tabs?",
-                "description": "Potential description for the doc link",
-                "url": "https://docs.microsoft.com/microsoftteams/platform/tabs/what-are-tabs?WT.mc_id=m365-12775-cxa"
-              }           
+                "name": "Personal tabs",
+                "url": "https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/what-are-tabs?WT.mc_id=m365-12775-cxa"
+              },
+              {
+                "name": "Channel and group tabs",
+                "url": "https://docs.microsoft.com/en-us/microsoftteams/platform/build-your-first-app/build-channel-tab?WT.mc_id=m365-12775-cxa"
+              },              
+              {
+                "name": "Message extensions",
+                "url": "https://docs.microsoft.com/en-us/microsoftteams/platform/messaging-extensions/how-to/create-messaging-extension?WT.mc_id=m365-12775-cxa"
+              },
+              {
+                "name": "Microsoft Graph API - Bookings",
+                "url": "https://docs.microsoft.com/en-us/graph/api/bookingbusiness-post-appointments?view=graph-rest-beta&tabs=http&WT.mc_id=m365-12775-cxa"
+              },
+              {
+                "name": "Microsoft Graph API - Presence",
+                "url": "https://docs.microsoft.com/en-us/graph/api/presence-get?view=graph-rest-beta&WT.mc_id=m365-12775-cxa"
+              }                                    
             ]
           },
           {
