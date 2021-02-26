@@ -2,8 +2,7 @@
   "topicId": "extensibility-canvas-personal-tab",
   "categories": [
     "CANVASES",
-    "MICROSOFTTEAMS",
-    "MEDASHBOARD"
+    "MICROSOFTTEAMS"
   ],
   "sortOrder": 300,
   "preview": false,

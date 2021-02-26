@@ -155,20 +155,6 @@
             },
             "categories": [
                 {
-                    "id": "MEDASHBOARD",
-                    "sortOrder": 900,
-                    "displayInfo": {
-                        "default": {
-                            "displayName": "Me dashboard",
-                            "description": "Personal dashboard"
-                        },
-                        "fi": {
-                            "displayName": "Henkilökohtainen porttaali",
-                            "description": "Potential description for category"
-                        }
-                    }
-                },
-                {
                     "id": "PROFESSIONALSERVICES",
                     "sortOrder": 200,
                     "displayInfo": {
