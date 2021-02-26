@@ -1,0 +1,215 @@
+{
+  "topicId": "adaptive-cards",
+  "categories": [
+    "MICROSOFTTEAMS"
+  ],
+  "sortOrder": 320,
+  "preview": true,
+  "visible": true,
+  "metadata": {
+    "displayInfo": {
+      "default": {
+        "displayTitle": "Build Adaptive Cards",
+        "shortDescription": "Integrate Microsoft 365 usage reporting into your organization's existing reporting solution",
+        "cardPictureUrl": "/assets/promo-adaptive-cards.png",
+        "cardPictureAlt": "Adaptive Card",
+        "descriptionParagraphs": [
+          "Adaptive Cards are platform-agnostic snippets of UI, authored in JSON, that apps and services can openly exchange.",
+          "When delivered to a specific app, the JSON is transformed into native UI that automatically adapts to its surroundings. They help design and integrate light-weight UI for all major platforms and frameworks."
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 100,
+            "url": "/assets/promo-adaptive-cards.png",
+            "alt": "Conceptual representation of what bots look like in the Teams client."
+          },
+          {
+            "type": "video",
+            "order": 101,
+            "url": "https://youtube.com/embed/MJ7OG7ul8zo",
+            "alt": "First Bot"
+          },
+          {
+            "type": "video",
+            "order": 110,
+            "url": "https://youtube.com/embed/FhWG9Y6U6nc",
+            "alt": "Building a Low-Code QnA Bot for Teams Part 1 (QnA Bot)"
+          },
+          {
+            "type": "video",
+            "order": 120,
+            "url": "https://youtube.com/embed/G5OX876Hf8I",
+            "alt": "Build Microsoft Graph integrated bots using Bot Framework Composer"
+          },
+          {
+            "type": "video",
+            "order": 130,
+            "url": "https://youtube.com/embed/a6xJlmdIfos",
+            "alt": "Creating a bot with yo teams"
+          }
+        ],
+        "detailItemCategories": [
+          {
+            "name": "Scenarios",
+            "description": "What could you use Adaptive Cards for?",
+            "items": [
+              {
+                "name": "Notify users",
+                "description": "Particularly if you provide an interactive card for users to take additional information.",
+                "url": "https://docs.microsoft.com/microsoftteams/platform/bots/what-are-bots?WT.mc_id=m365-12775-cxa"
+              },
+              {
+                "name": "Collect feedback",
+                "description": "Feedback scenarios like polls and surveys.",
+                "url": "https://docs.microsoft.com/microsoftteams/platform/bots/what-are-bots?WT.mc_id=m365-12775-cxa"
+              },
+              {
+                "name": "Interactions",
+                "description": "Interactions that can be resolved in a single request/response cycle, where the results are useful for multiple members of the conversation.",
+                "url": "https://docs.microsoft.com/microsoftteams/platform/bots/what-are-bots?WT.mc_id=m365-12775-cxa"
+              },
+              {
+                "name": "Social/fun bots",
+                "description": "Get an awesome cat image, randomly pick a winner, etc.",
+                "url": "https://docs.microsoft.com/microsoftteams/platform/bots/what-are-bots?WT.mc_id=m365-12775-cxa"
+              },
+              {
+                "name": "One-to-one chat",
+                "description": "Enable incredibly diverse workloads. Q&A bots, bots that initiate workflows in other systems, bots that tell jokes, and bots that take notes are just a few examples.",
+                "url": "https://docs.microsoft.com/microsoftteams/platform/bots/what-are-bots?WT.mc_id=m365-12775-cxa"
+              }
+            ]
+          },
+          {
+            "name": "Samples",
+            "description": "Sample bots for Microsoft Teams",
+            "items": [
+              {
+                "name": "Samples and Templates",
+                "description": "These samples are just a teaser of the type of cards you can create. Go ahead and tweak them to make any scenario possible!",
+                "url": "https://adaptivecards.io/samples/?WT.mc_id=m365-12775-cxa"
+              },
+              {
+                "name": "Activity Update Sample",
+                "description": "Now that we have defined the main rules and features of the format, we need to produce a schema and publish it to GitHub. The schema will be the starting point of our reference documentation",
+                "url": "https://adaptivecards.io/samples/ActivityUpdate.html"
+              },
+              {
+                "name": "Calendar Reminder Sample",
+                "description": "Display a message to remind someone of an calendar appointment",
+                "url": "https://adaptivecards.io/samples/CalendarReminder.html"
+              },
+              {
+                "name": "Flight Itinerary Sample",
+                "description": "Display a list of flights, passengers, and other related information used in a flight booking application",
+                "url": "https://adaptivecards.io/samples/FlightItinerary.html"
+              },
+              {
+                "name": "Flight Update Sample",
+                "description": "Display a list of flights, flight status, and passengers.",
+                "url": "https://adaptivecards.io/samples/FlightUpdate.html"
+              },
+              {
+                "name": "Food Order Sample",
+                "description": "This is an example restaurant that serves American cuisine.",
+                "url": "https://adaptivecards.io/samples/FoodOrder.html"
+              },
+              {
+                "name": "Image Gallery Sample",
+                "description": "Showing the obligatory cat photos gallery.",
+                "url": "https://adaptivecards.io/samples/ImageGallery.html"
+              },
+              {
+                "name": "Input Form Sample",
+                "description": "Demonstrates how to create a form using Adaptive Cards.",
+                "url": "https://adaptivecards.io/samples/InputForm.html"
+              },
+              {
+                "name": "Inputs Sample",
+                "description": "Shows how to use every type of form input in Adaptive Cards.",
+                "url": "https://adaptivecards.io/samples/Inputs.html"
+              },
+              {
+                "name": "Restaurant Sample",
+                "description": "Adaptive Cards are on the menu tonight.",
+                "url": "https://adaptivecards.io/samples/Restaurant.html"
+              },
+              {
+                "name": "Sporting Event Sample",
+                "description": "Stay up-to-date on your favorite sporting event using Adaptive Cards.",
+                "url": "https://adaptivecards.io/samples/SportingEvent.html"
+              },
+              {
+                "name": "Stock Update Sample",
+                "description": "Keep track of how your stocks are doing with this Adaptive Card template.",
+                "url": "https://adaptivecards.io/samples/StockUpdate.html"
+              },
+              {
+                "name": "Weather Sample (Compact)",
+                "description": "Use an Adaptive Card to display the weather in a compact card format.",
+                "url": "https://adaptivecards.io/samples/WeatherCompact.html"
+              },
+              {
+                "name": "Weather Sample (Large)",
+                "description": "Use an Adaptive Card to display the weather in a large card format.",
+                "url": "https://adaptivecards.io/samples/WeatherLarge.html"
+              },
+              {
+                "name": "Product Video Sample",
+                "description": "Adaptive Cards can display embedded multimedia assets. Find out how using this sample template.",
+                "url": "https://adaptivecards.io/samples/ProductVideo.html"
+              },
+              {
+                "name": "Agenda Sample",
+                "description": "Adaptive Cards can display embedded multimedia assets. Find out how using this sample template.",
+                "url": "https://adaptivecards.io/samples/Agenda.html"
+              },
+              {
+                "name": "Expense Report Sample",
+                "description": "Demonstrates how to use Adaptive Cards for an expense approval application.",
+                "url": "https://adaptivecards.io/samples/ExpenseReport.html"
+              },
+              {
+                "name": "Expense Report Sample",
+                "description": "Demonstrates how to use Adaptive Cards for an expense approval application.",
+                "url": "https://adaptivecards.io/samples/FlightDetails.html"
+              }
+            ]
+          },
+          {
+            "name": "Documentation",
+            "description": "Get started with Adaptive Cards",
+            "items": [
+              {
+                "name": "Adaptive Cards Overview",
+                "description": "Adaptive Cards are an open card exchange format enabling developers to exchange UI content in a common and consistent way.",
+                "url": "https://docs.microsoft.com/adaptive-cards/?WT.mc_id=m365-12775-cxa"
+              },
+              {
+                "name": "Getting Started Authoring Adaptive Cards",
+                "description": "An Adaptive Card is a JSON-serialized card object model.",
+                "url": "https://docs.microsoft.com/adaptive-cards/authoring-cards/getting-started?WT.mc_id=m365-12775-cxa"
+              },
+              {
+                "name": "Adaptive Cards for Bot Developers",
+                "description": "Adaptive Cards are a great fit for Bots. They let you author a card once and have it render beautifully inside multiple apps, like Microsoft Teams, your own website, and more.",
+                "url": "https://docs.microsoft.com/adaptive-cards/getting-started/bots?WT.mc_id=m365-12775-cxa"
+              },
+              {
+                "name": "Adaptive Cards for Outlook Actionable Message Developers",
+                "description": "Whether you are filling out a survey, approving an expense report, or updating a CRM sales opportunity, Actionable Messages enable you to take quick actions right from within Outlook. Developers can now embed Adaptive Cards in their emails or notifications, elevating user engagement with their services and increasing organizational productivity.",
+                "url": "https://docs.microsoft.com/adaptive-cards/getting-started/outlook?WT.mc_id=m365-12775-cxa"
+              },
+              {
+                "name": "Adaptive Cards Designer",
+                "description": "Use an interactive, web-based tool to create your Adaptive Card templates.",
+                "url": "https://adaptivecards.io/designer?WT.mc_id=m365-12775-cxa"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
