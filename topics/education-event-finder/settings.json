@@ -76,9 +76,14 @@
             "description": "Extensibility options used in this scenario",
             "items": [
               {
-                "name": "Technology used in scenario",
-                "description": "Potential description on top of the technology",
-                "url": "https://www.bing.com"
+                "name": "Microsoft Teams bots",
+                "description": "Create interactive conversational bots",
+                "url": "ref://../product-view/microsoft-teams/extensibility-bot"
+              },
+              {
+                "name": "Personal tabs",
+                "description": "Create embedded web experiences for individual users",
+                "url": "ref://../product-view/microsoft-teams/extensibility-canvas-personal-tab"
               }
             ]
           },
@@ -87,10 +92,33 @@
             "description": "Documentation around the used technologies in this scenario",
             "items": [
               {
-                "name": "What are Microsoft Teams custom tabs?",
-                "description": "Potential description for the doc link",
-                "url": "https://docs.microsoft.com/microsoftteams/platform/tabs/what-are-tabs?WT.mc_id=m365-12775-cxa"
-              }           
+                "name": "Personal Scoped App",
+                "url": "https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/design/personal-apps?WT.mc_id=m365-12775-cxa"
+              },
+              {
+                "name": "Card refreshes",
+                "url": "https://docs.microsoft.com/en-us/outlook/actionable-messages/adaptive-card#refresh-cards?WT.mc_id=m365-12775-cxa"
+              },
+              {
+                "name": "Proactive Messages",
+                "url": "https://docs.microsoft.com/en-us/graph/teams-proactive-messaging?WT.mc_id=m365-12775-cxa"
+              },
+              {
+                "name": "Digest Cards",
+                "url": "https://docs.microsoft.com/en-us/microsoftteams/platform/task-modules-and-cards/cards/design-effective-cards#digest?WT.mc_id=m365-12775-cxa"
+              },
+              {
+                "name": "Microsoft Graph API - People and Workplace Intelligence",
+                "url": "https://docs.microsoft.com/en-us/graph/social-intel-concept-overview?WT.mc_id=m365-12775-cxa"
+              },
+              {
+                "name": "Microsoft Graph API - Create a team",
+                "url": "https://docs.microsoft.com/en-us/graph/api/team-put-teams?view=graph-rest-1.0&tabs=http&WT.mc_id=m365-12775-cxa"
+              },
+              {
+                "name": "Microsoft Graph API - Files",
+                "url": "https://docs.microsoft.com/en-us/graph/api/drive-sharedwithme?view=graph-rest-1.0&tabs=http&WT.mc_id=m365-12775-cxa"
+              }
             ]
           },
           {

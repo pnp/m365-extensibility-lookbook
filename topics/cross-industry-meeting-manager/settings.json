@@ -62,7 +62,7 @@
         "detailItemCategories": [
           {
             "name": "Technology",
-            "description": "Documentation around the used technologies in this scenario",
+            "description": "Extensibility options used in this scenario",
             "items": [
               {
                 "name": "Technology used in scenario",
