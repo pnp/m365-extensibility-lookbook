@@ -59,46 +59,57 @@
         "detailItemCategories": [
           {
             "name": "Technology",
-            "description": "Possible html supported text shown just above the list of links",
+            "description": "Documentation around the used technologies in this scenario",
             "items": [
               {
-                "name": "Technology used in scenario",
-                "description": "Potential description on top of the technology",
-                "url": "https://www.bing.com"
-              }
-            ]
-          },
-          {
-            "name": "Partners",
-            "description": "Possible html supported text shown just above the list of links",
-            "items": [
+                "name": "Microsoft Teams bots",
+                "description": "Create interactive conversational bots",
+                "url": "ref://../product-view/microsoft-teams/extensibility-bot"
+              },
               {
-                "name": "Partner 1 name",
-                "description": "Potential description for the partner reference",
-                "url": "https://www.bing.com"
-              }
-            ]
-          },
-          {
-            "name": "Samples",
-            "description": "Possible html supported text shown just above the list of links",
-            "items": [
+                "name": "Personal tabs",
+                "description": "Create embedded web experiences for individual users",
+                "url": "ref://../product-view/microsoft-teams/extensibility-canvas-personal-tab"
+              },
               {
-                "name": "Sample name 1 with link to GitHub or to Sample gallery when it's available",
-                "description": "Potential description for the sample reference",
-                "url": "https://support.office.com/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
-              }
+                "name": "Apps in meetings",
+                "description": "Create embedded web experiences for individual users",
+                "url": "ref://../product-view/microsoft-teams/extensibility-meeting-apps"
+              },   
             ]
           },
           {
             "name": "Documentation",
-            "description": "Here are the key resources around getting started on building Microsoft Teams tabs",
+            "description": "Documentation around the used technologies in this scenario",
             "items": [
               {
-                "name": "What are Microsoft Teams custom tabs?",
-                "description": "Potential description for the doc link",
-                "url": "https://docs.microsoft.com/microsoftteams/platform/tabs/what-are-tabs?WT.mc_id=m365-12775-cxa"
-              }           
+                "name": "Personal Scoped App",
+                "url": "https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/design/personal-apps?WT.mc_id=m365-12775-cxa"
+              },
+              {
+                "name": "Apps in Meetings",
+                "url": "https://docs.microsoft.com/en-us/microsoftteams/platform/apps-in-teams-meetings/create-apps-for-teams-meetings?tabs=json?WT.mc_id=m365-12775-cxa"
+              },
+              {
+                "name": "Proactive Messages",
+                "url": "https://docs.microsoft.com/en-us/graph/teams-proactive-messaging?WT.mc_id=m365-12775-cxa"
+              },              
+              {
+                "name": "Card refreshes",
+                "url": "https://docs.microsoft.com/en-us/outlook/actionable-messages/adaptive-card#refresh-cards?WT.mc_id=m365-12775-cxa"
+              },
+              {
+                "name": "Meeting Extensibility",
+                "url": "https://docs.microsoft.com/en-us/microsoftteams/platform/apps-in-teams-meetings/create-apps-for-teams-meetings?tabs=json&WT.mc_id=m365-12775-cxa"
+              },
+              {
+                "name": "Microsoft Graph API - Create Event",
+                "url": "https://docs.microsoft.com/en-us/graph/api/calendar-post-events&WT.mc_id=m365-12775-cxa"
+              },
+              {
+                "name": "Microsoft Graph API - Presence",
+                "url": "https://docs.microsoft.com/en-us/graph/api/presence-get?view=graph-rest-beta&WT.mc_id=m365-12775-cxa"
+              }                     
             ]
           },
           {

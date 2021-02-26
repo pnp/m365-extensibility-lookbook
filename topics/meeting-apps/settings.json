@@ -1,0 +1,99 @@
+{
+  "topicId": "extensibility-meeting-apps",
+  "categories": [
+    "CANVASES",
+    "MICROSOFTTEAMS"
+  ],
+  "sortOrder": 300,
+  "preview": false,
+  "visible": true,
+  "metadata": {
+    "displayInfo": {
+      "default": {
+        "displayTitle": "Apps in Teams meetings",
+        "shortDescription": "Create embedded web experiences for individual users",
+        "cardPictureUrl": "/assets/promo-tab.png", 
+        "cardPictureAlt": "Apps in Teams meetings", 
+        "descriptionParagraphs": [
+          "Meetings are key to productivity in Teams. They enable collaboration, partnership, informed communication, and shared feedback in an inclusive and active forum. As a developer, you can create configurable tab, bot, and message extension applications to enhance and enrich a Teams meeting experience.",
+          "Meeting users can access apps, via the tab gallery, to enable relevant scenarios such as pre-staging a Kanban board, launching an in-meeting actionable dialog, or creating a post-meeting poll. Your meeting app can deliver a user experience for each stage of the meeting lifecycle based upon attendee status."
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 100,
+            "url": "/assets/promo-meeting-apps.png",
+            "alt": "Conceptual representation of what meeting apps look like in the Teams client."
+          },
+          {
+            "type": "video",
+            "order": 110,
+            "url": "https://www.youtube.com/embed/nKAy5rNDus4",
+            "alt": "Using Microsoft Teams apps for meetings"
+          },
+          {
+            "type": "video",
+            "order": 110,
+            "url": "https://www.youtube.com/embed/rrNpFJbxqrg",
+            "alt": "Microsoft Teams Apps for Meetings"
+          }
+        ],
+        "detailItemCategories": [
+          {
+            "name": "Scenarios",
+            "description": "Meeting lifecycle scenarios",
+            "items": [
+              {
+                "name": "Pre-meeting app experience.",
+                "description": "Before, during, and after meeting time frame.",
+                "url": "https://docs.microsoft.com/en-us/microsoftteams/platform/apps-in-teams-meetings/teams-apps-in-meetings?WT.mc_id=m365-12775-cxa"
+              },
+              {
+                "name": "In-meeting app experience.",
+                "description": "Meeting organizer, presenter, or attendee.",
+                "url": "https://docs.microsoft.com/en-us/microsoftteams/platform/apps-in-teams-meetings/teams-apps-in-meetings?WT.mc_id=m365-12775-cxa"
+              },
+              {
+                "name": "Post-meeting app experience.",
+                "description": "In-tenant, guest, federated, or anonymous Teams user.",
+                "url": "https://docs.microsoft.com/en-us/microsoftteams/platform/apps-in-teams-meetings/teams-apps-in-meetings?WT.mc_id=m365-12775-cxa"
+              }
+            ]
+          },
+          {
+            "name": "Samples",
+            "description": "Sample personal tabs in Microsoft Teams",
+            "items": [
+              {
+                "name": "Virtual Events Meeting",
+                "description": "Solution initiate a Calling & Meeting bot on behalf of users and enables the meeting organizers to programmatically add a custom app",
+                "url": "https://docs.microsoft.com/microsoftteams/platform/samples/app-templates?WT.mc_id=m365-12775-cxa#attendance"
+              },
+              {
+                "name": "Meeting Token Generator",
+                "description": "Meeting participants can request a 'token', which is generated sequentially so that each participant has a fair opportunity to interact.",
+                "url": "https://github.com/OfficeDev/microsoft-teams-sample-meetings-token"
+              }
+            ]
+          },
+          {
+            "name": "Documentation",
+            "description": "Get started building tabs for Microsoft Teams",
+            "items": [
+              {
+                "name": "Apps in Teams meetings?",
+                "description": "A quick overview of what the app scenarios are for the meetings.",
+                "url": "https://docs.microsoft.com/en-us/microsoftteams/platform/apps-in-teams-meetings/teams-apps-in-meetings?WT.mc_id=m365-12775-cxa"
+              },
+              {
+                "name": "Create apps for Teams meetings",
+                "description": "Technical details and considerations when meetings apps are being built.",
+                "url": "https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/get-started/using-web-part-as-ms-teams-tab?WT.mc_id=m365-12775-cxa"
+              }              
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
