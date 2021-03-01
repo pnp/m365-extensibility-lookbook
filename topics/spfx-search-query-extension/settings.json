@@ -10,9 +10,9 @@
     "displayInfo": {
       "default": {
         "displayTitle": "Search Query Extensions",
-        "shortDescription": "Adding extensibility to modern portals",
+        "shortDescription": "Adding Search extensibility to modern portals",
         "cardPictureUrl": "/assets/card-spfx-extension.png", 
-        "cardPictureAlt": "Search Query Extensions",
+        "cardPictureAlt": "SharePoint Framework Search Query Extensions",
         "descriptionParagraphs": [
           "You can use SharePoint Framework (SPFx) Extensions to extend the SharePoint user experience. With SPFx Extensions, you can customize more facets of the SharePoint experience, including notification areas, toolbars, and list data views. SPFx Extensions are available in all Microsoft 365 subscriptions for production usage.",
           "A query extension acts as a normal SharePoint Framework extension, but it will be invoked just before the search query is executed, so that the query can be potentially modified.",
