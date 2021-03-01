@@ -5,8 +5,8 @@
             "headerImage": "assets/product.png",
             "displayInfo": {
                 "default": {
-                    "displayName": "Product View",
-                    "description": "Potential description for view - Product"
+                    "displayName": "Products",
+                    "description": "Are you looking to build solutions for Microsoft 365 and interested on the different possibilities across the products? Explore our gallery of Microsoft 365 extensibility options, learn how to build engaging solutions and enhance the experience for your users."
                 },
                 "fi": {
                     "displayName": "Tuote",
@@ -109,7 +109,7 @@
             "headerImage": "assets/features.png",
             "displayInfo": {
                 "default": {
-                    "displayName": "Types of apps for Microsoft 365",
+                    "displayName": "Types of apps",
                     "description": "Microsoft 365 supports all kinds of applications. You can connect your existing web- or mobile apps to Microsoft 365 to tap into the data and insights stored in Microsoft 365. You can also choose to extend Microsoft 365 and surface contextually-relevant pieces of your app to where users already are. Ideally, you would combine both to offer your users a rich experience and support them no matter how they work."
                 },
                 "fi": {
@@ -146,7 +146,7 @@
             "displayInfo": {
                 "default": {
                     "displayName": "Scenarios",
-                    "description": "Potential description for view - Scenarios"
+                    "description": "Are you looking to build solutions for Microsoft 365 and interested on the different possibilities across the products? Explore our gallery of Microsoft 365 extensibility options, learn how to build engaging solutions and enhance the experience for your users."
                 },
                 "fi": {
                     "displayName": "Skenaariot",
