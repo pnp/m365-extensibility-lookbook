@@ -57,9 +57,24 @@
             "description": "Extensibility options used in this scenario",
             "items": [
               {
-                "name": "Technology used in scenario",
-                "description": "Potential description on top of the technology",
-                "url": "https://www.bing.com"
+                "name": "Microsoft Teams bots",
+                "description": "Create interactive conversational bots",
+                "url": "ref://../products/microsoft-teams/extensibility-bot"
+              },
+              {
+                "name": "Personal tabs",
+                "description": "Create embedded web experiences for individual users",
+                "url": "ref://../products/microsoft-teams/extensibility-canvas-personal-tab"
+              },
+              {
+                "name": "Task modules",
+                "description": "Collect input with Microsoft Teams",
+                "url": "ref://../products/microsoft-teams/extensibility-task-module"
+              },
+              {
+                "name": "Adaptive Cards",
+                "description": "Integrate Adaptive Cards in your organization's existing applications and future solutions",
+                "url": "ref://../products/microsoft-teams/adaptive-cards"
               }
             ]
           },
@@ -68,10 +83,20 @@
             "description": "Documentation around the used technologies in this scenario",
             "items": [
               {
-                "name": "What are Microsoft Teams custom tabs?",
-                "description": "Potential description for the doc link",
-                "url": "https://docs.microsoft.com/microsoftteams/platform/tabs/what-are-tabs?WT.mc_id=m365-12775-cxa"
-              }           
+                "name": "Microsoft Teams bots",
+                "description": "Create interactive conversational bots",
+                "url": "ref://../product-view/microsoft-teams/extensibility-bot"
+              },
+              {
+                "name": "Personal tabs",
+                "description": "Create embedded web experiences for individual users",
+                "url": "ref://../product-view/microsoft-teams/extensibility-canvas-personal-tab"
+              },            
+              {
+                "name": "Task modules",
+                "description": "Collect input with Microsoft Teams",
+                "url": "ref://../product-view/microsoft-teams/extensibility-task-module"
+              }            
             ]
           },
           {

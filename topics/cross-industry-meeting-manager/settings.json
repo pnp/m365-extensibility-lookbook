@@ -65,9 +65,14 @@
             "description": "Extensibility options used in this scenario",
             "items": [
               {
-                "name": "Technology used in scenario",
-                "description": "Potential description on top of the technology",
-                "url": "https://www.bing.com"
+                "name": "Apps in meetings",
+                "description": "Create embedded web experiences for individual users",
+                "url": "ref://../product-view/microsoft-teams/extensibility-meeting-apps"
+              },              
+              {
+                "name": "Messaging Extensions",
+                "description": "Task-oriented interactions in Microsoft Teams",
+                "url": "ref://../product-view/microsoft-teams/extensibility-messaging-extension"
               }
             ]
           },
@@ -76,10 +81,14 @@
             "description": "Documentation around the used technologies in this scenario",
             "items": [
               {
-                "name": "What are Microsoft Teams custom tabs?",
-                "description": "Potential description for the doc link",
-                "url": "https://docs.microsoft.com/microsoftteams/platform/tabs/what-are-tabs?WT.mc_id=m365-12775-cxa"
-              }           
+                "name": "Apps in meetings",
+                "description": "Create embedded web experiences for individual users",
+                "url": "ref://../product-view/microsoft-teams/extensibility-meeting-apps"
+              },              
+              {
+                "name": "Card refreshes",
+                "url": "https://docs.microsoft.com/en-us/outlook/actionable-messages/adaptive-card#refresh-cards?WT.mc_id=m365-12775-cxa"
+              }        
             ]
           },
           {
