@@ -81,14 +81,13 @@
             "description": "Documentation around the used technologies in this scenario",
             "items": [
               {
-                "name": "Apps in meetings",
-                "description": "Create embedded web experiences for individual users",
-                "url": "ref://../product-view/microsoft-teams/extensibility-meeting-apps"
-              },              
+                "name": "Apps in Meetings",
+                "url": "https://docs.microsoft.com/en-us/microsoftteams/platform/apps-in-teams-meetings/create-apps-for-teams-meetings?tabs=json&WT.mc_id=m365-12775-cxa"
+              }, 
               {
-                "name": "Card refreshes",
-                "url": "https://docs.microsoft.com/en-us/outlook/actionable-messages/adaptive-card#refresh-cards?WT.mc_id=m365-12775-cxa"
-              }        
+                "name": "Messaging Extensions",
+                "url": "https://docs.microsoft.com/en-us/microsoftteams/platform/messaging-extensions/what-are-messaging-extensions?WT.mc_id=m365-12775-cxa"
+              }
             ]
           },
           {
