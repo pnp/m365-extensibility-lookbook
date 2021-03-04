@@ -65,22 +65,22 @@
             "items": [
               {
                 "name": "Documentation: What are task modules?",
-                "description": "Potential description for the doc link",
+                "description": "Learn what are task modules in Microsoft Teams and when you would use them",
                 "url": "https://docs.microsoft.com/microsoftteams/platform/task-modules-and-cards/what-are-task-modules?WT.mc_id=m365-12775-cxa"
               },
               {
-                "name": "Learning path: Collect Input in Microsoft Teams with Task Modules",
-                "description": "Potential description for the doc link",
+                "name": "Learn module: Collect Input in Microsoft Teams with Task Modules",
+                "description": "Learn how to gather information in a Teams-aware popup using task modules",
                 "url": "https://docs.microsoft.com/learn/modules/msteams-task-modules/?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Using task modules from Microsoft Teams bots",
-                "description": "Potential description for the doc link",
+                "description": "Learn how to use task modules from Microsoft Teams bots",
                 "url": "https://docs.microsoft.com/microsoftteams/platform/task-modules-and-cards/task-modules/task-modules-bots?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Using task modules in tabs",
-                "description": "Potential description for the doc link",
+                "description": "Learn how to use task modules in tabs",
                 "url": "https://docs.microsoft.com/microsoftteams/platform/task-modules-and-cards/task-modules/task-modules-tabs?WT.mc_id=m365-12775-cxa"
               }              
             ]

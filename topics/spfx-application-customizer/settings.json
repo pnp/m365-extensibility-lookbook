@@ -56,14 +56,14 @@
                 "url": "https://github.com/pnp/sp-dev-fx-extensions/tree/master/samples/js-application-alert-message"
               },
               {
-                "name": "Sample name 2 with link to GitHub or to Sample gallery when it's available",
-                "description": "Potential description for the sample reference",
-                "url": "https://support.office.com/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
+                "name": "SPFx Toastr Application Customizer",
+                "description": "Sample SharePoint Framework application customizer extension that shows toast notifications configured from a SharePoint list. Demonstrates jQuery module loading, barrel configuration, promise chaining, and localStorage caching.",
+                "url": "https://github.com/pnp/sp-dev-fx-extensions/tree/master/samples/jquery-application-toastr"
               },
               {
-                "name": "Sample name 3 with link to GitHub or to Sample gallery when it's available",
-                "description": "Potential description for the sample reference",
-                "url": "https://support.office.com/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b"
+                "name": "Tenant Global NavBar",
+                "description": "Sample SharePoint Framework application customizer showing how to create a tenant global NavBar and Footer NavBar for modern sites, reading menu items from the Term Store",
+                "url": "https://github.com/pnp/sp-dev-fx-extensions/tree/master/samples/react-application-tenant-global-navbar"
               }
             ]
           },
