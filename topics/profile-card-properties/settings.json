@@ -17,7 +17,7 @@
         "cardPictureAlt": "Profile card properties", 
         "descriptionParagraphs": [
           "On the profile card in Microsoft 365, you can find information about users that is stored and maintained by your organization, for example Job title or Office location.",
-          "Use the <code>profileCardProperty</code> resource to show additional properties from Azure AD on profile cards for an organization"
+          "Use the <code>profileCardProperty</code> resource to show additional properties from Azure AD on profile cards for an organization."
         ],
         "mediaAssets": [
           {

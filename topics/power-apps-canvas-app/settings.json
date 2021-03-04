@@ -11,8 +11,8 @@
       "default": {
         "displayTitle": "Canvas apps",
         "shortDescription": "Design and build a business app from a canvas in Microsoft Power Apps with data from a variety of sources without writing any code using traditional programming languages, such as C#.",
-        "cardPictureUrl": "/assets/card-tab.png", 
-        "cardPictureAlt": "Canvas apps", 
+        "cardPictureUrl": "/assets/card-tab.png",
+        "cardPictureAlt": "Canvas apps",
         "descriptionParagraphs": [
           "Design and build a business app from a canvas in Microsoft Power Apps with data from a variety of sources without writing any code using traditional programming languages, such as C#."
         ],
@@ -50,7 +50,7 @@
               {
                 "name": "Power Apps Gallery Look Book",
                 "description": "Contains 5 different Power Apps Gallery Design Ideas. 5 different gallery layouts styles to choose from.",
-                "url":"https://powerusers.microsoft.com/t5/Community-App-Samples/Power-Apps-Gallery-Look-Book/td-p/791553?WT.mc_id=m365-12775-cxa"
+                "url": "https://powerusers.microsoft.com/t5/Community-App-Samples/Power-Apps-Gallery-Look-Book/td-p/791553?WT.mc_id=m365-12775-cxa"
               },
               {
                 "name": "Branding Template App V2",
@@ -87,12 +87,12 @@
                 "name": "Create a canvas app from a sample in Power Apps",
                 "description": "In this quickstart, you'll create a canvas app from a sample template. Once created, you can explore the app design possibilities, and discover concepts that you can apply as you develop your own canvas apps.",
                 "url": "https://docs.microsoft.com/powerapps/maker/canvas-apps/open-and-run-a-sample-app?WT.mc_id=m365-12775-cxa"
-              }              
+              }
             ]
           },
           {
             "name": "References",
-            "description": "More information about canvas apps in Power Apps",
+            "description": "More information about canvas apps in Power Apps ",
             "items": [
               {
                 "name": "Formula reference for Power Apps",
