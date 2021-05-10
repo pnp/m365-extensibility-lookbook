@@ -18,26 +18,32 @@
         ],
         "mediaAssets": [
           {
+            "type": "video",
+            "order": 101,
+            "url": "https://www.youtube.com/watch?v=MaG3Zz5wPhI",
+            "alt": "Create custom apps with Power Apps"
+          },     
+          {
             "type": "image",
-            "order": 100,
+            "order": 110,
             "url": "/assets/promo-tab.png",
             "alt": "Sample Power Apps canvas app"
           },
           {
             "type": "video",
-            "order": 101,
+            "order": 120,
             "url": "https://youtu.be/iYPDM9_iWjk",
             "alt": "Canvas App Branding Template"
           },
           {
             "type": "video",
-            "order": 102,
+            "order": 130,
             "url": "https://youtu.be/lSYtD5qJzEw",
             "alt": "Power Apps Advanced Components"
           },
           {
             "type": "video",
-            "order": 103,
+            "order": 140,
             "alt": "Tips & Tricks to Power-Up Canvas Apps Designs",
             "url": "https://youtu.be/Z7vOO5rf2to"
           }
