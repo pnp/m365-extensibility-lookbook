@@ -20,26 +20,26 @@
           {
             "type": "video",
             "order": 110,
-            "url": "https://youtu.be/YkPlZXF135s",
+            "url": "https://youtube.com/embed/YkPlZXF135s",
             "alt": "Build a Power Virtual Agents chatbot with Microsoft Teams"
           },
           {
             "type": "video",
             "order": 120,
-            "url": "https://youtu.be/hE8zZIS1Mg0",
+            "url": "https://youtube.com/embed/hE8zZIS1Mg0",
             "alt": "How to share and collaborate on your Power Virtual Agents bots"
           },
           {
             "type": "video",
             "order": 130,
             "alt": "Create a chatbot in Microsoft Teams with Power Virtual Agents",
-            "url": "https://www.youtube.com/watch?v=6jDjMKs4TV4"
+            "url": "https://www.youtube.com/embed/6jDjMKs4TV4"
           },          
           {
             "type": "video",
             "order": 140,
             "alt": "Microsoft Power Virtual Agents 2020 release wave 1 overview",
-            "url": "https://youtu.be/uee8WT7aBqc"
+            "url": "https://youtube.com/embed/uee8WT7aBqc"
           }
         ],
         "detailItemCategories": [
