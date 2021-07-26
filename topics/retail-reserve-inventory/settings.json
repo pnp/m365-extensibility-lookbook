@@ -74,12 +74,12 @@
               {
                 "name": "Microsoft Teams bots",
                 "description": "Create interactive conversational bots",
-                "url": "ref://../product-view/microsoft-teams/extensibility-bot"
+                "url": "ref://../products/microsoft-teams/extensibility-bot"
               },
               {
                 "name": "Task Modules",
                 "description": "Collect input with Microsoft Teams",
-                "url": "ref://../product-view/microsoft-teams/extensibility-task-module"
+                "url": "ref://../products/microsoft-teams/extensibility-task-module"
               }
             ]
           },

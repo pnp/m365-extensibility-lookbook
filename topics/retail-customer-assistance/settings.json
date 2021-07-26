@@ -75,12 +75,12 @@
               {
                 "name": "Messaging Extensions",
                 "description": "Task-oriented interactions in Microsoft Teams",
-                "url": "ref://../product-view/microsoft-teams/extensibility-messaging-extension"
+                "url": "ref://../products/microsoft-teams/extensibility-messaging-extension"
               },
               {
                 "name": "Task Modules",
                 "description": "Collect input with Microsoft Teams",
-                "url": "ref://../product-view/microsoft-teams/extensibility-task-module"
+                "url": "ref://../products/microsoft-teams/extensibility-task-module"
               }
             ]
           },

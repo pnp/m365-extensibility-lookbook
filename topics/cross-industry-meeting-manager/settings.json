@@ -67,12 +67,12 @@
               {
                 "name": "Apps in meetings",
                 "description": "Create embedded web experiences for individual users",
-                "url": "ref://../product-view/microsoft-teams/extensibility-meeting-apps"
+                "url": "ref://../products/microsoft-teams/extensibility-meeting-apps"
               },              
               {
                 "name": "Messaging Extensions",
                 "description": "Task-oriented interactions in Microsoft Teams",
-                "url": "ref://../product-view/microsoft-teams/extensibility-messaging-extension"
+                "url": "ref://../products/microsoft-teams/extensibility-messaging-extension"
               }
             ]
           },

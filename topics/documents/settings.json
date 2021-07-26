@@ -38,12 +38,12 @@
               {
                 "name": "Microsoft Office contextual add-ins",
                 "description": "Interact with contents of messages",
-                "url": "ref://../product-view/microsoft-office/extensibility-office-contextual-addin"
+                "url": "ref://../products/microsoft-office/extensibility-office-contextual-addin"
               },
               {
                 "name": "Microsoft Office content add-ins",
                 "description": "Embed your application in Office documents",
-                "url": "ref://../product-view/microsoft-office/extensibility-office-content-addin"
+                "url": "ref://../products/microsoft-office/extensibility-office-content-addin"
               }
             ]
           }

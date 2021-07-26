@@ -79,17 +79,17 @@
               {
                 "name": "Microsoft Teams bots",
                 "description": "Create interactive conversational bots",
-                "url": "ref://../product-view/microsoft-teams/extensibility-bot"
+                "url": "ref://../products/microsoft-teams/extensibility-bot"
               },
               {
                 "name": "Personal tabs",
                 "description": "Create embedded web experiences for individual users",
-                "url": "ref://../product-view/microsoft-teams/extensibility-canvas-personal-tab"
+                "url": "ref://../products/microsoft-teams/extensibility-canvas-personal-tab"
               },
               {
                 "name": "Task modules",
                 "description": "Collect input with Microsoft Teams",
-                "url": "ref://../product-view/microsoft-teams/extensibility-task-module"
+                "url": "ref://../products/microsoft-teams/extensibility-task-module"
               }   
             ]
           },
