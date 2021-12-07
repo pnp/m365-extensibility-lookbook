@@ -1,0 +1,92 @@
+{
+    "topicId": "extensibility-spfx-adaptive-card-extension",
+    "categories": [
+      "SHAREPOINT",
+      "MODERNPORTALS"
+    ],
+    "sortOrder": 300,
+    "preview": false,
+    "visible": true,
+    "metadata": {
+      "displayInfo": {
+        "default": {
+          "displayTitle": "Adaptive Card Extensions",
+          "shortDescription": "Adding extensibility to modern portals",
+          "cardPictureUrl": "/assets/card-spfx-extension.png", 
+          "cardPictureAlt": "Adaptive Card Extension", 
+          "descriptionParagraphs": [
+           "Adaptive Card Extensions (ACEs) are a new SharePoint Framework component type, which enables developers to build rich, native extensions to Viva Connections' Dashboards and SharePoint Pages. Since Adaptive Card Extensions use Microsoft's Adaptive Card Framework to generate UI with its declarative JSON schema, you only need to focus on your component's business logic and let the SharePoint Framework (SPFx) handle making your component look good and work across all platforms."
+          ],
+          "mediaAssets": [
+            {
+              "type": "image",
+              "order": 100,
+              "url": "/assets/promo-spfx-ace.png",
+              "alt": "Adaptive Card Extension"
+            },
+            {
+              "type": "video",
+              "order": 101,
+              "url": "https://www.youtube.com/embed/DnfRIl2YN8g",
+              "alt": "Build your first SharePoint Framework Extension"
+            },
+            {
+              "type": "video",
+              "order": 102,
+              "url": "https://www.youtube.com/watch?v=KQGsY5fvLaY",
+              "alt": "Getting started on building Microsoft Viva Connection adaptive card components using SPFx"
+            }
+          ],
+          "detailItemCategories": [
+            {
+              "name": "Samples",
+              "description": "Adaptive Card Extensions",
+              "items": [
+                {
+                  "name": "Today's lunch Adaptive Card extension",
+                  "description": "This adaptive card extension sample renders information about Today´s lunch. Data is managed in a SharePoint list with a list item per day of the week.",
+                  "url": "https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/ImageCard-TodaysLunch"
+                },
+                {
+                  "name": "Service health",
+                  "description": "This sample shows how to build an ACE with a card view and multiple quick views to display the status of the affected services in a tenant.",
+                  "url": "https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/PrimaryTextCard-Service-Health"
+                }
+              ]
+            },
+            {
+              "name": "Documentation",
+              "description": "Get started building Adaptive Card Extensions",
+              "items": [
+                {
+                  "name": "Build your first SharePoint Adaptive Card Extension",
+                  "description": "Adaptive Card Extensions (ACEs) are a new SharePoint Framework component type, which enables developers to build rich, native extensions to Viva Connections' Dashboards and SharePoint Pages.",
+                  "url": "https://docs.microsoft.com/en-us/sharepoint/dev/spfx/viva/get-started/build-first-sharepoint-adaptive-card-extension"
+                },
+                {
+                  "name": "Build your first SharePoint Framework Extension",
+                  "description": "SharePoint Framework (SPFx) Extensions are client-side components that run inside the context of a SharePoint page.",
+                  "url": "https://docs.microsoft.com/sharepoint/dev/spfx/extensions/get-started/build-a-hello-world-extension?WT.mc_id=m365-12775-cxa"
+                }
+              ]
+            },
+            {
+              "name": "References",
+              "description": "More information aboutAdaptive Card Extensions (ACEs)",
+              "items": [
+                {
+                  "name": "Tenant-wide Deployment of SharePoint Framework Extensions",
+                  "url":  "https://docs.microsoft.com/sharepoint/dev/spfx/extensions/basics/tenant-wide-deployment-extensions?WT.mc_id=m365-12775-cxa"
+                },
+                {
+                  "name": "Developing a Custom Card Extension using SharePoint Framework",
+                  "url":  "https://www.youtube.com/watch?v=dfXC0AcjZGY"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+  
