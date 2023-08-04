@@ -101,6 +101,20 @@
                             "description": "Power Apps is a suite of apps, services, connectors and data platform that provides a rapid application development environment to build custom apps for your business needs."
                         }
                     }
+                },
+                {
+                    "id": "VIVA",
+                    "sortOrder": 700,                    
+                    "displayInfo": {
+                        "default": {
+                            "displayName": "Microsoft Viva",
+                            "description": "PMicrosoft Viva brings together communications, knowledge, learning, and insights into an integrated employee experience to empower people and teams to be their best from anywhere."
+                        },
+                        "fi": {
+                            "displayName": "Microsoft Viva",
+                            "description": "Power Apps is a suite of apps, services, connectors and data platform that provides a rapid application development environment to build custom apps for your business needs."
+                        }
+                    }
                 }
             ]
         },

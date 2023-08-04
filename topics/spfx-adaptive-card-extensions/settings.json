@@ -2,9 +2,10 @@
     "topicId": "extensibility-spfx-adaptive-card-extension",
     "categories": [
       "SHAREPOINT",
-      "MODERNPORTALS"
+      "MODERNPORTALS",
+      "VIVA"
     ],
-    "sortOrder": 300,
+    "sortOrder": 550,
     "preview": false,
     "visible": true,
     "metadata": {
@@ -27,14 +28,14 @@
             {
               "type": "video",
               "order": 101,
-              "url": "https://www.youtube.com/embed/DnfRIl2YN8g",
-              "alt": "Build your first SharePoint Framework Extension"
+              "url": "https://www.youtube.com/watch?v=plIXeRPR92Y",
+              "alt": "Create Adaptive Card Extensions (ACE) for Microsoft Viva Connections"
             },
             {
               "type": "video",
               "order": 102,
-              "url": "https://www.youtube.com/watch?v=KQGsY5fvLaY",
-              "alt": "Getting started on building Microsoft Viva Connection adaptive card components using SPFx"
+              "url": "https://www.youtube.com/watch?v=P4x2-xd3QbU",
+              "alt": "Viva Connections Actions for media selection and locations"
             }
           ],
           "detailItemCategories": [
@@ -42,6 +43,11 @@
               "name": "Samples",
               "description": "Adaptive Card Extensions",
               "items": [
+                {
+                  "name": "ACE design template gallery",
+                  "description": "Example designs and implementation scenarios for the Viva Connection ACE extensions",
+                  "url": "https://github.com/pnp/spfx-reference-scenarios/tree/main/samples/ace-designtemplate-gallery"
+                },                
                 {
                   "name": "Today's lunch Adaptive Card extension",
                   "description": "This adaptive card extension sample renders information about Today´s lunch. Data is managed in a SharePoint list with a list item per day of the week.",
